@@ -114,7 +114,7 @@ Eine Sprachverwirrung durch die Multilingualität oder gar eine Verzögerung in 
           option_c:
             "sollte im Kindergarten mit der Sprachvermittlung begonnen werden.",
         },
-        correct_option: "B",
+        correct_option: "C",
       },
       {
         id: 4,
@@ -125,7 +125,7 @@ Eine Sprachverwirrung durch die Multilingualität oder gar eine Verzögerung in 
           option_b: "sofern es versteht, wann die Sprachen gewechselt werden.",
           option_c: "wahrscheinlich nicht.",
         },
-        correct_option: "C",
+        correct_option: "A",
       },
       {
         id: 5,
@@ -278,15 +278,15 @@ Eltern sollten darauf achten, dass ihre Kinder regelmäßig essen und trinken. N
   {
     id: 5,
     title: "Wie unsere Kaufentscheidungen beeinflusst werden",
-    text: `Wissenschaftler haben herausgefunden, dass unsere Kaufentscheidungen oft von unbewussten Faktoren beeinflusst werden. So spielt zum Beispiel die Temperatur eine Rolle: In kalten Räumen neigen Menschen eher dazu, romantische Filme zu kaufen. Auch die Reihenfolge von Informationen ist wichtig. 
+    text: `Haben Sie schon einmal darüber nachgedacht, warum Sie manche Dinge kaufen und andere nicht? Warum Sie etwas einkaufen, das Sie gar nicht brauchen, obwohl Sie eigentlich aus einem ganz anderen Grund ins Geschäft gegangen sind? Die Ursache dafür liegt in unserem Körper. Er steuert unsere Entscheidungen viel stärker als bisher gedacht. Neue Forschungen setzen sich mit diesem Zusammenhang zwischen Körper, Kaufverhalten und Umweltbedingungen auseinander.
 
-In einem Experiment wurde untersucht, wie Menschen auf unterschiedliche Preisangaben reagieren. Dabei zeigte sich: Wenn zuerst die Menge und dann der Preis genannt wird, greifen Kunden eher zu. Bei der umgekehrten Reihenfolge waren sie zurückhaltender. 
+Nachdem Forscher Studenten über Filme und ihr Fernsehverhalten befragt hatten, fanden sie Beweise dafür, dass gefühlte Kälte (zum Beispiel im Winter) ein Bedürfnis nach psychologischer Wärme hervorruft. Vorangegangene Studien hatten sich mit der Psychologie der Liebe beschäftigt. Dabei konnte gezeigt werden, dass verliebte Menschen sehr häufig das Gefühl feuchter Hände, gesteigertes Herzklopfen und beschleunigte Atmung wahrnehmen. Das alles sind Anzeichen, die auch mit körperlich erlebter Wärme zusammenhängen. Wenn uns kalt ist, beeinflusst daher unser Bedürfnis nach Wärme zum Beispiel den Kauf von romantischen Filmen auf DVD. Um diesen Zusammenhang zu belegen, manipulierten Forscher in einer Reihe von Experimenten entweder die Temperatur von Tee oder die Raumtemperatur. Kalter Tee oder eine niedrige Raumtemperatur sorgten dafür, dass die Teilnehmer Romantikfilme reizvoller fanden. Dieser Effekt trat unabhängig von Geschlecht und Alter bei allen Menschen auf. Wenn Hersteller also romantische DVDs herausgeben oder Reiseveranstalter "kuschelige Angebote für Zwei" verkaufen wollen, sollten sie damit bis zum Herbst oder Winter warten. Das Bedürfnis der Käufer nach diesen Waren ist dann ungleich größer. Aber wenn die Verkaufsräume eines Kaufhauses kühl klimatisiert sind, werden "wärmende" Angebote wie zum Beispiel Tee auch im Sommer mehr gekauft.
 
-Unser Gehirn verarbeitet Informationen unter Zeitdruck anders. In Stresssituationen konzentrieren wir uns meist auf die erste Information, die wir erhalten. Spätere Informationen werden oft ignoriert. Das nutzen viele Unternehmen aus, indem sie wichtige Informationen an den Anfang stellen. 
+Andere Forschungen befassen sich mit dem Zusammenhang von Menge und Preis. Beim Erstellen von attraktiven Angeboten und Werbeveranstaltungen machen sich regelmäßig Menschen aus unterschiedlichen Bereichen, wie Marketing und Vertrieb, Gedanken über den richtigen Preis und die passenden Werbebotschaften. Bisher wenig beachtet wurde die Reihenfolge der Angabe von Preis und Menge. Neue Studien zeigen, dass Konsumenten auf Angebote extrem unterschiedlich reagieren, je nachdem, ob ihnen bei Sonderangeboten zuerst der Preis oder zuerst die Menge genannt wird.
 
-Auch bei Großpackungen gibt es Tricks: Werden zuerst die enthaltene Stückzahl und dann der Preis genannt, verkaufen sich die Packungen besser. Das liegt daran, dass unser Gehirn die erste Information stärker gewichtet. 
+Eine neue Studie untersuchte nun die Reaktionen der Konsumenten auf genau diese Reihenfolge. Die Information über eine große Menge vor die Preisinformation zu setzen, scheint deutlich reizvoller auf Konsumenten zu wirken, als den Preis vor der Menge zu nennen. Außerdem wurde untersucht, was passiert, wenn die Packungen groß oder klein sind und wenn die Preise pro Stück leicht auszurechnen sind. Wenn die Packung groß und der Stückpreis schwierig auszurechnen ist, zeigen sich die Konsumenten eher bereit, die Packung zu kaufen, wenn zuerst die Menge genannt wird. Außerdem sind sie dann der Meinung, dass ein solches Angebot einen guten Einkauf darstellt. Wenn allerdings der Preis zuerst dargestellt wird oder er ein Vielfaches der Stückzahl ausmacht und somit leicht auszurechnen ist (z. B. 5 DVDs für 50 €), tritt das genaue Gegenteil ein. Dies liegt unter anderem daran, dass das menschliche Gehirn Schwierigkeiten hat, große Zahlen zu verarbeiten. Unter Zeitdruck erscheinen uns dann sogar vermeintlich einfache Berechnungen als schwierig. Dann nutzen wir hauptsächlich die erste Information, die wir wahrnehmen, um so den Kauf und seine Vorteile oder Nachteile für uns zu bewerten.
 
-Diese Erkenntnisse helfen Unternehmen, ihre Produkte besser zu vermarkten. Gleichzeitig sollten Verbraucher sich bewusst machen, wie sie manipuliert werden können.`,
+Als Kunde begegnen wir also großen Packungen, bei denen zuerst die Menge mitgeteilt wird, und glauben, dass dies ein günstiges Angebot ist. Mit dem neuen Wissen über die Forschungsergebnisse sollten wir aber zumindest ab und zu beim Kauf von größeren Packungen innehalten und noch einmal überlegen, ob es sich wirklich um ein gutes Angebot handelt. Aus der Perspektive der Geschäfte muss die Schlussfolgerung allerdings wie folgt lauten: Große Angebote zusammenstellen und erst mit der Menge und dann mit dem Preis werben. Dass diese Strategie funktioniert, lässt sich Tag für Tag im Supermarkt beobachten.`,
     questions: [
       {
         id: 1,
@@ -350,15 +350,15 @@ Diese Erkenntnisse helfen Unternehmen, ihre Produkte besser zu vermarkten. Gleic
   {
     id: 6,
     title: "Geschichte des Hauspersonals",
-    text: `In der Vergangenheit war es üblich, dass junge Mädchen aus bäuerlichen Familien als Dienstmädchen in städtischen Haushalten arbeiteten. Die Eltern schickten ihre Töchter weg, damit sie lernten, einen Haushalt zu führen. Oft waren die Mädchen zwischen 14 und 18 Jahre alt. 
+    text: `Dienstmädchen war um 1900 der am weitesten verbreitete Beruf für Frauen. Aus heutiger Perspektive ist das verwunderlich, denn der Alltag eines Dienstmädchens war sehr hart. Was trieb also Frauen in diesen Beruf? Es waren vor allem Mädchen vom Land, die von ihren Eltern in die Stadt geschickt wurden, um dort zu arbeiten. Auf dem Land gab es kaum Stellen für Mädchen. Als Dienstmädchen, so hofften die Eltern, würden ihre Töchter wenigstens das Hauswirtschaften lernen - eine wichtige Fertigkeit als spätere Haus- und Ehefrau. Dabei war das enge Leben eines Dienstmädchens ohne viel Zeit genau das, was den Eltern gut an diesem Beruf erschien: da die Mädchen oft erst 14 oder 15 Jahre alt waren, waren sie in einer Familie behüteter als beispielsweise in der Fabrik. Allerdings kam es nicht selten vor, dass die Hoffnung auf eine Ausbildung enttäuscht wurde. Viele Mädchen wurden nicht eingearbeitet und angelernt, sondern mussten selber zusehen, wie sie das Arbeitspensum bewältigten.
 
-Die Mädchen fanden ihre Stellen meist selbst. Sie gingen von Haus zu Haus und fragten nach Arbeit. Manchmal halfen auch Bekannte oder Verwandte bei der Stellensuche. Dienstmädchen gab es nicht nur in reichen Haushalten. Auch weniger wohlhabende Familien beschäftigten oft ein Mädchen. 
+Leider verfügten die Eltern meist nicht über Kontakte in der Stadt. Die Mädchen fuhren mit dem Zug in die Fremde und mussten dann auf eigene Faust eine Stellung finden. Das machten sich auch dubiose Stellenvermittler an den Bahnhöfen zunutze und verschafften den Mädchen Stellen in Kneipen als Kellnerinnen - damals eine Arbeit mit sehr schlechtem Ruf. Um diesen Missstand zu beenden, gründeten sich übrigens die Bahnhofsmissionen, die damals konfessionsübergreifend von den katholischen, evangelischen und jüdischen Gemeinden den ankommenden Mädchen erst einmal ein Bett bieten sollten.
 
-Die Arbeitsbedingungen waren hart. Dienstmädchen arbeiteten oft von morgens bis spät in die Nacht. Sie hatten nur sonntags für zwei Stunden frei, um sich mit anderen Dienstmädchen zu treffen. Trotz der langen Arbeitszeiten bekamen sie nur sehr wenig Lohn. Meist erhielten sie nur freie Kost und Logis. 
+Wer etwas auf sich hielt, beschäftigte um 1900 ein Dienstmädchen: sowohl kleinbürgerliche Haushalte als auch großbürgerliche. Die unteren Schichten, also Handwerkerfamilien, eiferten den gehobeneren nach. Nach außen durfte es an nichts fehlen, auch wenn das Budget dafür knapp war. Gespart wurde da, wo es nicht sichtbar war: bei der Unterbringung und Ernährung der Dienstmädchen. In gehobeneren Schichten gab es gerne auch mehr Personal - ein Vorteil und Nachteil zugleich. Einerseits hatte das Dienstmädchen so mehr Gesellschaft und war weniger isoliert, andererseits gab es auch unter den Dienstboten eine Hierarchie und das Dienstmädchen war das unterste Glied.
 
-Viele Dienstmädchen schliefen in der Küche oder in einem kleinen Zimmer unterm Dach. Privatsphäre gab es kaum. Die Mädchen durften das Haus oft nicht alleine verlassen. Selbst der Einkauf wurde von der Hausfrau erledigt. 
+Anders als Fabrikarbeiter hatten Dienstboten keine geregelten Arbeitszeiten. Sie mussten, wenn nötig, ihren Dienstherren rund um die Uhr zur Verfügung stehen. Das Dienstmädchen stand als Erste auf, befeuerte den Ofen, machte das Wasser zum Waschen und fürs Frühstück warm, servierte die Mahlzeiten, räumte wieder ab, spülte und putzte. Das Einkaufen gehörte zu den beliebten Tätigkeiten, denn das erlaubte es den Mädchen, einmal ohne Aufsicht in der Stadt unterwegs zu sein, andere Dienstmädchen zu treffen und sich auszutauschen. Fließendes Wasser gehörte um die Jahrhundertwende nicht zum Standard, so musste das Dienstmädchen auch Wasser schleppen. Erst wenn alle Arbeit erledigt war, konnte das Dienstmädchen schlafen gehen. Die wenige freie Zeit am Abend reichte oft nur, um die eigene Kleidung auszubessern. Alle vierzehn Tage durften die Mädchen sonntags für zwei Stunden das Haus verlassen, das war der einzige Ausgang, den sie hatten.
 
-Erst mit der Industrialisierung änderte sich die Situation. Immer mehr Mädchen gingen in Fabriken arbeiten, wo die Bedingungen oft besser waren.`,
+Der Lohn bestand im Wesentlichen aus Kost und Unterkunft. Etwas zurücklegen für später konnte kaum ein Mädchen. Auch die Unterbringung ließ zu wünschen übrig. Von Berliner Dienstmädchen weiß man, dass sie oft noch nicht einmal eine eigene Kammer hatten, sondern auf so genannten Hängeböden schliefen, eine kleine Fläche von vielleicht mal zwei Metern bei einer Raumhöhe von etwa 1,50 Meter. Wenig Schlaf, und dann auch noch schlechter Schlaf: Vielen Mädchen waren die Strapazen trotz ihres jungen Alters anzusehen. Für die meisten war es nur eine Zwischenstation. Heirateten sie, beendeten die jungen Mädchen dieses Arbeitsverhältnis und stattdessen war die junge Frau selbst Hausfrau und Herrin eines eigenen Haushalts.`,
     questions: [
       {
         id: 1,
@@ -401,7 +401,7 @@ Erst mit der Industrialisierung änderte sich die Situation. Immer mehr Mädchen
             "konnten sich am Sonntag zwei Stunden mit anderen Dienstmädchen treffen.",
           option_c: "durften nicht alleine einkaufen gehen.",
         },
-        correct_option: "B",
+        correct_option: "A",
       },
       {
         id: 5,
@@ -418,13 +418,10 @@ Erst mit der Industrialisierung änderte sich die Situation. Immer mehr Mädchen
   {
     id: 7,
     title: "Wer parkt, muss zahlen - Parkuhren in Deutschland",
-    text: `Die ersten Parkuhren Europas standen in der Schweiz und in Schweden. In Deutschland wurden sie erst später eingeführt. In Duisburg zum Beispiel nutzte man die Einnahmen aus Parkgebühren ursprünglich, um Bedürftige zu unterstützen. 
-
-Die ersten Modelle waren mechanisch und konnten nur Münzen annehmen. Oft gab es Probleme mit den Geräten. Manchmal nahmen sie die Münzen nicht an oder gaben kein Wechselgeld zurück. Heute sind die Parkscheinautomaten viel fortschrittlicher. Sie akzeptieren sowohl Münzen als auch Kartenzahlung und sind benutzerfreundlicher. 
-
-In einigen Städten wie Berlin und Düsseldorf sind die Parkgebühren besonders hoch. Die Einnahmen fließen dort in den Straßenbau und andere städtische Projekte. Gleichzeitig nimmt die Zahl der Parkscheinautomaten in diesen Städten ab. Stattdessen setzt man auf digitale Lösungen wie Park-Apps. 
-
-Trotz aller technischen Fortschritte bleibt das Prinzip gleich: Wer parkt, muss zahlen. Die Parkuhren und Automaten sind aus dem Stadtbild nicht mehr wegzudenken.`,
+    text: `Es geschah am 1. Januar 1954. In Duisburg, einer Großstadt am Rhein zwischen Köln und der niederländischen Grenze am Rande des Ruhrgebiets, gab es für die Autofahrer, die in der Straße "Am Buchenbaum" ihre Autos parken wollten, eine Überraschung. 20 etwa 1,5 Meter hohe Metallstangen mit uhrenförmigen Aufsätzen standen am Straßenrand mit der unmissverständlichen Aufschrift: "Einwurf 10 Pfennig für eine Stunde". Die ersten Parkuhren in Deutschland waren aufgestellt. Nur Basel in der Schweiz und Stockholm in Schweden hatten vor Duisburg Parkuhren installiert, um Dauerparker aus den Stadtzentren zu vertreiben. Das eingenommene Geld wurde in Duisburg anfangs für gemeinnützige Zwecke ausgegeben: für Alte, Kranke, Kriegsversehrte und für elternlose Kinder. Und die Stadtverwaltung war sich sicher, dass die Autofahrer Verständnis für die Parkuhren aufbringen würden, dienten sie doch einem guten Zweck.
+Doch bei den Autofahrern war man nicht so erfreut über diese neuen Apparate. "Groschengrab" wurden sie dann auch bald überall genannt: ein Apparat, in den man Groschen – wie die 10-Pfennig-Stücke damals genannt wurden – hineinwarf. Dieser schluckte zwar gnadenlos Zehner, gab aber zum Verdruss vieler trotzdem oft keine Parkzeit frei. Tat er dies, dann aber in der Regel nur für höchstens 60 Minuten. Viele Autofahrer waren außerdem verärgert, weil sie immer passendes Kleingeld dabei haben mussten. Die ersten Parkuhren konnten nämlich nicht wechseln.
+Wer parkte, ohne zu zahlen, riskierte damals wie heute einen Strafbescheid, liebevoll "Knöllchen" genannt. In allen anderen deutschen Städten erschienen nach und nach auch Parkuhren. Bald gehörten sie zu den Innenstädten wie das Rad zum Auto. Und das blieb so bis zum Ende der 1980er Jahre. Dann geschah so etwas wie eine Parkuhren-Revolution. Die guten, alten Parkuhren, die im Vergleich zu heute immer noch billiges Parken erlaubten, weil sie nicht beliebig oft auf neue Beträge umgestellt werden konnten, wurden mehr und mehr ersetzt durch die gerade neu entwickelten Parkscheinautomaten. Mit Solarenergie angetrieben, computergesteuert und beliebig programmierbar machten sie es nun möglich, ohne technische Beschränkungen die Preise und Zeiten für das Parken flexibel zu gestalten. Von Vorteil ist auch ihre Kundenfreundlichkeit: Die Zeiten, in denen nur Münzen als Zahlungsmittel akzeptiert wurden, sind passé; jetzt schlucken sie auch problemlos Papier- und Plastikgeld – und Wechselgeld wird ausgespuckt.
+Das Parken wurde immer teurer. Und längst dienten die eingenommenen Beträge nicht mehr gemeinnützigen Zwecken. Sie wurden vielmehr als Einnahmequelle für die leeren Stadtkassen entdeckt, die nach immer mehr Geld verlangten. Gut 2 Millionen Euro verdient zum Beispiel Duisburg in einem Jahr an den Parkgebühren. In Köln kommen etwa 10 Millionen Euro im Jahr zusammen. Noch einmal so viel Geld verdienen die Städte an den "Knöllchen" für falsches Parken. Aus 10 Pfennig für eine Stunde im Jahr 1954 – das wären heute etwa 5 Cents – sind inzwischen weit höhere Beträge geworden. Spitzenreiter in Deutschland sind Düsseldorf und Berlin mit mehreren Euro pro Stunde. Tendenz steigend. Doch aus dem Kölner Rathaus heißt es an alle sich beschwerenden Autofahrer gerichtet, das Geld werde selbstverständlich zweckgebunden verwendet: für den Bau neuer Straßen. An denen neue Parkscheinautomaten stehen?`,
     questions: [
       {
         id: 1,
