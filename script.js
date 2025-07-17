@@ -40,12 +40,17 @@ if (!exam) {
 
     if (!allAnswered) return alert("Please answer all questions!");
 
+    let score = 0;
     exam.questions.forEach((q) => {
       const selected = document.querySelector(
         `input[name="q${q.id}"]:checked`
       ).value;
       const correct = q.correct_option.toLowerCase();
       const labels = document.querySelectorAll(`input[name="q${q.id}"]`);
+
+      if (selected === correct) {
+        score++;
+      }
 
       labels.forEach((input) => {
         if (input.value === correct) {
@@ -57,6 +62,18 @@ if (!exam) {
         input.disabled = true;
       });
     });
+
+    // Create and display score element
+    const scoreElement = document.createElement("div");
+    scoreElement.classList.add("score-display");
+    scoreElement.innerHTML = `
+      <h2 style="text-align: center; margin: 20px 0; color: var(--primary)">
+        Your score: ${score}/${exam.questions.length}
+      </h2>
+    `;
+    document
+      .querySelector(".actions")
+      .insertAdjacentElement("beforebegin", scoreElement);
 
     document.getElementById("submit-btn").style.display = "none";
     document.getElementById("results-buttons").style.display = "block";
