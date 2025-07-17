@@ -3,7 +3,7 @@ const examId = parseInt(params.get("id"));
 const exam = teil2Data.find((e) => e.id === examId);
 
 if (!exam) {
-  document.body.innerHTML = "<h2>Exam not found</h2>";
+  document.body.innerHTML = "<h2>Prüfung nicht gefunden</h2>";
 } else {
   document.getElementById("exam-title").textContent = exam.title;
   document.getElementById("exam-text").textContent = exam.text;
@@ -38,7 +38,7 @@ if (!exam) {
       return document.querySelector(`input[name="q${q.id}"]:checked`);
     });
 
-    if (!allAnswered) return alert("Please answer all questions!");
+    if (!allAnswered) return alert("Bitte beantworte alle Fragen!");
 
     let score = 0;
     exam.questions.forEach((q) => {
@@ -63,19 +63,29 @@ if (!exam) {
       });
     });
 
-    // Create and display score element
-    const scoreElement = document.createElement("div");
-    scoreElement.classList.add("score-display");
-    scoreElement.innerHTML = `
-      <h2 style="text-align: center; margin: 20px 0; color: var(--primary)">
-        Your score: ${score}/${exam.questions.length}
-      </h2>
+    // Bewertungsanzeige erstellen
+    const scoreContainer = document.createElement("div");
+    scoreContainer.className = "score-container";
+    scoreContainer.innerHTML = `
+      <div class="score-display">
+        <h2>Dein Ergebnis: ${score}/${exam.questions.length}</h2>
+        <p>${getScoreMessage(score, exam.questions.length)}</p>
+      </div>
     `;
-    document
-      .querySelector(".actions")
-      .insertAdjacentElement("beforebegin", scoreElement);
+
+    // Bewertung oberhalb der Zurück-Schaltfläche einfügen
+    const backBtn = document.querySelector(".back-btn");
+    backBtn.insertAdjacentElement("afterend", scoreContainer);
 
     document.getElementById("submit-btn").style.display = "none";
     document.getElementById("results-buttons").style.display = "block";
   });
+}
+
+function getScoreMessage(score, total) {
+  const percentage = (score / total) * 100;
+  if (percentage >= 80) return "Ausgezeichnet! 🎉";
+  if (percentage >= 60) return "Gut gemacht! 👍";
+  if (percentage >= 40) return "Nicht schlecht! 😊";
+  return "Übe weiter! 💪";
 }
