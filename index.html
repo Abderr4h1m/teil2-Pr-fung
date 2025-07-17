@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Exam List</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        --primary: #ee4b14;
+        --secondary: rgb(240, 163, 62);
+        --dark: rgb(6, 32, 138);
+        --light: rgb(30, 146, 230);
+      }
+
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: "Poppins", sans-serif;
+      }
+
+      body {
+        background-color: #f5f5f5;
+        color: #333;
+        line-height: 1.6;
+        min-height: 100vh;
+      }
+
+      /* Navbar Styles */
+      .navbar {
+        background: linear-gradient(to right, var(--secondary), var(--primary));
+        padding: 1rem 2rem;
+        display: flex;
+        width: 100%;
+        margin: 0 auto;
+        justify-content: center;
+        align-items: center;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+      }
+
+      .navbar img {
+        height: 60px; /* Increased from 40px to 60px */
+        width: auto; /* Maintain aspect ratio */
+        display: block; /* Ensures proper centering */
+        margin: 0 auto; /* Centers the image horizontally */
+      }
+
+      /* Main Content */
+      .container {
+        padding: 2rem;
+        max-width: 1200px;
+        margin: 0 auto;
+      }
+
+      h1.title {
+        color: var(--dark);
+        text-align: center;
+        margin: 2rem 0;
+        font-size: 2.5rem;
+        font-weight: 600;
+      }
+
+      /* Exam List */
+      #exam-list {
+        list-style: none;
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        gap: 20px;
+      }
+
+      #exam-list li {
+        background-color: white;
+        border-radius: 10px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        position: relative;
+        overflow: hidden;
+      }
+
+      #exam-list li::before {
+        content: "";
+        position: absolute;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        width: 8px;
+        background: linear-gradient(
+          to bottom,
+          var(--primary),
+          var(--secondary)
+        );
+      }
+
+      #exam-list li:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+      }
+
+      #exam-list a {
+        display: block;
+        padding: 1.5rem;
+        padding-left: 2rem;
+        text-decoration: none;
+        color: var(--dark);
+        font-size: 1.2rem;
+        font-weight: 500;
+        height: 100%;
+      }
+
+      #exam-list a:hover {
+        color: var(--primary);
+        background-color: rgba(30, 146, 230, 0.05);
+      }
+
+      /* Responsive adjustments */
+      @media (max-width: 768px) {
+        .navbar {
+          padding: 1rem;
+        }
+
+        h1.title {
+          font-size: 2rem;
+        }
+
+        #exam-list {
+          grid-template-columns: 1fr;
+        }
+      }
+
+      @media (max-width: 480px) {
+        .navbar img {
+          height: 30px;
+        }
+
+        .navbar h1 {
+          font-size: 1.2rem;
+        }
+
+        h1.title {
+          font-size: 1.8rem;
+        }
+
+        #exam-list a {
+          padding: 1rem;
+          padding-left: 1.5rem;
+          font-size: 1rem;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <nav class="navbar">
+      <img src="moutamakineLogo.png" alt="Logo" />
+    </nav>
+
+    <div class="container">
+      <h1 class="title">Choose an Exam</h1>
+      <ul id="exam-list"></ul>
+    </div>
+
+    <script src="data.js"></script>
+    <script>
+      const list = document.getElementById("exam-list");
+      teil2Data.forEach((exam) => {
+        const li = document.createElement("li");
+        li.innerHTML = `<a href="exam.html?id=${exam.id}">${exam.title}</a>`;
+        list.appendChild(li);
+      });
+    </script>
+  </body>
+</html>

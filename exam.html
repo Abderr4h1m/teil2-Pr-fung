@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Exam</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        --primary: #ee4b14;
+        --secondary: rgb(240, 163, 62);
+        --dark: rgb(6, 32, 138);
+        --light: rgb(30, 146, 230);
+      }
+
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: "Poppins", sans-serif;
+      }
+
+      body {
+        background-color: #f5f5f5;
+        color: #000; /* Black text */
+        line-height: 1.6;
+      }
+
+      .navbar {
+        background: linear-gradient(to right, var(--secondary), var(--primary));
+        padding: 1rem 2rem;
+        display: flex;
+        width: 100%;
+        margin: 0 auto;
+        justify-content: center;
+        align-items: center;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+      }
+
+      .navbar img {
+        height: 60px; /* Increased from 40px to 60px */
+        width: auto; /* Maintain aspect ratio */
+        display: block; /* Ensures proper centering */
+        margin: 0 auto; /* Centers the image horizontally */
+      }
+
+      .exercise {
+        padding: 2rem;
+        max-width: 800px;
+        margin: 30px auto;
+        background: white;
+        border-radius: 10px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        padding: 2rem;
+      }
+
+      .back-btn {
+        display: inline-block;
+        margin-bottom: 1.5rem;
+        color: var(--dark);
+        text-decoration: none;
+        font-weight: 500;
+        transition: color 0.3s;
+      }
+
+      .back-btn:hover {
+        color: var(--primary);
+      }
+
+      header {
+        margin-bottom: 2rem;
+        padding-bottom: 1rem;
+        border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+      }
+
+      .title-text {
+        color: var(--dark);
+        margin-bottom: 1rem;
+        font-size: 2rem;
+      }
+
+      .text-block {
+        color: #000; /* Black text */
+        margin-bottom: 1rem;
+      }
+
+      .matching-game {
+        margin-bottom: 2rem;
+      }
+
+      .question {
+        margin-bottom: 1.5rem;
+        padding: 1.5rem;
+        background: #fff;
+        border-radius: 8px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+        border-left: 4px solid var(--light);
+      }
+
+      .question h3 {
+        margin-bottom: 1rem;
+        color: #000; /* Black text */
+        font-weight: 500;
+      }
+
+      .question label {
+        display: block;
+        margin-bottom: 0.75rem;
+        padding: 0.5rem;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: background-color 0.2s;
+      }
+
+      .question label:hover {
+        background-color: rgba(30, 146, 230, 0.1);
+      }
+
+      .question input[type="radio"] {
+        margin-right: 10px;
+      }
+
+      .actions {
+        text-align: center;
+        margin-top: 2rem;
+      }
+
+      .submit-btn,
+      .retry-btn {
+        background: linear-gradient(to right, var(--secondary), var(--primary));
+        color: white;
+        border: none;
+        padding: 0.75rem 2rem;
+        border-radius: 50px;
+        font-size: 1rem;
+        font-weight: 500;
+        cursor: pointer;
+        transition: transform 0.2s, box-shadow 0.2s;
+        margin: 0 0.5rem;
+      }
+
+      .submit-btn:hover,
+      .retry-btn:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      }
+
+      .post-results-actions {
+        text-align: center;
+        margin-top: 2rem;
+        display: none;
+      }
+
+      /* Answer feedback styles */
+      .question label[style*="color: green"] {
+        font-weight: bold;
+      }
+
+      /* Responsive adjustments */
+      @media (max-width: 768px) {
+        .exercise {
+          padding: 1.5rem;
+        }
+
+        .title-text {
+          font-size: 1.75rem;
+        }
+      }
+
+      @media (max-width: 480px) {
+        body {
+          padding: 10px;
+        }
+
+        .exercise {
+          padding: 1rem;
+        }
+
+        .title-text {
+          font-size: 1.5rem;
+        }
+
+        .question {
+          padding: 1rem;
+        }
+
+        .submit-btn,
+        .retry-btn {
+          padding: 0.6rem 1.5rem;
+          width: 100%;
+          margin-bottom: 0.5rem;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <nav class="navbar">
+      <img src="moutamakineLogo.png" alt="Logo" />
+    </nav>
+    <div class="exercise">
+      <a href="index.html" class="back-btn">← Back</a>
+
+      <header>
+        <h1 id="exam-title" class="title-text">Exam Title</h1>
+        <div id="exam-text" class="text-block description">
+          Exam Description
+        </div>
+      </header>
+
+      <div id="questions-container" class="matching-game situations-panel">
+        <!-- Questions will be inserted here by script.js -->
+      </div>
+
+      <div class="actions">
+        <button id="submit-btn" class="submit-btn">Submit Answers</button>
+      </div>
+
+      <div
+        id="results-buttons"
+        class="post-results-actions"
+        style="display: none"
+      >
+        <button onclick="location.reload()" class="retry-btn">
+          Repeat This Exam
+        </button>
+        <button onclick="window.location.href='index.html'" class="back-btn">
+          Back to List
+        </button>
+      </div>
+    </div>
+
+    <script src="data.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
