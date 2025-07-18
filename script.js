@@ -3,7 +3,7 @@ const examId = parseInt(params.get("id"));
 const exam = teil2Data.find((e) => e.id === examId);
 
 if (!exam) {
-  document.body.innerHTML = "<h2>Prüfung nicht gefunden</h2>";
+  document.body.innerHTML = "<h2>Exam not found</h2>";
 } else {
   document.getElementById("exam-title").textContent = exam.title;
   document.getElementById("exam-text").textContent = exam.text;
@@ -38,19 +38,16 @@ if (!exam) {
       return document.querySelector(`input[name="q${q.id}"]:checked`);
     });
 
-    if (!allAnswered) return alert("Bitte beantworte alle Fragen!");
+    if (!allAnswered) return alert("Please answer all questions!");
 
-    let score = 0;
+    let correctCount = 0;
+
     exam.questions.forEach((q) => {
       const selected = document.querySelector(
         `input[name="q${q.id}"]:checked`
       ).value;
       const correct = q.correct_option.toLowerCase();
       const labels = document.querySelectorAll(`input[name="q${q.id}"]`);
-
-      if (selected === correct) {
-        score++;
-      }
 
       labels.forEach((input) => {
         if (input.value === correct) {
@@ -61,31 +58,31 @@ if (!exam) {
         }
         input.disabled = true;
       });
+
+      if (selected === correct) correctCount++;
     });
 
-    // Bewertungsanzeige erstellen
+    // Hide submit button
+    document.getElementById("submit-btn").style.display = "none";
+
+    // Show results buttons
+    document.getElementById("results-buttons").style.display = "block";
+
+    // Create and insert score display
     const scoreContainer = document.createElement("div");
     scoreContainer.className = "score-container";
     scoreContainer.innerHTML = `
       <div class="score-display">
-        <h2>Dein Ergebnis: ${score}/${exam.questions.length}</h2>
-        <p>${getScoreMessage(score, exam.questions.length)}</p>
+        <h2>Dein Ergebnis: ${correctCount}/${exam.questions.length}</h2>
+        <p>${
+          correctCount >= exam.questions.length / 2
+            ? "Gut gemacht! 👍"
+            : "Du kannst es besser machen! 💪"
+        }</p>
       </div>
     `;
 
-    // Bewertung oberhalb der Zurück-Schaltfläche einfügen
-    const backBtn = document.querySelector(".back-btn");
-    backBtn.insertAdjacentElement("afterend", scoreContainer);
-
-    document.getElementById("submit-btn").style.display = "none";
-    document.getElementById("results-buttons").style.display = "block";
+    const resultButtons = document.getElementById("results-buttons");
+    resultButtons.parentNode.insertBefore(scoreContainer, resultButtons);
   });
-}
-
-function getScoreMessage(score, total) {
-  const percentage = (score / total) * 100;
-  if (percentage >= 80) return "Ausgezeichnet! 🎉";
-  if (percentage >= 60) return "Gut gemacht! 👍";
-  if (percentage >= 40) return "Nicht schlecht! 😊";
-  return "Übe weiter! 💪";
 }
