@@ -1,0 +1,63 @@
+{
+    id: 9,
+    title: "",
+    text: `Der Nebenjob als Kellner ist bei Studenten nach wie vor beliebt. Die Arbeit lässt sich gut mit dem Studium vereinbaren und bietet flexible Arbeitszeiten. Allerdings ist die Bezahlung oft nicht besonders gut. Viele Kellner sind auf das Trinkgeld angewiesen. 
+
+Wer als Kellner arbeitet, sollte stressresistent sein. Es kommt häufig vor, dass Geste ungeduldig werden oder sich beschweren. Ein guter Kellner lässt sich davon nicht aus der Ruhe bringen. Bei Problemen muss er zwischen Gast und Küche vermitteln. 
+
+Jan (22) hat früher als Kellner gearbeitet, ist jetzt aber lieber Fahrradkurier. "Ich bin viel an der frischen Luft und kann mir meine Zeit einteilen", sagt er. Der Verdienst ist ähnlich wie beim Kellnern, aber die Arbeit macht ihm mehr Spaß. "Außerdem spare ich mir das Fitnessstudio", lacht er. 
+
+SSpaß", sagt sie.`,
+    questions: [
+      {
+        id: 1,
+        question_text: "",
+        option: {
+          option_a: "",
+          option_b: "",
+          option_c: "",
+        },
+        correct_option: "",
+      },
+      {
+        id: 2,
+        question_text: "",
+        option: {
+          option_a: "",
+          option_b: "",
+          option_c: "",
+        },
+        correct_option: "",
+      },
+      {
+        id: 3,
+        question_text: "",
+        option: {
+          option_a: "",
+          option_b: "",
+          option_c: "",
+        },
+        correct_option: "",
+      },
+      {
+        id: 4,
+        question_text: "",
+        option: {
+          option_a: "",
+          option_b: "",
+          option_c: "",
+        },
+        correct_option: "",
+      },
+      {
+        id: 5,
+        question_text: "",
+        option: {
+          option_a: "",
+          option_b: "",
+          option_c: "",
+        },
+        correct_option: "",
+      },
+    ],
+  },

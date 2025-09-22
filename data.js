@@ -611,4 +611,179 @@ Stefanie (21) jobbt als Testkäuferin. Sie überprüft für Unternehmen, ob die 
       },
     ],
   },
+  {
+    id: 10,
+    title: "Krista, der tierische Star ",
+    text: `Krista ist die schönste Kuh Deutschlands. Und jetzt auch noch ein Kinostar. Am letzten Donnerstag kam ein Film über die schwarz-weiß gefleckte Kuh und ihre Besitzer in einige norddeutsche Kinos. Wovon der Film handelt? Von Kristas Leben auf dem Hof der Familie Seeger in Bissel, einem kleinen Dorf in Norddeutschland.
+
+Antje Schneider und Carsten Waldbauer sind Filmemacher. Vor einigen Jahren hatten sie die Idee, eine Dokumentation über Kühe zu machen, genauer gesagt über Holstein-Rinder. Die Holstein-Rinder sind eine der wichtigsten Rinderrassen weltweit, kommen aber trotz des deutschen Namens aus Nordamerika. Diese Kühe werden überwiegend als Milchvieh gehalten. Die Holstein-Rinder sind so verbreitet, dass sie inzwischen andere Rassen fast vollständig verdrängt haben.
+
+Das gilt vor allem für die vielen Bauernhöfe in Deutschland, die ausschließlich Milch produzieren. Auf einem dieser Höfe wollten Antje Schneider und Carsten Waldbauer Aufnahmen für ihre Dokumentation machen, und die Wahl fiel auf den Hof der Familie Seeger. Doch als die beiden Filmemacher mit den Dreharbeiten beginnen wollten, sahen sie plötzlich - Krista. Krista änderte alles. Die Schönheit vom Lande beeindruckte Schneider und Waldbauer so sehr, dass sie den Plan für ihre Dokumentation gegen den Willen ihres Senders komplett änderten. Im Mittelpunkt sollte nun Krista stehen, die schönste Holstein-Kuh Deutschlands.
+
+Krista gehört zur Weltelite. Auf Veranstaltungen wird sie immer wieder ausgezeichnet. Bei einer Tierschau in Italien erhielt sie zwar nicht den ersten Preis, aber trotzdem war sie unter den schönsten Kühen Europas. Kristas Besitzer Jörg Seeger ist begeistert von seinem Star im Stall.
+
+Jörg und Janine Seeger erlauben dem Kinozuschauer interessante Einblicke in ihren Alltag auf dem Bauernhof. Die Kamera verfolgt zwar immer den Weg von Kuh Krista, aber zu sehen ist dabei natürlich auch die Arbeit der gesamten Familie auf dem Hof. Manchmal ist das auch ein romantisches Leben, es ist aber vor allem immer sehr arbeitsreich.
+
+”Für mich sind Kühe nicht nur Nutztiere”, sagt die Bäuerin Janine Seeger. Schon als Kind hätten ihr die Tiere Geborgenheit, manchmal Trost gespendet. Aber sie weiß, dass die Kühe Geld bringen müssen, entweder durch möglichst viel Milch oder durch viel Nachwuchs. Die kleinen Kälber lassen sich zu recht guten Preisen verkaufen, das lohnt sich für die Seegers.
+
+Krista kann zunächst aus gesundheitlichen Gründen keine Kälber bekommen. Auch diese Problematik wird im Film gezeigt. Der Zuschauer merkt, dass Jörg Seeger enttäuscht ist: Seine beste Kuh kann kein Kalb bekommen. Aber es geht gut aus, denn Krista wird operiert und nach Ende der Dreharbeiten klappt es dann doch mit dem Nachwuchs für die Kuh.
+
+Während der jahrelangen Dreharbeiten hat sich auch die Familie entwickelt. Mittlerweile haben die Seegers zwei Kinder. ”Deshalb verändert sich im Film mein Gewicht etwas”, erzählt Janine Seeger und lacht. Und wie ist es so, vor der Kamera zu stehen? ”Erst ungewohnt, dann irgendwie vertraut”, sagt die 32-Jährige. Zu den Filmemachern hat sich ein freundschaftliches Verhältnis entwickelt. ”Wie schön, Carsten und Antje sind wieder da”, hat es dann nur noch geheißen, wenn das Team anrückte.
+
+Der Film zeigt aber auch, wie sich im Laufe der Jahre das Leben auf dem Hof der Seegers verändert hat und wie schwierig es auch hier geworden ist, mit Milchkühen Geld zu verdienen. Der Markt ist hart umkämpft und die Preise sinken immer weiter, denn die Verbraucher im Supermarkt greifen gerne zum günstigsten Produkt. Für viele ist es da nicht wichtig, wie die Milch produziert wurde. Auch das zeigt der Film, wenngleich eher nebenbei.
+
+Familie Seeger ist stolz darauf, dass ein Film über ihren Hof und über die schöne Kuh Krista gedreht wurde. So heißt nun übrigens auch der Film: ”Die schöne Krista”. Am vergangenen Wochenende haben die Seegers den Film bei einem Hoffest gezeigt. Familie und Freunde sowie Nachbarn waren zu Gast, und alle haben sich über den Film gefreut.
+
+”Die schöne Krista” ist auch in die Auswahl für den Deutschen Filmpreis gekommen, als einer der fünfzehn besten Dokumentarfilme. Die 500 Filmkritiker, die diese 15 Filme ausgewählt haben, waren begeistert. Schwieriger sei es, so die Produktionsfirma, die Kinobetreiber vom Film zu überzeugen. ”Was sollen wir mit einer Kuh?”, sei eine häufige Reaktion. Vielleicht würden sie ihre Meinung ändern, wenn sie Krista einmal auf dem Hof gesehen hätten.`,
+    questions: [
+      {
+        id: 1,
+        question_text: "Holstein-Rinder",
+        option: {
+          option_a:
+            "sind in der Milchproduktion beliebter als andere Rinderrassen.",
+          option_b: "spielen in der Milchproduktion kaum eine Rolle.",
+          option_c: "stammen aus Norddeutschland.",
+        },
+        correct_option: "A",
+      },
+      {
+        id: 2,
+        question_text: "Die Kuh Krista",
+        option: {
+          option_a: "hat bereits einige Preise gewonnen.",
+          option_b: "war Siegerin bei einer Veranstaltung in Italien.",
+          option_c: "wurde als schönste Kuh Europas ausgezeichnet.",
+        },
+        correct_option: "A",
+      },
+      {
+        id: 3,
+        question_text: "Während der Filmaufnahmen",
+        option: {
+          option_a: "bekam Krista ein Kalb.",
+          option_b: "wäre Krista fast gestorben.",
+          option_c: "wurde Krista operiert.",
+        },
+        correct_option: "A",
+      },
+      {
+        id: 4,
+        question_text: "Die wirtschaftlichen Probleme von Milchbetrieben",
+        option: {
+          option_a: "betreffen die Familie Seeger nicht.",
+          option_b: "sind eine Folge des Verbraucherverhaltens.",
+          option_c: "werden im Film ausführlich behandelt.",
+        },
+        correct_option: "A",
+      },
+      {
+        id: 5,
+        question_text: "Die schöne Krista",
+        option: {
+          option_a: "A begeistert Kinobetreiber bislang nicht.",
+          option_b: "könnte die Kritiker nicht überzeugen.",
+          option_c: "wurde als beste Dokumentation ausgezeichnet.",
+        },
+        correct_option: "A",
+      },
+    ],
+  },
+  {
+    id: 11,
+    title: "Geschichte des Hauspersonals",
+    text: `Dienstmädchen war um 1900 der am weitesten verbreitete Beruf für Frauen. Aus heutiger Perspektive ist
+das verwunderlich, denn der Alltag eines Dienstmädchens war sehr hart. Was trieb also Frauen in diesen
+Beruf?
+Es waren vor allem Mädchen vom Land, die von ihren Eltern in die Stadt geschickt wurden, um dort zu
+arbeiten. Auf dem Land gab es kaum Stellen für Mädchen. Als Dienstmädchen, so hofften die Eltern,
+würden ihre Töchter wenigstens das Hauswirtschaften lernen - eine wichtige Fertigkeit als spätere Haus -
+und Ehefrau. Dabei war das strenge Leben eines Dienstmädchens ohne viel Zeit genau das, was den Eltern
+gut an diesem Beruf erschien: Da die Mädchen oft erst 14 oder 15 Jahre alt waren, waren sie in einer
+Familie behüteter als beispielsweise in der Fabrik. Allerdings kam es nicht selten vor, dass die Hoffnung auf
+eine Ausbildung enttäuscht wurde. Viele Mädchen wurden nicht eingearbeitet und angelernt, sondern
+mussten selber zusehen, wie sie das Arbeitspensum bewältigten.
+Leider verfügten die Eltern meist nicht über Kontakte in der Stadt. Die Mädchen fuhren mit dem Zug in die
+Fremde und mussten dann auf eigene Faust eine Stellung finden. Das machten sich auch dubiose Stellenvermittler an den Bahnöfen zu Nutze und verschafften den Mädchen Stellen in Kneipen als Kellnerinnen -
+damals eine Arbeit mit sehr schlechtem Ruf. Um diesen Missstand zu beenden, gründeten sich übrigens
+die Bahnhofsmissionen, die damals konfessionsübergreifend von den katholischen, evangelischen und
+jüdischen Gemeinden den ankommenden Mädchen erst einmal ein Bett bieten sollten.
+Wer etwas auf sich hielt, beschäftigte um 1900 ein Dienstmädchen: sowohl kleinbürgerliche Haushalte als
+auch großbürgerliche. Die unteren Schichten, also Handwerkerfamilien, eiferten den gehobeneren nach.
+Nach außen durfte es an nichts fehlen, auch wenn das Budget dafür knapp war. Gespart wurde da, wo es
+nicht sichtbar war: bei der Unterbringung und Ernährung der Dienstmädchen. In gehobeneren Schichten
+gab es gerne auch mehr Personal - ein Vorteil und Nachteil zugleich. Einerseits hatte das Dienstmädchen
+so mehr Gesellschaft und war weniger isoliert, anderseits gab es auch unter den Dienstboten ein Hierarchie und das Dienstmädchen war das unterste Glied.
+Anders als Fabrikarbeiter hatten Dienstboten keine geregelte Arbeitszeiten. Sie mussten, wenn nötig, ihren
+Dienstherren rund um die Uhr zur Verfügung stehen. Das Dienstmädchen stand als Erste auf, befeuerte
+den Ofen, machte das Wasser zum Waschen und fürs Frühstück warm, servierte die Mahlzeiten, räumte
+wieder ab, spülte und putzte. Das Einkaufen gehörte zu den beliebten Tätigkeiten, denn das erlaubte es
+den Mädchen, einmal ohne Aufsicht in der Stadt unterwegs zu sein, andere Dienstmädchen zu treffen und
+sich auszutauschen. Fließendes Wasser gehörte um die Jahrhundertwende nicht zum Standard, so musste
+das Dienstmädchen auch Wasser schleppen. Erst wenn alle Arbeit erledigt war, konnte das Dienstmädchen
+schlafen gehen. Die wenige freie Zeit am Abend reichte oft nur, um die eigene Kleidung auszubessern. Alle
+vierzehn Tage durften die Mädchen sonntags für zwei Stunden das Haus verlassen, das war der einzige
+Ausgang, den sie hatten.
+Der Lohn bestand im Wesentlichen aus Kost und Unterkunft. Etwas zurücklegen für später konnte kaum
+ein Mädchen. Auch die Unterbringung ließ zu wünschen übrig. Von Berliner Dienstmädchen weiß man,
+dass sie oft noch nicht einmal eine eigene Kammer hatten, sondern auf so genannten Hängeböden schliefen, eine kleine Fläche von vielleicht mal zwei Metern bei einer Raumhöhe von etwa 1,50 Meter. Wenig
+Schlaf, und dann auch noch schlechter Schlaf: Vielen Mädchen waren die Strapazen trotz ihres jungen
+Alters anzusehen. Für die meisten war es nur eine Zwischenstation. Heirateten sie, beendeten die jungen
+Mädchen dieses Arbeitsverhältnis und stattdessen war die junge Frau selbser Hausfrau und Herrin eines
+eigenen Haushalts`,
+    questions: [
+      {
+        id: 1,
+        question_text:
+          "Die Eltern ließen ihre Töchter als Dienstmädchen arbeiten, ...",
+        option: {
+          option_a:
+            "damit sie die Jahre bis zur Arbeit in der Fabrik überbrücken konnten.",
+          option_b: "damit sie besser beaufsichtigt waren als zu Hause.",
+          option_c: "damit sie lernten, einen Haushalt zu führen.",
+        },
+        correct_option: "",
+      },
+      {
+        id: 2,
+        question_text: "Die Stellen fanden die Mädchen zumeist ...",
+        option: {
+          option_a: "durch Vermittler, die ins Dorf kamen",
+          option_b: "alleine.",
+          option_c: "mit Hilfe ihrer Eltern.",
+        },
+        correct_option: "A",
+      },
+      {
+        id: 3,
+        question_text: "Während der Filmaufnahmen",
+        option: {
+          option_a: "bekam Krista ein Kalb.",
+          option_b: "wäre Krista fast gestorben.",
+          option_c: "wurde Krista operiert.",
+        },
+        correct_option: "A",
+      },
+      {
+        id: 4,
+        question_text: "Die wirtschaftlichen Probleme von Milchbetrieben",
+        option: {
+          option_a: "betreffen die Familie Seeger nicht.",
+          option_b: "sind eine Folge des Verbraucherverhaltens.",
+          option_c: "werden im Film ausführlich behandelt.",
+        },
+        correct_option: "A",
+      },
+      {
+        id: 5,
+        question_text: "Die schöne Krista",
+        option: {
+          option_a: "A begeistert Kinobetreiber bislang nicht.",
+          option_b: "könnte die Kritiker nicht überzeugen.",
+          option_c: "wurde als beste Dokumentation ausgezeichnet.",
+        },
+        correct_option: "A",
+      },
+    ],
+  },
 ];
