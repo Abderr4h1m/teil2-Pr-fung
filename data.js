@@ -143,13 +143,13 @@ Eine Sprachverwirrung durch die Multilingualität oder gar eine Verzögerung in 
   {
     id: 3,
     title: "Brigitte Vollmer",
-    text: `Brigitte Vollmer (64) ist seit 40 Jahren Lehrerin. Jetzt geht sie in den Ruhestand. Doch kurz vor ihrem Abschied aus dem Schuldienst hat sie noch eine besondere Auszeichnung erhalten: den Deutschen Lehrerpreis. Mit diesem Preis werden jedes Jahr besonders engagierte Lehrerinnen und Lehrer geehrt. Brigitte Vollmer hat ihn für ihr langjähriges Engagement in der MINT-Förderung bekommen. MINT steht für Mathematik, Informatik, Naturwissenschaften und Technik. 
+    text: `Brigitte Vollmer (64) ist seit 40 Jahren Lehrerin. Jetzt geht sie in den Ruhestand. Doch kurz vor ihrem Abschied aus dem Schuldienst hat sie noch eine besondere Auszeichnung erhalten: den Deutschen Lehrerpreis. Mit diesem Preis werden jedes Jahr besonders engagierte Lehrerinnen und Lehrer geehrt. Brigitte Vollmer hat ihn für ihr langjähriges Engagement in der MINT-Förderung bekommen. MINT steht für Mathematik, Informatik, Naturwissenschaften und Technik.
 
-Brigitte Vollmer wusste schon früh, dass sie Lehrerin werden wollte. "Ich habe mich schon als Kind für Naturwissenschaften interessiert", erzählt sie. Ihre Eltern waren zunächst skeptisch. Sie befürchteten, dass ihre Tochter als Lehrerin nicht genug verdienen würde. Doch Brigitte ließ sich nicht beirren. Sie studierte Mathematik und Physik und trat nach dem Referendariat ihre erste Stelle an einer Gesamtschule an. 
+Brigitte Vollmer wusste schon früh, dass sie Lehrerin werden wollte. "Ich habe mich schon als Kind für Naturwissenschaften interessiert", erzählt sie. Ihre Eltern waren zunächst skeptisch. Sie befürchteten, dass ihre Tochter als Lehrerin nicht genug verdienen würde. Doch Brigitte ließ sich nicht beirren. Sie studierte Mathematik und Physik und trat nach dem Referendariat ihre erste Stelle an einer Gesamtschule an.
 
-Anfangs hatte sie Bedenken, ob sie den Herausforderungen des Lehrerberufs gewachsen sein würde. "Ich hatte Angst, dass die Schüler nicht auf mich hören würden", gesteht sie. Doch diese Sorgen erwiesen sich als unbegründet. Brigitte Vollmer fand schnell Zugang zu ihren Schülern und konnte sie für ihre Fächer begeistern. 
+Anfangs hatte sie Bedenken, ob sie den Herausforderungen des Lehrerberufs gewachsen sein würde. "Ich hatte Angst, dass die Schüler nicht auf mich hören würden", gesteht sie. Doch diese Sorgen erwiesen sich als unbegründet. Brigitte Vollmer fand schnell Zugang zu ihren Schülern und konnte sie für ihre Fächer begeistern.
 
-Die Idee, sich für den Deutschen Lehrerpreis zu bewerben, kam von ihren Schülern. Sie hatten mit Brigitte Vollmer an einem besonderen Projekt gearbeitet: einem mathematischen Wettbewerb, bei dem sie einen Preis gewonnen hatten. "Frau Vollmer hat uns immer unterstützt und motiviert", sagt einer ihrer Schüler. "Wir wollten ihr damit Danke sagen." 
+Die Idee, sich für den Deutschen Lehrerpreis zu bewerben, kam von ihren Schülern. Sie hatten mit Brigitte Vollmer an einem besonderen Projekt gearbeitet: einem mathematischen Wettbewerb, bei dem sie einen Preis gewonnen hatten. "Frau Vollmer hat uns immer unterstützt und motiviert", sagt einer ihrer Schüler. "Wir wollten ihr damit Danke sagen."
 
 Jetzt freut sich Brigitte Vollmer auf den Ruhestand. "Ich werde reisen und endlich mehr Zeit für meine Hobbys haben", sagt sie. Aber ganz von der Schule wird sie sich wohl nicht verabschieden. "Vielleicht engagiere ich mich ja ehrenamtlich in der MINT-Förderung", überlegt sie.`,
     questions: [
@@ -212,13 +212,13 @@ Jetzt freut sich Brigitte Vollmer auf den Ruhestand. "Ich werde reisen und endli
   {
     id: 4,
     title: "Gesundes Essen für Schulkinder",
-    text: `Viele Kinder gehen ohne Frühstück aus dem Haus. Die Gründe dafür sind unterschiedlich: Manche Eltern haben morgens keine Zeit, anderen fehlt selbst der Appetit. Dabei ist ein gesundes Frühstück wichtig für die Konzentration und Leistungsfähigkeit in der Schule. 
+    text: `Viele Kinder gehen ohne Frühstück aus dem Haus. Die Gründe dafür sind unterschiedlich: Manche Eltern haben morgens keine Zeit, anderen fehlt selbst der Appetit. Dabei ist ein gesundes Frühstück wichtig für die Konzentration und Leistungsfähigkeit in der Schule.
 
-Ein ideales Schulbrot besteht aus Vollkornbrot, Käse oder magerer Wurst und Gemüsestreifen. Dazu gehört ein ungesüßtes Getränk wie Wasser oder Tee. Milch ist zwar gesund, sollte aber nicht als Durstlöscher dienen. In vielen Schulen gibt es mittlerweile ein Frühstücksangebot. Die Kinder können dort gemeinsam in Ruhe frühstücken. 
+Ein ideales Schulbrot besteht aus Vollkornbrot, Käse oder magerer Wurst und Gemüsestreifen. Dazu gehört ein ungesüßtes Getränk wie Wasser oder Tee. Milch ist zwar gesund, sollte aber nicht als Durstlöscher dienen. In vielen Schulen gibt es mittlerweile ein Frühstücksangebot. Die Kinder können dort gemeinsam in Ruhe frühstücken.
 
-Auch das Trinken darf nicht vergessen werden. Kinder denken oft nicht daran, genug zu trinken. Dabei ist Flüssigkeit wichtig für das Gehirn. In vielen Schulen ist es mittlerweile erlaubt, während des Unterrichts zu trinken. Ideal sind Wasser oder ungesüßte Tees. 
+Auch das Trinken darf nicht vergessen werden. Kinder denken oft nicht daran, genug zu trinken. Dabei ist Flüssigkeit wichtig für das Gehirn. In vielen Schulen ist es mittlerweile erlaubt, während des Unterrichts zu trinken. Ideal sind Wasser oder ungesüßte Tees.
 
-Das Mittagessen sollte möglichst in der Schule eingenommen werden. Viele Schulen bieten mittlerweile ein warmes Mittagessen an. Es sollte ausgewogen sein und Gemüse enthalten. Wenn Kinder ihr Essen von zu Hause mitbringen, sollte es in einer Dose verpackt sein, damit es frisch bleibt. 
+Das Mittagessen sollte möglichst in der Schule eingenommen werden. Viele Schulen bieten mittlerweile ein warmes Mittagessen an. Es sollte ausgewogen sein und Gemüse enthalten. Wenn Kinder ihr Essen von zu Hause mitbringen, sollte es in einer Dose verpackt sein, damit es frisch bleibt.
 
 Eltern sollten darauf achten, dass ihre Kinder regelmäßig essen und trinken. Nur so können sie in der Schule gute Leistungen erbringen.`,
     questions: [
@@ -479,11 +479,11 @@ Das Parken wurde immer teurer. Und längst dienten die eingenommenen Beträge ni
   {
     id: 8,
     title: "Großraumbüros",
-    text: `Großraumbüros sind in vielen Unternehmen beliebt, weil sie kostengünstiger sind als Einzelbüros. Eine Studie aus der Schweiz zeigt jedoch, dass viele Mitarbeiter sich über die Lärmbelastung in Großraumbüros beschweren. 
+    text: `Großraumbüros sind in vielen Unternehmen beliebt, weil sie kostengünstiger sind als Einzelbüros. Eine Studie aus der Schweiz zeigt jedoch, dass viele Mitarbeiter sich über die Lärmbelastung in Großraumbüros beschweren.
 
-Die Vorteile von Großraumbüros liegen auf der Hand: Sie sind günstiger zu beheizen und ermöglichen eine bessere Kommunikation unter den Kollegen. Allerdings leiden viele Angestellte unter der ständigen Geräuschkulisse. Deutsche Angestellte bevorzugen laut Umfragen meist Einzelbüros oder kleine Teamräume. 
+Die Vorteile von Großraumbüros liegen auf der Hand: Sie sind günstiger zu beheizen und ermöglichen eine bessere Kommunikation unter den Kollegen. Allerdings leiden viele Angestellte unter der ständigen Geräuschkulisse. Deutsche Angestellte bevorzugen laut Umfragen meist Einzelbüros oder kleine Teamräume.
 
-In London ist die Situation anders. Dort teilen sich oft mehrere Mitarbeiter einen Arbeitsplatz. Die Fläche pro Person ist deutlich kleiner als in deutschen Büros. Großraumbüros findet man vor allem in Banken und Telekommunikationsunternehmen. 
+In London ist die Situation anders. Dort teilen sich oft mehrere Mitarbeiter einen Arbeitsplatz. Die Fläche pro Person ist deutlich kleiner als in deutschen Büros. Großraumbüros findet man vor allem in Banken und Telekommunikationsunternehmen.
 
 Trotz aller Kritik werden Großraumbüros wohl nicht so schnell verschwinden. Viele Unternehmen setzen weiterhin auf diese Büroform, weil sie flexibel und kostensparend ist.`,
     questions: [
@@ -548,11 +548,11 @@ Trotz aller Kritik werden Großraumbüros wohl nicht so schnell verschwinden. Vi
   {
     id: 9,
     title: "Noch ein Wasser, bitte!",
-    text: `Der Nebenjob als Kellner ist bei Studenten nach wie vor beliebt. Die Arbeit lässt sich gut mit dem Studium vereinbaren und bietet flexible Arbeitszeiten. Allerdings ist die Bezahlung oft nicht besonders gut. Viele Kellner sind auf das Trinkgeld angewiesen. 
+    text: `Der Nebenjob als Kellner ist bei Studenten nach wie vor beliebt. Die Arbeit lässt sich gut mit dem Studium vereinbaren und bietet flexible Arbeitszeiten. Allerdings ist die Bezahlung oft nicht besonders gut. Viele Kellner sind auf das Trinkgeld angewiesen.
 
-Wer als Kellner arbeitet, sollte stressresistent sein. Es kommt häufig vor, dass Geste ungeduldig werden oder sich beschweren. Ein guter Kellner lässt sich davon nicht aus der Ruhe bringen. Bei Problemen muss er zwischen Gast und Küche vermitteln. 
+Wer als Kellner arbeitet, sollte stressresistent sein. Es kommt häufig vor, dass Geste ungeduldig werden oder sich beschweren. Ein guter Kellner lässt sich davon nicht aus der Ruhe bringen. Bei Problemen muss er zwischen Gast und Küche vermitteln.
 
-Jan (22) hat früher als Kellner gearbeitet, ist jetzt aber lieber Fahrradkurier. "Ich bin viel an der frischen Luft und kann mir meine Zeit einteilen", sagt er. Der Verdienst ist ähnlich wie beim Kellnern, aber die Arbeit macht ihm mehr Spaß. "Außerdem spare ich mir das Fitnessstudio", lacht er. 
+Jan (22) hat früher als Kellner gearbeitet, ist jetzt aber lieber Fahrradkurier. "Ich bin viel an der frischen Luft und kann mir meine Zeit einteilen", sagt er. Der Verdienst ist ähnlich wie beim Kellnern, aber die Arbeit macht ihm mehr Spaß. "Außerdem spare ich mir das Fitnessstudio", lacht er.
 
 Stefanie (21) jobbt als Testkäuferin. Sie überprüft für Unternehmen, ob die Verkäufer freundlich sind und alle Regeln einhalten. Dabei muss sie sich genau an vorgegebene Abläufe halten. "Manchmal ist es stressig, aber es macht auch Spaß", sagt sie.`,
     questions: [
@@ -665,7 +665,7 @@ Familie Seeger ist stolz darauf, dass ein Film über ihren Hof und über die sch
           option_b: "wäre Krista fast gestorben.",
           option_c: "wurde Krista operiert.",
         },
-        correct_option: "A",
+        correct_option: "C",
       },
       {
         id: 4,
@@ -675,7 +675,7 @@ Familie Seeger ist stolz darauf, dass ein Film über ihren Hof und über die sch
           option_b: "sind eine Folge des Verbraucherverhaltens.",
           option_c: "werden im Film ausführlich behandelt.",
         },
-        correct_option: "A",
+        correct_option: "B",
       },
       {
         id: 5,
@@ -742,7 +742,7 @@ eigenen Haushalts`,
           option_b: "damit sie besser beaufsichtigt waren als zu Hause.",
           option_c: "damit sie lernten, einen Haushalt zu führen.",
         },
-        correct_option: "",
+        correct_option: "C",
       },
       {
         id: 2,
@@ -752,37 +752,321 @@ eigenen Haushalts`,
           option_b: "alleine.",
           option_c: "mit Hilfe ihrer Eltern.",
         },
-        correct_option: "A",
+        correct_option: "B",
       },
       {
         id: 3,
-        question_text: "Während der Filmaufnahmen",
+        question_text: "Dienstmädchen gab es",
         option: {
-          option_a: "bekam Krista ein Kalb.",
-          option_b: "wäre Krista fast gestorben.",
-          option_c: "wurde Krista operiert.",
+          option_a: "fast nur bei reicheren Leuten.",
+          option_b: "in jedem Haus in der Stadt.",
+          option_c: "auch bei den weniger reichen Leuten.",
         },
-        correct_option: "A",
+        correct_option: "C",
       },
       {
         id: 4,
-        question_text: "Die wirtschaftlichen Probleme von Milchbetrieben",
+        question_text: " Dienstmädchen ...",
         option: {
-          option_a: "betreffen die Familie Seeger nicht.",
-          option_b: "sind eine Folge des Verbraucherverhaltens.",
-          option_c: "werden im Film ausführlich behandelt.",
+          option_a: "mussten länger arbeiten als Fabrikarbeiter",
+          option_b: "durften nicht alleine einkaufen gehen.",
+          option_c:
+            "konnten sich am Sonntag zwei Stunden mit anderen Dienstmädchen treffen.",
         },
         correct_option: "A",
       },
       {
         id: 5,
-        question_text: "Die schöne Krista",
+        question_text: "Dienstmädchen bekamen ...",
         option: {
-          option_a: "A begeistert Kinobetreiber bislang nicht.",
-          option_b: "könnte die Kritiker nicht überzeugen.",
-          option_c: "wurde als beste Dokumentation ausgezeichnet.",
+          option_a: "fast kein Geld.",
+          option_b: "Geld, um für später zu sparen.",
+          option_c: "ein eigenes Zimmer.",
         },
         correct_option: "A",
+      },
+    ],
+  },
+  {
+    id: 12,
+    title: "Österreich, das Land der Poolbesitzer",
+    text: `Österreich schwimmt und das nicht nur in Seen, Teichen oder Freibädern.
+Ein Blick über die Gartenzäune des Landes macht deutlich: Die Österreicher schwimmen zunehmend gerne zu Hause.
+Die Poolbranche schätzt die Anzahl der Poolbesitzer in Österreich auf etwa 90.000 bis 150.000. Im Vergleich zu
+Deutschland ist Österreich wesentlich dichter mit Pools besiedelt. Warum Schwimmingpools so beliebt sind, darüber
+herrscht Uneinigkeit. Manche Vertreter der Branche sehen darin eine Reaktion auf wirtschaftlich unsichere Zeiten. Da
+investieren die Leute gerne in die eigenen vier Wände und in den Garten inklusive Pools, meinen sie. Andere sehen
+darin einen Ausdruck des allgemeinen Wellness- und Gesundheitstrends. Auch die Sehnsucht nach dem Meer wird
+bisweilen als Argument für den ausgeprägten Wunsch nach einem Pool vorgebracht. Das allein kann es aber wohl
+nicht sein, denn als stärkster Poolmarkt in Europa gilt nach wie vor Frankreich. Branchenkenner führen den Boom
+aber auch auf finanziellen Gründen zurück. Dass der Umsatz in den vergangenen Jahren stetig angestiegen ist, sehen
+viele im Angebot an preisgünstigen Pools begründet. Vor 20 Jahren sei ein eigenes Schwimmbad noch ein absolutes
+Luxusgut gewesen. Jetzt gibt es immer mehr Alternativen, die einen Pool erschwinglich machen. Welche Gründe auch
+ausschlaggebend sein mögen: Die Branche besitzt durchaus noch Potential, da sind sich alle einig.
+Laut einer kürzlich durchgeführten Studie träumt nämlich beinahe jeder zweite Österreicher von einem Pool. An 1.
+Stelle der Wohnungswünsche steht er zwar nicht: So hat für 97% der befragten Österreicher die Traumimmobilie
+einen Balkon, eine Loogia oder eine Terrasse und 92% wünschen sich eine Garage. 82% sehnen sich nach einem
+Garten und 46% nach einem Swimmingpool - und 10% besitzen auch einen solchen. Dabei gibt es regionale Unterschiede. In absoluten Zahlen gibt es die meisten Pools in Wien und Niederösterreich. Pro Kopf gerechnet gibt es aber
+im Voralbberg die meisten privaten Schwimmbäder.
+Einen nagelneuen Pool hat auch die 37-Jährige Rija in ihrem neuen zu Hause. Die Wienerin ist mit ihrem Lebensgefährten vor kurzem nach Niederösterreich gezogen. "Es war immer mein Traum einen Pool zu haben.", sagt sie.
+Nun kann sie den Sommer im eigenen Pool genießen. Neben der Entspannung und Abkühlung hat der Pool für Sie
+noch einen weiteren Wert. Der Pool hat Leben in den Garten gebracht. "Es haben sich schon alle möglichen
+Bekannten zum Schwimmen gemeldet.", sagt sie. "Denen drück' ich aber vorher ein Spaten in die Hand - ein Teil vom
+Garten ist ja noch Baustelle."
+Tatsächlich schweißt so ein Pool nicht nur die Nachbarschaft zusammen. Es ist auch die beste Werbung für weitere
+Becken. "Kaum hat einer in einer Siedlung einen Pool, hat der Nachbar spätestens nach zwei Jahren auch einen.",
+meint ein Branchenvertreter. Besonders deutlich wird das in Kleingartensiedlungen, bei denen ein kleines Schwimmbecken schon beinahe zur Grundausstattung gehören.
+Doch manche Menschen bevorzugen Naturschwimmteiche. Nach Schätzungen macht der Anteil der Schwimmteiche
+am Schwimmanlagenmarkt rund 15% aus. In den vergangenen Jahren ist die Nachfrage nach Schwimmteichen stark
+gestiegen. Das hat auch zur Entwicklung von Naturpools geführt. Optisch ein klassischer Schwimmingpool kommt der
+Naturpool gänzlich ohne Chemikalien aus. Hier wird das Wasser durch Pumpen und Filtersysteme sauber gehalten.
+Bei der natürlichen Variante geht es übrigens bei 35.000 € los. Dafür spart man sich das jährliche Befüllen und
+Putzen.
+Das jährliche Befüllen vom Pools aus dem Wasserleitung kann in manchen Regionen gelegentlich zu Wasserknappheit
+führen. Das betrifft aber meist nur jene Gemeinden, die von sehr kleinen Wassergenossenschaften versorgt werden.
+In Wien fällt die Befüllung der Pools kaum auf.
+Was dem Leiter des Wiener Rohrnetzes eher stört, ist der Wasserdiebstahl über Hydranten, also über die Zapfstellen
+in den Straßen für Feuerwehr und Straßenreinigung. Denn wer es besonders eilig hat, kann seinen Pool auch über die
+Hydranten befüllen. Das geht schneller, muss aber angemeldet werden und kostet Geld. Generell gebe es aber keine
+Wasserknappheit. "Es sei genug Wasser für alle da.", so der Wasserversorger. "Fürs Auffüllen vom Pools, aber auch
+fürs Blumen gießen, zum Duschen und auch zum Trinken. Wir verwenden in Österreich nur 1% der vorhandenen
+Wasserressourcen.`,
+    questions: [
+      {
+        id: 1,
+        question_text: "Einige Vertreter der Poolbranche denken, dass",
+        option: {
+          option_a: "es in Österreich bald mehr Pools gibt als in Frankreich.",
+          option_b: "in unsicheren Zeiten weniger investiert wird. ",
+          option_c:
+            "mehr Leute einen Pool bauen, weil Pools billiger geworden sind.",
+        },
+        correct_option: "C",
+      },
+      {
+        id: 2,
+        question_text: "Laut einer Studie",
+        option: {
+          option_a: "möchten die meisten Befragten ein Heim mit Garage. ",
+          option_b:
+            "steht ein Pool nicht an erster Stelle auf der Wunschliste. ",
+          option_c: "wünschen sich 10% der Österreicher einen Pool.",
+        },
+        correct_option: "B",
+      },
+      {
+        id: 3,
+        question_text: "Rija ist der Meinung, dass",
+        option: {
+          option_a: "ein Pool die Nachbar neidisch macht. ",
+          option_b: "ihr Pool ein Anziehungspunkt für Freunde geworden ist.",
+          option_c: "ihre Freunde beim Poolbau helfen sollen",
+        },
+        correct_option: "B",
+      },
+      {
+        id: 4,
+        question_text: "Naturpools",
+        option: {
+          option_a: "brauchen keine chemischen Reinigungsmittel. ",
+          option_b: "müssen häufig geputzt werden",
+          option_c: "sehen genauso aus wie Schwimmteiche.",
+        },
+        correct_option: "A",
+      },
+      {
+        id: 5,
+        question_text: " In Wien",
+        option: {
+          option_a:
+            "darf man einen Pool nur mit Wasser aus der Leitung füllen. ",
+          option_b:
+            "führt das Befüllen von Pools regelmäßig zu Wasserknappheit.",
+          option_c: "wird manchmal Wasser zum Befüllen von Pools gestohlen.",
+        },
+        correct_option: "C",
+      },
+    ],
+  },
+  {
+    id: 13,
+    title: "Familienglück oder Generationskonflikte?",
+    text: `In der öffentlichen Beschreibung kennt man die Familie oft als Problemzone. Bestsellerautoren suggerieren der
+Öffentlichkeit, Eltern seien zum Erziehen heute kaum noch in der Lage; Berichte über steigende Scheidungsraten, Verwahrlosung und Jugendkriminalität verstärken ebenfalls den Eindruck, um die Familien sei es nicht gut
+bestellt. Tatsächlich hat sich Erziehung in den letzten Jahrzehnten grundlegend gewandelt. In vielerlei Hinsicht
+allerdings eher zum Guten als zum Schlechten. Wie lebt es sich heute in der Familie? Ausgesprochen gut, in den
+meisten Fällen sogar recht kuschelig. Das legen zumindest Umfragen und Statistiken über die Familienwirklichkeit nahe. Sie zeigen ein erfreulich positives Bild, nachdem sich die Familie in den vergangenen Jahrzehnten
+sehr gut entwickelt hat. Das gilt für die materiellen Bedingungen, in denen die meisten Eltern und Kinder heute
+leben, wie auch für das Ansehen, das die Familie in der Gesellschaft genießt. Den größten Fortschritt habe aber
+das gemeinsame Zusammenleben gemacht, sagen Experten: "Es gibt kaum noch wirkliche Konflikte zwischen
+den Generationen."
+Dass heute 67 Prozent der 16- bis 29-Jährigen angeben, sie hätten eine glückliche Kindheit, während es bei den
+über 60-Jährigen nur 50 Prozent sind, kann zwar sicher nicht nur auf den Wandel der Erziehung zurückgeführt
+werden. Schließlich war die Kindheit vieler von ihnen noch von Krieg und Not geprägt, während die Jüngeren in
+Wohlstand und Sicherheit aufwuchsen. Aber fast alle Jugendlichen geben heute an, dass sie ein gutes Verhältnis
+zu den Eltern haben. Außerdem orientieren sie sich stark an ihrer Familie. Gestützt unter anderem auf den
+emotionalen Rückhalt der Eltern blicken die allermeisten Jugendlichen optimistisch nach vorn. Fast 75 Prozent
+der Befragten würden ihre eigenen Kinder genau so erziehen, wie sie selbst erzogen wurden. Genauso viele
+glauben, dass man eine Familie braucht, um wirklich glücklich leben zu können. Die Eltern sehen es übrigens
+kaum anders. Von ihnen berichten 74 Prozent von Harmonie, Wärme und Geborgenheit im Zusammenleben.
+Vor 40 Jahren fanden viele Jugendliche ihre Eltern noch spießig, und Eltern konnten sich aufregen über die
+Frisuren oder den Musikgeschmack des Nachwuchses. Heute gleichen sich die Lebensstile und die Wertvorstellungen. So entspannt ist der Umgang zwischen Jung und Alt geworden, dass man es schon wieder bedenklich
+finden kann. Ist es denn normal, dass Kinder als wichtigstes Vorbild die eigene Mutter nennen? Selbst Oma und
+Opa findet nur noch jeder fünfte Teenager altmodisch.
+Gerade Großeltern hatten noch nie zuvor für ihre Enkel eine so große Bedeutung. Dank besserer Gesundheit
+und steigender Lebenserwartung verbringen sie mehr Zeit als früher mit ihren Enkeln. Der Kontakt ist persönlicher und er hält länger an. Heute sieht rund ein Drittel der Jugendlichen Oma und Opa mindestens einmal pro
+Woche, ein weiteres Drittel telefoniert wenigstens mit ihnen.
+Mit den Lebenseinstellungen wandelten sich die Erziehungsvorstellungen. Erwachsene nehmen mehr Rücksicht
+auf die Bedürfnisse von Kindern. Statt eines autoritären Umgangs mit den Kindern pflegen die meisten Familien
+den Verhandlungsstil, wie es Pädagogen nennen. Der ist nicht selten anstrengend und wird mitunter übertrieben, ist aber am Ende zielführender als die familiären Kleinkriege, die früher das Klima in vielen Familie
+bestimmten. Besonders Väter profitieren von der neuen Nähe zu ihren Kindern. Sie spielen heute häufiger mit
+ihnen als früher oder lesen ihnen vor - auch wenn weiterhin die Mütter den Großteil der Familienarbeit leisten.
+Das führt zu Stress, da Mütter mit Kindern heute doppelt so häufig berufstätig sind wie noch vor 40 Jahren.
+Trotzdem haben sie nicht weniger Zeit für ihre Kinder, weil sie den Haushalt dank moderner Technik schneller
+erledigen. 1990 verbrachten Eltern mit ihren unter sechsjährigen Söhnen und Töchtern pro Tag vier Stunden
+und 52 Minuten. Heute ist es eine Dreiviertelstunde mehr.
+Auch der Eindruck, dass Familien sich nicht mehr täglich um den gedeckten Tisch versammeln, um sich untereinander auszutauschen, stimmt nicht, haben Ernährungsforscher ermittelt. Heute dauern die bewusst
+inszenierten Zusammentreffen von Jung und Alt um Suppenschüssel oder Nudeltopf sogar länger als noch vor
+20 Jahren.`,
+    questions: [
+      {
+        id: 1,
+        question_text:
+          " Etwa die Hälfte der Senioren über 60 gibt an, dass sie ...",
+        option: {
+          option_a: "ihre Kinder strenger erziehen würden",
+          option_b: "als Kind glücklich waren.",
+          option_c: "die geänderten Erziehungsmethoden begrüßen.",
+        },
+        correct_option: "B",
+      },
+      {
+        id: 2,
+        question_text: " Die meisten Jugendlichen ...",
+        option: {
+          option_a: "verstehen sich mit ihren Eltern gut.",
+          option_b: "denken, dass man auch ohne Familie glücklich sein kann.",
+          option_c: "haben keine Meinung zu Erziehungsfragen.",
+        },
+        correct_option: "A",
+      },
+      {
+        id: 3,
+        question_text: " Heute gibt es zwischen Eltern und Kindern ...",
+        option: {
+          option_a: "kaum Unterschiede in der Lebensart.",
+          option_b: "kaum Unterschiede in der Lebensart.",
+          option_c: "immer wieder Probleme wegen zu engen Wohnraums.",
+        },
+        correct_option: "B",
+      },
+      {
+        id: 4,
+        question_text: " Mütter haben heute mehr Zeit für ihre Kinder, weil .",
+        option: {
+          option_a: "sie in der Arbeit weniger Stress haben.",
+          option_b: "Geräte die Hausarbeit leichter machen.",
+          option_c: "die Großeltern ihnen Arbeit abnehmen.",
+        },
+        correct_option: "B",
+      },
+      {
+        id: 5,
+        question_text: " In der Öffentlichkeit ...",
+        option: {
+          option_a: "wird der Wandel in der Erziehung nicht wahrgenommen.",
+          option_b: "ist das Thema Familie nicht interessant.",
+          option_c: "entsteht oft ein falsches Bild der Familie",
+        },
+        correct_option: "C",
+      },
+    ],
+  },
+  {
+    id: 14,
+    title: "Der Kampf mit der Informationsflut",
+    text: `Susanna Winkler ist Gedächtnistrainerin. Seit fast 10 Jahren bietet sie nun schon Seminare an Volkshochschulen, in Altenheimen, in Banken und Industriebetrieben an, in denen die Seminarteilnehmer lernen
+sollen, wie sie Informationen besser im Gedächtnis behalten.
+Jenny Helfer ist 30 Jahre alt, Bürokauffrau und eine von Susanna Winklers Seminarteilnehmerinnen. "An
+meinen Arbeitsplatz bekomme ich ständig Massen von neuen Informationen: Texte, die zu lesen sind,
+Termine, Anrufe, Anfragen von Kunden, Kurzinfos von Kollegen - diese Informationsflut zu bewältigen und
+möglichst nichts zu vergessen, ist fast ausgeschlossen.", so Hartmann.
+Wie ihr geht es vielen Menschen in unserer Informationsgesellschaft - und das quer durch alle Altersstufen: vom Schüler bis zum Rentner. Sie fühlen sich den Anforderungen an ihr Gedächtnis nicht mehr
+gewachsen und daher besuchen sie Trainingskurse wie die von Susanna Winkler. Während jeder Sekunde,
+die Jenny Helfer im Trainingsseminar, am Arbeitsplatz oder zu Hause verbringt, nimmt sie über ihre
+"Eingangskanäle" - die Augen, die Ohren, die Nase, den Mund, die Haut - um die 2 Millionen kleinste
+Informationen bewusst auf. Jede kleinste Schwankung in der Licht- oder Farbintensität, Formen und
+Farben, Licht und Schatten, alle nur erdenklichen Geräusche von der Stimme der Seminarleiterin oder
+Kollegen bis zum draußen vorbeifahrenden Motorrad, verschiedenste Gerüche vom Schweiß bis zum
+teuren Parfüm, das Kratzen des Pullovers auf der Haut: All dies nimmt sie unbewusst wahr. Würde sie sich
+all diese Informationen bewusst merken wollen, wäre - wenn man die Sprache der Computerwelt zu Hilfe
+nimmt - innerhalb kürzester Zeit der Speicher voll.
+Damit dies nicht passiert, vergisst man fast alle Informationseinheiten innerhalb der nächsten 20 Sekunden wieder - und schafft damit Platz für neue Informationen. Erst nach etwa 20 Minuten behalten wir
+etwas auf lange Zeit. Dann haben die Nervenzellen im Gehirn eine neue Verbindung hergestellt, eine
+Synapse gebildet - und wir behalten etwas, statt es gleich wieder zu vergessen. Die Trainerin Susanne
+Winkler sagt: "Starke Sinneseindrücke, die mit Emotionen behaftet sind, behält man ebenso wie das, was
+interessant ist oder lebensnotwendig. Ein Kind, dass einmal eine heiße Herdplatte angefasst hat, vergisst
+nie mehr, was "heiß" bedeutet. Ein Hobbyastronom, dem seine Freizeitbeschäftigung großen Spaß
+bereitet, kennt im Nu alle möglichen Namen von Sternen. Und ich habe noch keinen Seminarteilnehmer
+gehabt, der sich nicht mehr daran erinnern könnte, was am 11. September 2001 in New York passiert ist."
+In unserer heutigen Informationsgesellschaft ist es wichtig, die auf uns einströmenden Informationsflut zu
+bündeln, Daten und Begriffe zu gruppieren oder an Bildern oder Gegenstände festzumachen und sich so
+"Eselsbrücken" zu bauen, die dabei helfen, mehr im Gedächtnis zu behalten.
+Jenny Helfer sortiert jetzt im Geiste alle wichtigen Informationen in bestimmte Schubladen ihres "Aktenschrankes" wie in ihrem Büro: "Ich habe mir Zahlensymbole ausgedacht, mit denen ich die neuen Informationen bildlich verknüpfe: Die 1 wird zur Kerze, die 2 zum Schwan usw. Wenn ich nun nicht vergessen
+möchte, um 2 Uhr eine bestimmte Konferenz vorzubereiten, denke ich mir meine Konferenzmappe im
+Schnabel des Schwans. Und es funktioniert: Ich vergesse viel weniger.`,
+    questions: [
+      {
+        id: 1,
+        question_text: "Die Zielgruppen von Frau Winklers Seminaren besteht ",
+        option: {
+          option_a: "überwiegend aus Senioren.",
+          option_b: "sowohl aus jungen als auch aus alten Menschen.",
+          option_c: "hauptsächlich aus berufstätigen Frauen",
+        },
+        correct_option: "B",
+      },
+      {
+        id: 2,
+        question_text:
+          " Die Teilnehmer besuchen Frau Winklers Seminar, weil sie ...",
+        option: {
+          option_a: "sich von den vielen Informationen überfordert fühlen.",
+          option_b: "sich alles bewusst merken wollen.",
+          option_c: "das Gefühl haben, dass ihr Gedächtnis nachlässt.",
+        },
+        correct_option: "A",
+      },
+      {
+        id: 3,
+        question_text: "Jeder Mensch ...",
+        option: {
+          option_a:
+            "vergiss die meisten Informationen innerhalb kürzester Zeit.",
+          option_b: "kann über einen Zeitraum von 20 Minuten alles behalten.",
+          option_c: "kann sich alle erdenklichen Geräusche und Gerüche merken",
+        },
+        correct_option: "A",
+      },
+      {
+        id: 4,
+        question_text: "Besonders gut kann man sich",
+        option: {
+          option_a: "intensive Gefühle merken.",
+          option_b: "an Daten und Begriffe erinnern",
+          option_c: "als Kind etwas merken.",
+        },
+        correct_option: "A",
+      },
+      {
+        id: 5,
+        question_text: "Jenny Helfer ...",
+        option: {
+          option_a: "verwendet für ihre Aktenablage nur Tiersymbole.",
+          option_b: "verbindet Informationen mit Bildern.",
+          option_c: "lehrt andere, wie man sich 'Eselsbrücken' ausdenkt",
+        },
+        correct_option: "B",
       },
     ],
   },
