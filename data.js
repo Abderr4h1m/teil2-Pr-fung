@@ -1,222 +1,209 @@
 const teil2Data = [
   {
     id: 1,
-    title: "Leipzigerin geht in den USA auf Sendung",
-    text: `Manchmal fühle ich mich wie ein Missionar, scherzt Ulrike Rudelt. Das Bild vom Deutschen, der Lederhosen trägt, Bier
-trinkt und Sauerkraut isst, hält sich ihrer Meinung nach in der Öffentlichkeit Amerikas ganz stark und wird vor allem in
-der Fernsehwerbung ständig wiederholt. Dagegen kämpfe ich, sagt die 25- Jährige selbstbewusst, die derzeit ein
-dreimonatiges Praktikum am Institute of International Studies in Kalifornien absolviert und so oft es geht über die
-Heimat erzählt.
-An der Uni in Monterey darf die Leipziger Studentin neben dem Hospitieren auch selbst unterrichten. Das Interesse der
-Studenten und Dozenten an der deutschen Sprache, an Geschichte und Gegenwart Deutschlands ist große. Richtig in
-Fahrt kommt Ulrike, wenn es um den Mauerfall geht und darum, wie sich der Osten nach der Wende entwickelt hat. Die
-Chancen, die ich jetzt habe, hatten meine Eltern nicht, sagt sie. So ging sie nach dem Studium als Au Pair-Mädchen nach
-England und machte im Rahmen studentischer Austauschprogramme bereits Praktika in den USA und den
-Niederlanden.
-Einen Vorgeschmack vom. American Way of Life gab es bereits während des einwöchigen Einführungsseminars in New
-York, schwärmt Cornelia Schiemenz. Die Stadt pulsiert, und wir hatten jede Menge Spaß. Auf dem Programm standen
-Ausflüge, und dazu hörten sie jede Menge vor träge zum Welthandel, Kampf gegen Arbeitslosigkeit, zur wirtschaftlichen
-Entwicklung der USA und Kriminalitätsbekämpfung. In Denver, wo die Studentin für Kommunikations-und
-Medienwissenschaft die Arbeit eines Tv- Senders kennen lernt, steht sie nach einigen Tagen selbst vor der Kamera und
-darf Beiträge für den Sender produzieren ich bin absolut glücklich,sagt die 23 – jährige.
-Antje Kutzer, die dritte Leipzigerin in der Gruppe, hat es nach Los Angeles verschlagen. Nach dem Abitur hat sie
-Reiseverkehrskauffrau gelernt. In der Reisekette New World Travel erste Erfahrungen. Anfangs erzählt die 23- jährige
-hatte ich großes Heimweh, es sind doch einige Kilometer weg von Leipzig. Doch dann stelle ich mich der Chefin im
-besten Englisch vor, worauf sie auf Deutsch antwortete, dass wahnsinnig freut, dass ich ihr über die Schulter sehen will.
-Die drei Frauen zählen zu den 20 jungen Berufsanfängern aus Ostdeutschland, die unter 2100 Bewerben der Pall- Mall -
-Initiative ausgewählt wurden und ein dreimonatiges Praktikum in den Staaten absolvieren. Bei der Auswahl der
-Praktikanten legt man auch auf Auslandserfahrung Wert. Schließlich geht es nicht darum, dass die Teilnehmer ein paar
-schöne Wochen im Land der unbegrenzten Möglichkeiten erleben. Die Unternehmen stellen zumeist hohe
-Anforderungen.`,
+    title: "Korbjagd zu Pferde",
+    text: `Wer sich unter dem zweimal pro Woche stattfindenden Training auf dem Wiesbadener Hofgut Adamstal eine Art "Kuschelrunde" vorgestellt hatte, der wird schnell eines Besseren belehrt, und der neugierige Betrachter fühlt sich eher auf einen Fußballplatz als in eine Reithalle versetzt. Die festgelegten Spielzüge, die es einzustudieren gilt, sind Bestandteil einer Sportart, die hierzulande allenfalls eine Randerscheinung ist: Horse-Ball. "Es kommen immer mehr Aktive dazu", versichert jedoch Hans-Jürgen Faust (59), Hausherr auf Hofgut Adamstal und Präsident des Deutschen Horse-Ball-Verbandes. Irgendwo in Hagen, Düsseldorf, München oder Heidelberg soll es noch ein paar vereinzelte Akteure geben, das eigentliche Geschehen aber spielt sich hier ab, wo einer der wohl kleinsten Sportverbände Deutschlands vor 15 Jahren aus der Taufe gehoben wurde und wo die erste Mannschaft der Reitergruppe Wiesbaden (RGW) identisch ist mit der National-Auswahl. Aber diesen Sport betreiben nicht nur Erwachsene: Die jüngsten Spieler sind nicht älter als acht. Horse-Ball ist - vereinfacht gesagt - eine Art Basketball zu Pferde.
+
+An den beiden Enden des circa 25 mal 70 Meter großen Spielfeldes sind die Korbringe nicht waagerecht, sondern senkrecht ausgerichtet und mit Fangnetzen versehen, in denen die Bälle nach einem gelungenen Spielzug landen. Keine leichte Aufgabe, wie die bereits erwähnten ersten Trainingseindrücke zeigen, aber Übung macht eben auch hier den Meister. Zumindest auf nationaler, sprich: Wiesbadener Ebene. Darüber hinaus gilt es, immer wieder Lehrgeld zu zahlen, vor allem bei Gastspielen im Heimatland Frankreich, wo Horse-Ball vor rund 25 Jahren erfunden wurde und einen viel höheren Stellenwert als hierzulande genießt. Sogar eine eigene Profiliga gibt es bei unseren südwestlichen Nachbarn, die bei den Mitte August anstehenden Europameisterschaften einmal mehr nicht nur Gastgeber, sondern auch wieder Anwärter auf den Titel sind.
+
+Wer es übrigens selbst einmal ausprobieren möchte: Im kommenden Monat bieten die Wiesbaden Buffalos für maximal zwölf Teilnehmer einen Einstiegs-Lehrgang an. Dabei mitzubringen sind reiterliche Grundkenntnisse und ein sogenannter Drei-Punkt-Helm. Alles andere wird - inklusive Vierbeiner bei Bedarf - gestellt. "Natürlich können auch eigene Pferde mitgebracht werden", sagt Faust. Die Tiere müssen "sozialverträglich" sein, erläutert der 59-Jährige, und das nicht nur im Umgang mit dem Reiter, sondern vor allem untereinander. "Im richtigen Wettkampf kann es auch schon mal zu Zusammenstößen kommen", weiß Faust, für den Horse-Ball zu einem ganz persönlichen "Steckenpferd" geworden ist, das in der vielfältigen Angebotspalette des riesigen Hofguts eine Art Sonderstatus einnimmt.
+
+Damit es trotz unvermeidlichen Körperkontakts kaum einmal zu ernsthaften Verletzungen kommt, tragen nicht nur die Pferde vorgeschriebene Bandagen an den Beinen, sondern auch für die Reiter gibt es eine spezielle Vorrichtung: Ein Gurt, der unter dem Bauch der Tiere die beiden Steigbügel miteinander verbindet, gewährt selbst dann noch sicheren Halt, wenn sich der Spieler aus vollem Galopp heraus aus dem Sattel fallen lässt, um den Ball vom Boden aufnehmen zu können. Um die Handhabung dabei ein wenig zu vereinfachen, ist das runde Leder mit Fangriemen versehen, die ein sicheres Zugreifen auch mit einer Hand ermöglichen.
+
+Aber noch eine Besonderheit weist Horse-Ball auf: Es ist die einzige Pferdesportart, bei der der Gebrauch einer Gerte (das ist ein kleiner Stock, mit dem das Pferd leicht geschlagen wird) ausdrücklich verboten ist, wie Faust betont. Damit tritt er auch etwaigen Befürchtungen entgegen, dass es zu Tierquälerei kommen könnte. Der Chef des Hofgut Adamstal: "Das Gegenteil ist der Fall. Die Tiere können beim Horse-Ball ihre natürlichen Verhaltensweisen ausleben und haben sogar Spaß dabei." Zumindest mehr als der eine oder andere Reiter, wie es angesichts des strengen Trainings den Eindruck macht.`,
     questions: [
       {
         id: 1,
-        question_text: "Die Werbung in den Vereinigten Staaten",
+        question_text: "Aktive der Wiesbadener Reitergruppe",
         option: {
-          option_a: "beschäftigt sich überhaupt nicht mit Deutschland.",
-          option_b: "zeigt immer wieder dasselbe Bild von Deutschland.",
-          option_c: "zeigt viele unterschiedliche Seiten von Deutschland.",
+          option_a: "bilden die deutsche Nationalmannschaft.",
+          option_b:
+            "spielen schon als Achtjährige in der deutschen Nationalmannschaft mit.",
+          option_c: "unterstützen die deutsche Nationalmannschaft.",
         },
-        correct_option: "B",
+        correct_option: "A",
       },
       {
         id: 2,
-        question_text: "Die Eltern von Ulrike Rudelt",
+        question_text: "Die Basketball-Körbe",
         option: {
-          option_a: "arbeiten und lebten lange Jahre in den Niederlanden.",
-          option_b: "hatten nicht die Möglichkeiten wie ihre Tochter.",
-          option_c: "wollen ihre Tochter nun in den USA besuchen.",
+          option_a: "hängen wie beim normalen Basketball.",
+          option_b: "sind mit dem Netz nach oben aufgehängt.",
+          option_c:
+            "sind so gedreht, dass ihre Öffnungen nach der Seite zeigen",
+        },
+        correct_option: "C",
+      },
+      {
+        id: 3,
+        question_text: "Wer an einem Horse-Ball-Lehrgang teilnimmt",
+        option: {
+          option_a: "braucht ein eigenes Pferd.",
+          option_b: "kann sein eigenes Pferd einsetzen.",
+          option_c: "muss sein Pferd jedes Mal mitbringen.",
         },
         correct_option: "B",
       },
       {
-        id: 3,
-        question_text: "Während die Praktikantinnen in New York waren",
-        option: {
-          option_a: "bekamen sie eine Stadtführung.",
-          option_b: "besuchten sie einen Sprachkurs.",
-          option_c: "wurden sie über wichtige Themen informiert.",
-        },
-        correct_option: "C",
-      },
-      {
         id: 4,
-        question_text: "Die dritte Leipzigerin, die in die USA gereist ist",
+        question_text: "Beim Horse-Ball-Spiel",
         option: {
-          option_a: "kommt eigentlich aus Österreich.",
-          option_b: "wollte dort ihr Abitur machen und dann studieren.",
-          option_c: "wurde von ihrer neuen Chefin freundlich aufgenommen.",
+          option_a: "wird ein Fußball verwendet.",
+          option_b: "darf der Ball in die Hand genommen werden.",
+          option_c: "darf der Ball nicht auf den Boden fallen.",
         },
-        correct_option: "C",
+        correct_option: "B",
       },
       {
         id: 5,
-        question_text: "Wer als Praktikantin ins Ausland geht",
+        question_text: "Das Training ist so streng, dass",
         option: {
-          option_a: "braucht schon einige Berufserfahrungen.",
-          option_b: "soll dabei vor allem das Land kennenlernen.",
-          option_c: "soll schon einmal im Ausland gewesen sein.",
+          option_a:
+            "die Reiter oft mehr Stress zu empfinden scheinen als die Tiere.",
+          option_b:
+            "die Tiere ihre naturgegebenen Anlagen nicht ausleben können.",
+          option_c: "es Pferden und Reitern oft kein Vergnügen macht.",
         },
-        correct_option: "C",
+        correct_option: "A",
       },
     ],
   },
   {
     id: 2,
-    title: "Geheimnisse des Schlafes",
-    text: `Lange Zeit hat man geglaubt, dass der Schlaf nur so etwas ist wie der kleine Bruder des Todes Ein Zustand der Körper
-Energie spart und alles langsamer läuft. Erst in den 50 er Jahren des letzten Jahrhunderts fand man heraus dass schlafen
-etwas sehr Aktives ist und Nacht für Nacht in unterschiedlichen Abschnitten verläuft. Der Schweizer Schlafforscher
-Alexander Borbely hat diesen Vorgang mit einer Treppe verglichen, über die wir jede Nacht mehrmals gehen.
-Zunächst sind wir wach, dann schlafen wir ein und gehen bis tief hinab in den Keller in einen tiefen Schlaf. Danach geht
-es wieder hoch in einen leichten Schlaf, der von lebhaften, intensiven Träumen und schnellen Augenbewegungen
-begleitet wird Daher wird diese Phase auch REM-Schlaf ( rapid-eye-movements = schnelle Augenbewegung) genannt.
-Dieser Abschnitt ist im Gegensatz zu den anderen Phasen mit etwa 20 Minuten sehr kurz, soll aber äußerst wichtig für
-die physische Erholung sein.
-Damit hat die Wissenschaft aber noch lange nicht alle Probleme des Schlafes gelöst. Erwiesen ist nur: Wir brauchen ihn
-zur körperlichen Erholung, auch wenn wir ihn manchmal als Zeitverschwendung empfinden – immerhin verbringen wir
-ein Drittel unseres Lebens mitschlafen.
-Warum können wir aber nicht immer sofort einschlafen, wenn müde sind? Tatsächlich klagen viele Menschen in den
-westlichen Industrienationen über gelegentliche oder dauernde Schlafstörungen.
-So muss unser Körper, ins besonders das Gehirn die Eindrücke des Tages erst einmal verarbeiten damit wir gesund
-schlafen. Diese System reagiertso sensibel, dass schon kleine Ursachen – äußere und innere – störend wirken können.
-Äußere Ursachen können sein: Lärm, eine ungewohnte Umgebung, ein zu spätes, zu reichliches Essen, kälte oder
-wärme, alles wirktsich auf unser Wohlbefinden und somit auch auf den Schlaf aus.
-Als innere Ursachen kommen Schmerzen, Angst oder Ärger über ungelöste Konflikte in Frage.
-Erkrankungen beeinflussen den Schlaf, auch Medikamente können eine störende Rolle spielen Alles was uns gedanklich
-stark beschäftigt, kann unseren Schlaf beeinträchtigen. Wer aber nur gelegentlich nachts aufwacht, oder auch einmal
-einige Tag schlecht schläft braucht sich keine Sorgen zu machen. Ein paar schlaflose Nächte lassen sich schnell wieder
-nachholen.
-Ein echte Schlafstörung liegt erst dann vor wenn unsere Leistungsfähigkeit oder unsere Gesundheit auf Dauer stark
-beeinträchtigt werden. Dann sollte man auf jeden Fall ärztlichen Ratsuchen.`,
+    title: "Mehrsprachige Erziehung",
+    text: `Für viele Eltern sind Fremdsprachenkenntnisse die Basis einer ordentlichen Karriere für ihre Kinder. Aus entwicklungspsychologischer Sicht bringt die Mehrsprachigkeit im Kindesalter tatsächlich einige Vorteile mit sich: "Mehrsprachig erzogene Kinder lernen später auch andere Fremdsprachen leichter, weil sie schon früh ein Gefühl für die Systematik hinter einer Sprache entwickeln", sagt Susanne Hilt, Psychologin für Sprachförderung in Neustadt. Außerdem fällt es ihnen leichter, Dinge mit anderen Augen zu sehen und kreativ auf ihren Alltag zu reagieren. Auch die kommunikative Kompetenz ist laut Hilt bei mehrsprachig erzogenen Kindern meist ausgeprägter.
+
+Doch nicht jeder Sprachimpuls in der Kindheit ist positiv. Die gebürtige Schweizerin Hilt hat ihre eigenen Kinder dreisprachig erzogen. Sie ist sich sicher: "Die mehrsprachige Erziehung funktioniert nur dann, wenn das Kind eine emotionale Bindung zur jeweiligen Sprache aufbauen kann." Sie rät daher Eltern, sich ehrlich zu fragen, welche Sprache ihnen selbst am ehesten liegt. Denn wer sich in der Fremdsprache nicht wohlfühlt, kann sie auch nicht authentisch vermitteln. Die Expertin Hilt ist daher skeptisch, wenn Eltern ihre Kinder aus rein intellektuellen Gründen mehrsprachig erziehen möchten. "Schulische Erfolge sollten nicht der Hauptbeweggrund für die Multilingualität sein. Es ist viel wichtiger, dass die Sprache für das Kind emotional und sozial relevant ist." So könnten zum Beispiel die Herkunft der Eltern, eine Tante in Frankreich oder eine fremdsprachige Erzieherin eine Basis bilden, durch die Kinder auch kulturell den Bezug zu einer weiteren Sprache finden.
+
+Der Kontakt mit einer zweiten oder dritten Sprache muss nach Auffassung von Hilt nicht unbedingt schon im Babyalter erfolgen. Man kann mit der mehrsprachigen Erziehung auch erst im Kindergartenalter beginnen. "Das Zeitfenster, in dem ein Kind eine Sprache noch durch zweisprachige Erziehung erlernen kann, ist nicht genau festlegbar. Aber ungefähr bis zum zehnten Lebensjahr sind die Chancen sehr gut", sagt die Psychologin.
+
+Auch Sabine Füllgrabe-Amling, Leiterin einer deutsch-englischen Kindertagesstätte in Hamburg, sieht den Einstieg in die Multilingualität entspannt. In Hamburg gibt es in jeder Gruppe einen deutschen und einen englischen Muttersprachler unter den Erziehern, jeder wendet seine Sprache ganz selbstverständlich im Umgang mit den Kindern an. "Die meisten unserer Kinder nehmen die neue Sprache sehr gut an, weil sie eine starke emotionale Bindung zu den Erziehern haben", sagt Füllgrabe-Amling. Sie rät Eltern, die mehrsprachige Erziehung ihrer Kinder ebenfalls wie selbstverständlich in den Alltag zu integrieren. "Es bringt nichts, wenn man zu Kindern sagt 'Wiederhol das mal' oder 'Schau, Stuhl heißt auf Englisch chair.' Auch der Erwerb der Muttersprache funktioniert ja nicht auf diese Art", sagt Füllgrabe-Amling. Die neue Sprache sollte ganz locker immer wieder auftauchen, sodass das Kind sie langsam annehmen kann. "Am besten ist es, wenn eine bestimmte Bezugsperson sich immer nur in der anderen Sprache mit dem Kind unterhält", sagt Füllgrabe-Amling.
+
+Susanne Hilt hält auch andere Methoden für sinnvoll. "Jeder muss da sein eigenes System entwickeln", sagt die Psychologin. Es sei auch denkbar, dass beispielsweise die kroatische Mutter mit ihrem Kind zu Hause immer nur Kroatisch spreche, unterwegs aber Deutsch. "Wichtig ist, dass eine Regelmäßigkeit für das child und für die Eltern erkennbar ist", sagt Hilt.
+
+Eine Sprachverwirrung durch die Multilingualität oder gar eine Verzögerung in der Entwicklung des Kindes müssen Eltern nicht befürchten, meint Hilt. "Auch wenn der Kontakt mit der anderen Sprache nur alle paar Tage stattfindet, wird das Kind keinen Schaden nehmen. Auch diese kleinen Impulse können zumindest das Interesse für weitere Sprachen fördern."`,
     questions: [
       {
         id: 1,
-        question_text: "Der Schweizer Schlafforscher Alexander Borbely",
+        question_text: "Mehrsprachig erzogene Kinder sind meist",
         option: {
-          option_a: "behauptet, dass der gesunde Schlaf gleichmäßig ist.",
-          option_b: "beschäftigt sich seit 50 Jahren mit dem Thema Schlaf.",
-          option_c: "meint, dass es beim Schlaf verschiedene Stufen gibt.",
+          option_a: "kommunikativer",
+          option_b: "ideenreicher",
+          option_c: "sensibler.",
+        },
+        correct_option: "A",
+      },
+      {
+        id: 2,
+        question_text: "Mehrsprachige Erziehung gelingt, wenn",
+        option: {
+          option_a: "das Kind einen emotionalen Bezug zur Sprache hat.",
+          option_b: "die Eltern aus dem Zielsprachenland kommen.",
+          option_c: "die Eltern die Bildungsziele konsequent verfolgen.",
+        },
+        correct_option: "A",
+      },
+      {
+        id: 3,
+        question_text:
+          "Damit ein child eine weitere Sprache zweisprachig erlernt",
+        option: {
+          option_a: "muss die Sprachvermittlung so früh wie möglich anfangen.",
+          option_b:
+            "reicht es, im Grundschulalter mit der Zweitsprache zu beginnen.",
+          option_c:
+            "sollte im Kindergarten mit der Sprachvermittlung begonnen werden.",
         },
         correct_option: "C",
       },
       {
-        id: 2,
-        question_text: "Während der Leichtschlafphase",
-        option: {
-          option_a: "erholt man sich nicht gut.",
-          option_b: "träumt man besonders viel.",
-          option_c: "wacht man öfter auf.",
-        },
-        correct_option: "B",
-      },
-      {
-        id: 3,
-        question_text: "Die Wissenschaft ist heute der Meinung, dass",
-        option: {
-          option_a: "alle Probleme des Schlafes gelöst sind.",
-          option_b: "der Schlaf der körperlichen Erholung dient.",
-          option_c: "man durch Schlafen viel Zeit verliert.",
-        },
-        correct_option: "B",
-      },
-      {
         id: 4,
-        question_text: "Vor allem die Menschen in westlichen Ländern",
+        question_text:
+          "Wechselt die Bezugsperson zwischen zwei Sprachen, lernt das child die Zweitsprache",
         option: {
-          option_a: "klagen darüber, dass sie schlecht schlafen können.",
-          option_b: "können ohne Sorgen und Probleme schlafen.",
-          option_c: "werden beim Schlafen gelegentlich gestört.",
+          option_a: "bei systematischer Vermittlung der Sprache.",
+          option_b: "sofern es versteht, wann die Sprachen gewechselt werden.",
+          option_c: "wahrscheinlich nicht.",
         },
         correct_option: "A",
       },
       {
         id: 5,
-        question_text: "Zum Arzt sollen die Menschen gehen, die",
+        question_text:
+          "Sollten Kinder nur alle paar Tage Kontakt zur Zweitsprache haben",
         option: {
-          option_a: "längere Zeit sehr schlecht schlafen.",
-          option_b: "manchmal nachts aufwachen.",
-          option_c: "zu viel und zu lange schlafen.",
+          option_a: "ist eine Entwicklungsverzögerung möglich.",
+          option_b: "kann das Interesse an anderen Sprachen verloren gehen.",
+          option_c: "schadet dies der Entwicklung der Zweitsprache nicht.",
         },
-        correct_option: "A",
+        correct_option: "C",
       },
     ],
   },
   {
     id: 3,
-    title: "Die Sendung mit der Maus",
-    text: `Eine Ausstellung über die berühmte Fernsehserie\n\nSPEYER. Mit dem Fragebogen in der Hand marschieren die Grundschüler durch das Historische Museum in Speyer. "Wie heißt doch noch mal der, der die Maus gezeichnet hat?" Fragt Anna. Lisa entdeckt den Namen neben dem Zeichenpult. "Friedrich Streich" kritzelt sie auf ihr Blatt. Allerdings erst, nachdem sie sich bei einem erwachsenen Ausstellungsbesucher vergewissert hat, dass diese Information auch richtig ist.\n\n"Maus Oleum" heißt die Ausstellung im Jungen Museum, die sich mit einem Stück Fernsehgeschichte beschäftigt. Sie zeigt über 30 Jahre von der Geschichte der "Sendung mit der Maus". In den farbenfrohen Räumen wird gezeigt, was und wer hinter den Lach- und Sachgeschichten steckt. Eine Weltkarte beweist, dass die Maus international bekannt ist. Kaum ein Land, in dem die beliebte Kindersendung nicht zu sehen ist.\n\nDie orangefarbene Maus erklärt die Welt, indem sie selbstverständlich gewordene Dinge hinterfragt. Mit welchen Mitteln dies geschieht, das zeigt die Ausstellung. Was steckt in einer Parkuhr? Wie funktioniert eine Luftpumpe? Woraus wird Creme gemacht? Wie kommen die Löcher in den Käse? Mit solchen und anderen Fragen verblüfft und fasziniert die Maus auch ihre großen Zuschauer, die sich schlagartig daran erinnern, dass sie einst entscheiden neugieriger waren. Wie Detektive, die im Auftrag der Kinder ganz genau hingucken, gehen die Macher an jede Sendung heran. Sie wollen genauso viel wissen und verstehen wie die Kinder selbst. Deshalb wird zum Beispiel die Parkuhr einfach aufgeschraubt oder das Innere einer Fahrradpumpe gezeigt.\n\nAn Vorschlägen, was die Maus erklären könnte, fehlt es nicht. Woche für Woche kommen Briefe aus aller Welt. Einige davon sind auch in der Ausstellung zu lesen. "Liebe Maus" heißt es da. "Wir sind heute an einem Druckzentrum vorbeigefahren. Bitte sage uns doch, wie eine Zeitung gemacht wird." Seit 1971 ist die Maus aktiv: Sie reist in die Vergangenheit oder blickt in die Zukunft, sie beantwortet Fragen und lässt Kinder aus verschiedene Ländern selbst erzählen. Auch schwierige Themen wie Politik sind dank der Maus kinderleicht zu verstehen.\n\nÜberall da, wo man in der Ausstellung etwas anfassen, ausprobieren kann, wo kleine und große Geheimnisse gelüftet werden, dort staunen die kleinen Besucher. Bilder werden zum Laufen gebracht, Töne erzeugt und Kameras getestet.\n\nDie Maus ist inzwischen auch bei Künstlern beliebt. Sie ist auf Bildern, Postkarten und Plakaten auf der ganzen Welt zu sehen. Schöner aber sind die kleinen Kunstwerke aus Kinderhand, die die Fernsehmacher im Laufe der Jahre gesammelt haben: Papier, bunte Bilder und sogar ein Puppentheater ganz aus Pappe – alles für die Maus.\n\nÖffnungszeiten\nDie Ausstellung in Speyer ist noch bis zum 27. Oktober geöffnet. Dienstags bis sonntags von 10 bis 18 Uhr, mittwochs bis 20 Uhr.`,
+    title: "Brigitte Vollmer",
+    text: `Brigitte Vollmer (64) ist seit 40 Jahren Lehrerin. Jetzt geht sie in den Ruhestand. Doch kurz vor ihrem Abschied aus dem Schuldienst hat sie noch eine besondere Auszeichnung erhalten: den Deutschen Lehrerpreis. Mit diesem Preis werden jedes Jahr besonders engagierte Lehrerinnen und Lehrer geehrt. Brigitte Vollmer hat ihn für ihr langjähriges Engagement in der MINT-Förderung bekommen. MINT steht für Mathematik, Informatik, Naturwissenschaften und Technik.
+
+Brigitte Vollmer wusste schon früh, dass sie Lehrerin werden wollte. "Ich habe mich schon als Kind für Naturwissenschaften interessiert", erzählt sie. Ihre Eltern waren zunächst skeptisch. Sie befürchteten, dass ihre Tochter als Lehrerin nicht genug verdienen würde. Doch Brigitte ließ sich nicht beirren. Sie studierte Mathematik und Physik und trat nach dem Referendariat ihre erste Stelle an einer Gesamtschule an.
+
+Anfangs hatte sie Bedenken, ob sie den Herausforderungen des Lehrerberufs gewachsen sein würde. "Ich hatte Angst, dass die Schüler nicht auf mich hören würden", gesteht sie. Doch diese Sorgen erwiesen sich als unbegründet. Brigitte Vollmer fand schnell Zugang zu ihren Schülern und konnte sie für ihre Fächer begeistern.
+
+Die Idee, sich für den Deutschen Lehrerpreis zu bewerben, kam von ihren Schülern. Sie hatten mit Brigitte Vollmer an einem besonderen Projekt gearbeitet: einem mathematischen Wettbewerb, bei dem sie einen Preis gewonnen hatten. "Frau Vollmer hat uns immer unterstützt und motiviert", sagt einer ihrer Schüler. "Wir wollten ihr damit Danke sagen."
+
+Jetzt freut sich Brigitte Vollmer auf den Ruhestand. "Ich werde reisen und endlich mehr Zeit für meine Hobbys haben", sagt sie. Aber ganz von der Schule wird sie sich wohl nicht verabschieden. "Vielleicht engagiere ich mich ja ehrenamtlich in der MINT-Förderung", überlegt sie.`,
     questions: [
       {
         id: 1,
-        question_text: "Die Maus",
+        question_text: "Brigitte Vollmer",
         option: {
-          option_a: "führt Kinder durch das Museum.",
-          option_b: "wird in einer Werbefirma gezeichnet.",
-          option_c: "wurde von Friedrich Streich erfunden.",
-        },
-        correct_option: "C",
-      },
-      {
-        id: 2,
-        question_text: "Das Thema der Ausstellung",
-        option: {
-          option_a: "ist die Geschichte der Sendung mit der Maus.",
-          option_b: "ist 30 Jahre Junges Museum.",
-          option_c: "sind Kinder aus aller Welt.",
+          option_a: "erhielt kurz vor Eintritt in den Ruhestand einen Preis.",
+          option_b:
+            "wechselte in ihrer beruflichen Laufbahn mehrmals die Schule.",
+          option_c: "wurde schon mehrfach für Auszeichnungen vorgeschlagen.",
         },
         correct_option: "A",
       },
       {
-        id: 3,
-        question_text: "Die Sendung mit der Maus",
+        id: 2,
+        question_text: "Frau Vollmers Eltern vermuteten, dass ihre Tochter",
         option: {
-          option_a: "erhält Post aus der ganzen Welt.",
-          option_b: "hat es schwer, noch neue Themen zu finden.",
-          option_c: "nimmt nur Vorschläge von Kindern an.",
+          option_a: "am liebsten direkt nach dem Studium heiraten wollte.",
+          option_b: "mit ihrem Studium gute Perspektiven haben würde.",
+          option_c:
+            "womöglich nicht genug für ihren Lebensunterhalt verdienen könnte",
+        },
+        correct_option: "C",
+      },
+      {
+        id: 3,
+        question_text: "Frau Vollmer befürchtete, dass",
+        option: {
+          option_a: "die Schüler sich im Unterricht schlecht benehmen würden.",
+          option_b: "die Schüler wenig Interesse an ihren Fächern hätten.",
+          option_c: "sie kein Talent für das Unterrichten hätte.",
         },
         correct_option: "A",
       },
       {
         id: 4,
-        question_text: "Die Ausstellung",
+        question_text: "Frau Vollmers Schüler",
         option: {
-          option_a:
-            "erlaubt den Kindern, mit den Ausstellungsstücken zu spielen.",
+          option_a: "haben erst nach dem Abitur von dem Wettbewerb erfahren.",
           option_b:
-            "erlaubt den Kindern nicht, die Ausstellungsstücke anzufassen.",
-          option_c: "ist nur für Kinder geöffnet.",
+            "reichten für den Wettbewerb verschiedene Einzelbeiträge ein.",
+          option_c:
+            "wollten ihr für die gelungene Prüfungsvorbereitung Anerkennung zeigen.",
         },
-        correct_option: "A",
+        correct_option: "C",
       },
       {
         id: 5,
-        question_text: "Die Maus",
+        question_text: "Brigitte Vollmer freut sich darauf,",
         option: {
-          option_a:
-            "erhält von den Kindern Geschenke aus verschiedenen Materialien.",
-          option_b: "gibt es nur auf Postkarten und Plakaten zu kaufen.",
-          option_c: "ist aus Wolle und Papier.",
+          option_a: "bald Zeit für ausgedehnte Reisen zu haben.",
+          option_b: "mit ehemaligen Schülern ein Projekt zu planen.",
+          option_c: "nun endlich in Pension gehen zu können.",
         },
         correct_option: "A",
       },
@@ -224,296 +211,335 @@ beeinträchtigt werden. Dann sollte man auf jeden Fall ärztlichen Ratsuchen.`,
   },
   {
     id: 4,
-    title: "Verheiratet mit Handy und Computer",
-    text: `Die Woche mit sechzig bis achtzig Arbeitsstunden war für Volkmar Bergmann ganz normal. Der Gründer und Chefingenieur einer Software-Firma hatte von montags bis freitags einen Zwölfstundentag und arbeitete auch an Samstagen und Sonntagen. Das Geschäft ging sehr gut. Die Firma wurde immer größer: 1.100 Mitarbeiterinnen und Mitarbeiter – darauf konnte Volkmar Bergmann wirklich stolz sein.\n\nDie Arbeit machte ihm Spaß, jedenfalls so lange, bis sein Sohn geboren wurde. "Auf einmal fing ich an, die Dinge in einem anderen Licht zu sehen." Stress mit Nacht- und Wochenendarbeit herauszukommen. Jahrelang gelang ihm das nicht. Erst als er sich entschlossen hatte, sein Leben vollkommen zu ändern, wurde es besser: Heute arbeitet Bergmann nur 20 Stunden die Woche, als Berater für die Firma, die ihm früher einmal gehörte. Er hat Zeit für die Kinder und sagt: "Ich bin zufriedener als jemals zuvor in meinem Leben."\n\nGlück gehabt! Anderen Vielarbeitern ist eine solche Änderung nicht möglich, sie bleiben mit ihrem Schreibtisch "verheiratet". "Ein 24-Stunden-Arbeitstag ist der Trend", sagt Bryan E. Robinson, Professor in den USA. "Millionen von Arbeitnehmern geben ihre ganze Kraft für ihren Job." Wir leben in einer Welt, die vor allem den Menschen alle Chancen bietet, für die die Arbeit das Wichtigste im Leben ist, den so genannten Workaholics. Diese Menschen können Gutes nur durch ihre Arbeit tun. Sie haben längst die Fähigkeit verloren, ein Privatleben zu führen und sich um ihre Familie und die Freunde zu kümmern.\n\nDie Schwierigkeiten der Menschen, die an der Krankheit Workaholismus leiden, nehmen ständig zu. Immer mehr Menschen laufen Gefahr, von ihrer Arbeit regelrecht aufgefressen zu werden. Das Ende dieser Entwicklung lässt sich leicht absehen: Die Mitarbeiter werden häufiger krank, Arbeitsfreude und Motivation nehmen ab, es kommt zu Fehlern und Pannen. Das Familienleben leidet.\n\nModerne Technik und Medien machen es möglich: Durch das Handy ist man überall und jederzeit erreichbar. Mit Laptops und Mini-Computern ist man unabhängig vom Arbeitsplatz und kann von jedem Ort der Welt aus im Internet surfen oder seine elektronische Post erledigen. Die räumliche Grenze zwischen dem Zuhause und dem Büro besteht für viele nicht mehr. Der Arbeitsplatz wird als Zuhause angesehen und das Zuhause wird zum Arbeitsplatz. Eigentlich waren die neuen Medien dazu gedacht, die Arbeit einfacher zu machen. In Wirklichkeit führen sie dazu, dass die Arbeit immer tiefer in den Bereich der Freizeit eindringt. Ein Privatleben, in dem man von der Arbeit einmal ganz abschalten kann, gibt es schon heute für viele nicht mehr.\n\nInzwischen gibt es Seminare für Arbeitskranke, in denen die Teilnehmenden lernen sollen, wieder zu leben und nicht nur zu funktionieren: Der Psychologe Ulrich Beer gibt seinen Patienten in einer solchen Situation einen einfachen Rat: Im Kalender müssen genau so viele private wie berufliche Termine stehen. Familie und Beruf sind gleich wichtig.`,
+    title: "Gesundes Essen für Schulkinder",
+    text: `Viele Kinder gehen ohne Frühstück aus dem Haus. Die Gründe dafür sind unterschiedlich: Manche Eltern haben morgens keine Zeit, anderen fehlt selbst der Appetit. Dabei ist ein gesundes Frühstück wichtig für die Konzentration und Leistungsfähigkeit in der Schule.
+
+Ein ideales Schulbrot besteht aus Vollkornbrot, Käse oder magerer Wurst und Gemüsestreifen. Dazu gehört ein ungesüßtes Getränk wie Wasser oder Tee. Milch ist zwar gesund, sollte aber nicht als Durstlöscher dienen. In vielen Schulen gibt es mittlerweile ein Frühstücksangebot. Die Kinder können dort gemeinsam in Ruhe frühstücken.
+
+Auch das Trinken darf nicht vergessen werden. Kinder denken oft nicht daran, genug zu trinken. Dabei ist Flüssigkeit wichtig für das Gehirn. In vielen Schulen ist es mittlerweile erlaubt, während des Unterrichts zu trinken. Ideal sind Wasser oder ungesüßte Tees.
+
+Das Mittagessen sollte möglichst in der Schule eingenommen werden. Viele Schulen bieten mittlerweile ein warmes Mittagessen an. Es sollte ausgewogen sein und Gemüse enthalten. Wenn Kinder ihr Essen von zu Hause mitbringen, sollte es in einer Dose verpackt sein, damit es frisch bleibt.
+
+Eltern sollten darauf achten, dass ihre Kinder regelmäßig essen und trinken. Nur so können sie in der Schule gute Leistungen erbringen.`,
     questions: [
       {
         id: 1,
-        question_text: "Volkmar Bergmann",
+        question_text: "Einige Eltern",
         option: {
-          option_a: "wollte bei einer anderen Firma arbeiten.",
-          option_b: "wollte mehr Zeit für sein Privatleben haben.",
-          option_c: "wollte nur noch nachts und an Wochenenden arbeiten.",
+          option_a: "haben selbst keinen Appetit auf ein Frühstück.",
+          option_b: "lassen das Frühstück aus Zeitmangel ausfallen.",
+          option_c: "schaufeln das Frühstück einfach in sich hinein.",
         },
         correct_option: "B",
       },
       {
         id: 2,
-        question_text: "Es gibt viele Menschen,",
+        question_text: "Ein gesundes Frühstück",
         option: {
-          option_a: "die gerne einen anderen Schreibtisch hätten.",
-          option_b: "die heute bereits arbeitskrank sind.",
-          option_c: "die pro Woche nur noch 24 Stunden arbeiten.",
+          option_a: "Erhöht die Leistungen des Kindes auf dem Weg zur Schule.",
+          option_b: "muss mindestens aus einem Glas Kakao oder Milch bestehen.",
+          option_c: "sollte gemeinsam in der Schule eingenommen werden.",
         },
-        correct_option: "B",
+        correct_option: "A",
       },
       {
         id: 3,
-        question_text: "Durch die moderne Technik",
+        question_text: "Milch",
         option: {
-          option_a: "haben die Menschen mehr Zeit für das Privatleben.",
-          option_b: "kann die Arbeit fast überall erledigt werden.",
-          option_c: "wird es in Zukunft immer weniger Arbeit geben.",
+          option_a: "deckt den täglichen Flüssigkeitsbedarf.",
+          option_b: "gehört zum Angebot der Schulkantinen.",
+          option_c: "wird in verschiedenen Geschmacksrichtungen angeboten.",
         },
-        correct_option: "B",
+        correct_option: "C",
       },
       {
         id: 4,
-        question_text: "Laut Professor Robinson",
+        question_text: "Kinder",
         option: {
-          option_a: "wollen viele Menschen weniger arbeiten.",
-          option_b: "kann viel Arbeit den Menschen gut tun.",
-          option_c: "leben viele Menschen nur noch für ihren Beruf.",
+          option_a: "denken von alleine nicht immer daran, genug zu trinken.",
+          option_b: "dürfen während des Unterrichts nichts trinken.",
+          option_c:
+            "können sich auch noch gut konzentrieren, wenn sie nicht genug getrunken haben.",
         },
-        correct_option: "B",
+        correct_option: "A",
       },
       {
         id: 5,
-        question_text: "In Seminaren sollen die Teilnehmer lernen,",
+        question_text: "Mittagessen",
         option: {
-          option_a: "kranken Mitarbeitern zu helfen.",
-          option_b: "wie man die Arbeit im Büro besser organisieren kann.",
-          option_c: "ein gesundes Verhältnis zur Arbeit zu finden.",
+          option_a: "sollte in der Schule angeboten werden.",
+          option_b: "sollten die Kinder von zu Hause mitbringen.",
+          option_c: "sollten Kinder bei den Eltern zu Hause bekommen.",
         },
-        correct_option: "B",
+        correct_option: "A",
       },
     ],
   },
   {
     id: 5,
-    title: "Computerkurse sind schon für Kinder spannend",
-    text: `Schreiben, Rechnen, Programme installieren\n\nSchaden oder nützen Computer unseren Kindern? Fragen sich viele Eltern. Ein Computerkurs Veranstalter ist sich ganz sicher: wenn man den Kindern beibringt, den Computer richtig einzusetzen, ist sogar eine Lernhilfe. Seit fünf Jahren bietet Franz Krapfi Krapfen Bauer Computerkurse für Kinder zwischen sieben und vierzehn Jahren an und ist von seinen Schülern begeistert. Am liebsten würden die Kinder drei Stunden ohne Pause durcharbeiten. Und das obwohl in seinen Kursen nicht gespielt wird, sondern der Computer als Lernhilfe genutzt wird. Im ersten Kurs lernen die Kinder den Umgang mit dem Betriebssystem und erste Grundzüge der Textverarbeitung.\n\nDas Geheimnis von Krapfen Bauer: Ich erkläre die Programme in der Sprache der Kinder und langweile sie nicht mit technischen Details. Sein Talent entdeckte er, als sich seine eigenen Kinder für den PC zu interessieren begannen. Seine Tochter brachte immer mehr Mitschüler zum sonntäglichen PC-Training mit, bis eines Tages klar war: Das muss auf professionelle Beine gestellt werden.\n\nDas schwierigste war, einen passenden und vor allem kostengünstige Raum zu finden, denn Geld brachten die Kinderkurse am Anfang sehr wenig ein. Ein Bekannter, der Direktor eines Hotels ist, hatte schließlich die passende Lösung. Die Schulungsräume im Hotel stehen den Kindern nun an den Wochenenden zur Verfügung. Allgemein rät Krapfen Bauer, Kinder so früh wie möglich an den Computer zu lassen, allerdings nur unter Aufsicht und mit den richtigen Programmen. Beim Computer ist es wie beim Fernseher: wenn man ihn als Kindermädchen einsetzt, ohne sich darum zu kümmern, was die Kinder damit machen, kann das negative Folgen haben. Schon für drei- bis vierjährige Kinder gebe es sehr gute Spielprogramme, die mit Vorschulaufgaben vergleichbar wären. Gerade in der Zeit nach Weihnachten haben Krapfis Kindercomputerkurse Hochsaison. Viele Eltern haben einen Computer unter den Christbaum gestellt und wollen jetzt, dass ihre Kinder frühzeitig damit umgehen lernen. Wobei der Seminarleiter für manche Eltern sogar zu viel Wissen weitergibt. Einige Eltern haben sich schon beschwert, weil ihre Kinder jetzt Hausaufgaben am Computer lösen. Die manchmal befürchtete Überordnung der Kinder hat Krapfen Bauer noch nicht erlebt. Ganz im Gegenteil, die kleinen sind oft gar nicht zu stoppen, wenn sie wieder etwas Neues erlernt haben. Viele Teilnehmer kommen dann auch gern zu den nächsten Kursen. Zeichenprogramm oder Spiele kommen in den Computerkursen höchstens als Belohnung am Rande vor.\n\nDas größte Hindernis auf dem Weg zum Computerexperten ist für die Kinder in manchen Fällen die negative Einstellung der Eltern. Die Erwachsenen kennen oft nur die komplizierten Datenbankanwendungen und Programme aus dem Büro und können sich gar nicht vorstellen, was man mit dem Computer noch alles machen kann, bedauert Krapfen Bauer. Natürlich wirkt sich diese negative Grundeinstellung auch auf die Kinder aus. Überraschenderweise sind es dann oft die Großeltern, die für Computerkurse das Geld geben, damit ihre Enkelkinder mit dem PC richtig umgehen lernen.\n\nInformation und Anmeldung\nTel: 0664/ 33 33 14\nE-Mail: Krapfi@aon.at`,
+    title: "Wie unsere Kaufentscheidungen beeinflusst werden",
+    text: `Haben Sie schon einmal darüber nachgedacht, warum Sie manche Dinge kaufen und andere nicht? Warum Sie etwas einkaufen, das Sie gar nicht brauchen, obwohl Sie eigentlich aus einem ganz anderen Grund ins Geschäft gegangen sind? Die Ursache dafür liegt in unserem Körper. Er steuert unsere Entscheidungen viel stärker als bisher gedacht. Neue Forschungen setzen sich mit diesem Zusammenhang zwischen Körper, Kaufverhalten und Umweltbedingungen auseinander.
+
+Nachdem Forscher Studenten über Filme und ihr Fernsehverhalten befragt hatten, fanden sie Beweise dafür, dass gefühlte Kälte (zum Beispiel im Winter) ein Bedürfnis nach psychologischer Wärme hervorruft. Vorangegangene Studien hatten sich mit der Psychologie der Liebe beschäftigt. Dabei konnte gezeigt werden, dass verliebte Menschen sehr häufig das Gefühl feuchter Hände, gesteigertes Herzklopfen und beschleunigte Atmung wahrnehmen. Das alles sind Anzeichen, die auch mit körperlich erlebter Wärme zusammenhängen. Wenn uns kalt ist, beeinflusst daher unser Bedürfnis nach Wärme zum Beispiel den Kauf von romantischen Filmen auf DVD. Um diesen Zusammenhang zu belegen, manipulierten Forscher in einer Reihe von Experimenten entweder die Temperatur von Tee oder die Raumtemperatur. Kalter Tee oder eine niedrige Raumtemperatur sorgten dafür, dass die Teilnehmer Romantikfilme reizvoller fanden. Dieser Effekt trat unabhängig von Geschlecht und Alter bei allen Menschen auf. Wenn Hersteller also romantische DVDs herausgeben oder Reiseveranstalter "kuschelige Angebote für Zwei" verkaufen wollen, sollten sie damit bis zum Herbst oder Winter warten. Das Bedürfnis der Käufer nach diesen Waren ist dann ungleich größer. Aber wenn die Verkaufsräume eines Kaufhauses kühl klimatisiert sind, werden "wärmende" Angebote wie zum Beispiel Tee auch im Sommer mehr gekauft.
+
+Andere Forschungen befassen sich mit dem Zusammenhang von Menge und Preis. Beim Erstellen von attraktiven Angeboten und Werbeveranstaltungen machen sich regelmäßig Menschen aus unterschiedlichen Bereichen, wie Marketing und Vertrieb, Gedanken über den richtigen Preis und die passenden Werbebotschaften. Bisher wenig beachtet wurde die Reihenfolge der Angabe von Preis und Menge. Neue Studien zeigen, dass Konsumenten auf Angebote extrem unterschiedlich reagieren, je nachdem, ob ihnen bei Sonderangeboten zuerst der Preis oder zuerst die Menge genannt wird.
+
+Eine neue Studie untersuchte nun die Reaktionen der Konsumenten auf genau diese Reihenfolge. Die Information über eine große Menge vor die Preisinformation zu setzen, scheint deutlich reizvoller auf Konsumenten zu wirken, als den Preis vor der Menge zu nennen. Außerdem wurde untersucht, was passiert, wenn die Packungen groß oder klein sind und wenn die Preise pro Stück leicht auszurechnen sind. Wenn die Packung groß und der Stückpreis schwierig auszurechnen ist, zeigen sich die Konsumenten eher bereit, die Packung zu kaufen, wenn zuerst die Menge genannt wird. Außerdem sind sie dann der Meinung, dass ein solches Angebot einen guten Einkauf darstellt. Wenn allerdings der Preis zuerst dargestellt wird oder er ein Vielfaches der Stückzahl ausmacht und somit leicht auszurechnen ist (z. B. 5 DVDs für 50 €), tritt das genaue Gegenteil ein. Dies liegt unter anderem daran, dass das menschliche Gehirn Schwierigkeiten hat, große Zahlen zu verarbeiten. Unter Zeitdruck erscheinen uns dann sogar vermeintlich einfache Berechnungen als schwierig. Dann nutzen wir hauptsächlich die erste Information, die wir wahrnehmen, um so den Kauf und seine Vorteile oder Nachteile für uns zu bewerten.
+
+Als Kunde begegnen wir also großen Packungen, bei denen zuerst die Menge mitgeteilt wird, und glauben, dass dies ein günstiges Angebot ist. Mit dem neuen Wissen über die Forschungsergebnisse sollten wir aber zumindest ab und zu beim Kauf von größeren Packungen innehalten und noch einmal überlegen, ob es sich wirklich um ein gutes Angebot handelt. Aus der Perspektive der Geschäfte muss die Schlussfolgerung allerdings wie folgt lauten: Große Angebote zusammenstellen und erst mit der Menge und dann mit dem Preis werben. Dass diese Strategie funktioniert, lässt sich Tag für Tag im Supermarkt beobachten.`,
     questions: [
       {
         id: 1,
-        question_text: "In der Computerkursen von Franz Krapfenbauer",
+        question_text: "Es liegen Untersuchungen darüber vor,",
         option: {
-          option_a: "lernen die Kinder vor allem neue Computerspiele kennen.",
+          option_a: "wie stark die Entscheidungen den Körper steuern.",
           option_b:
-            "lernen Kinder ab 14 Jahren das richtige Arbeiten mit dem Computer.",
+            "welche Einflüsse bestimmte Faktoren auf das Kaufverhalten haben.",
           option_c:
-            "werden die Computerprogramme so einfach wie möglich erklärt.",
+            "warum Menschen so viel über das eigene Einkaufsverhalten nachdenken",
+        },
+        correct_option: "B",
+      },
+      {
+        id: 2,
+        question_text: "Es gibt Hinweise darauf, dass",
+        option: {
+          option_a: "man sich im Winter häufiger verliebt als im Sommer.",
+          option_b:
+            "Forscher bei ihren Experimenten die Konsumenten manipulierten.",
+          option_c:
+            "das Empfinden von Kälte zum Kauf romantischer Filme animiert.",
         },
         correct_option: "C",
       },
       {
-        id: 2,
-        question_text: "Am Anfang war es für Franz Krapfenbauer schwierig,",
-        option: {
-          option_a: "einen geeigneten Raum für die Kurse zu finden.",
-          option_b: "genug Kinder für den Computerkurs zu finden.",
-          option_c: "seine Tochter für den Computer zu begeistern.",
-        },
-        correct_option: "A",
-      },
-      {
         id: 3,
-        question_text: "Herr Krapfenbauer meint,",
+        question_text: "Forscher haben untersucht,",
         option: {
-          option_a: "dass auch kleine Kinder mit dem Computer arbeiten sollen.",
-          option_b:
-            "dass Kinder unter vier Jahren zu jung für den Computer seien.",
+          option_a: "wie extrem günstige Angebote Konsumenten beeinflussen.",
+          option_b: "welche Kunden bei Sonderangeboten größere Mengen kaufen.",
           option_c:
-            "dass sich Kinder alleine mit dem Computer beschäftigen sollen.",
+            "ob die Reihenfolge von Produktinformationen das Kaufverhalten beeinflusst.",
         },
-        correct_option: "A",
+        correct_option: "C",
       },
       {
         id: 4,
-        question_text: "Viele Kinder",
+        question_text: "Unser Gehirn",
         option: {
-          option_a: "machen im Kurs ihre Hausaufgaben am Computer.",
-          option_b: "machen nach dem ersten Kurs noch einen weiteren Kurs.",
-          option_c: "probieren im Kurs neue Computerspiele aus.",
+          option_a: "verarbeitet beim Einkaufen hauptsächlich Preisangaben.",
+          option_b:
+            "nutzt unter Zeitdruck vor allem die erste Information einer Botschaft.",
+          option_c:
+            "kann unter Zeitdruck mathematische Aufgaben schneller lösen.",
         },
         correct_option: "B",
       },
       {
         id: 5,
-        question_text: "Franz Krapfenbauer erzählt,",
+        question_text: "Großpackungen können besser verkauft werden, wenn die",
         option: {
-          option_a:
-            "dass die Computerkurse oft von den Großeltern bezahlt werden.",
-          option_b: "dass einige Eltern selbst als Computerexperten arbeiten.",
-          option_c: "dass er auch Computerkurse in Büros plant.",
+          option_a: "enthaltene Stückzahl möglichst hoch ist.",
+          option_b: "Produkte täglich beworben werden.",
+          option_c: "Mengenangabe vor dem Preis genannt wird.",
         },
-        correct_option: "A",
+        correct_option: "C",
       },
     ],
   },
   {
     id: 6,
-    title: "Das machen wir mit links",
-    text: `Über eine Million Österreicher sind Linkshänder – und langsam setzen sie sich durch in der Rechtshänder-Welt\n\n"Schau der macht das mit der linken Hand." Solche und ähnliche Kommentare hörte der gelernte Porzellanformer Gerhard Spur (51) von Besuchern, die die Porzellanmanufaktur im Wiener Augarten besichtigten und dem Künstler beim Herstellen eines Kunstwerkes zusahen – allerdings nur früher, als nur die rechte Hand die so genannte schöne Hand war, die man zum Arbeiten, Schreiben usw. verwenden durfte. Heute ist es offensichtlich normal, dass jemand mit der linken Hand Vasen aus Porzellan bearbeitet. Gerhard Spur wird jedenfalls nicht mehr bestaunt.\n\nLinks arbeiten\n\nGut 15 Prozent der Menschheit sind Linkshänder. Über die Gründe für Linkshändigkeit ist sich die Wissenschaft nicht einig. Fest steht nur: Wenn Kinder gezwungen werden, statt mit der linken Hand mit der rechten Hand zu schreiben, hat dies schwerwiegende Folgen. "Dies führt zu Knoten im Kopf", so die Linkshänder-Expertin Johanna Barbara Sattier. Spätestens wenn umgeschulte Kinder mit dem Lesen und Schreiben beginnen, macht sich das Chaos im Kopf bemerkbar. In der Schule ist es mittlerweile verboten, Linkshänder auf rechts umzuschulen. Probleme machen allerdings noch Arbeitsplätze, die nicht für Linkshänder geeignet sind, erklärt Erich Pospischill, Leiter des arbeitsmedizinischen Zentrums Mödling: "Schon die Computermaus auf der falschen Seite führt zu rascherer Ermüdung, weil das Gehirn durch das ständige Umdenken zusätzlich belastet wird."\n\nLösungen im Betrieb\n\nDie Maschine, an der Slata Tanasic tagtäglich arbeitet, funktioniert von links unten nach rechts oben. Genau verkehrt für die 41-Jährige, die seit 21 Jahren im Seibert-Elektronikwerk arbeitet. "Ich habe gesagt, dass ich mit der Maschine so nicht arbeiten kann. Und das wurde akzeptiert." Slata wurde in einen anderen Arbeitsbereich versetzt und macht jetzt Arbeiten, die auch mit der linken Hand möglich sind: Montieren und Vorbereiten der Bauteile.\n\nEltern können helfen\n\nBei Kleinkindern lässt sich nicht sofort erkennen, ob sie links- oder rechtshändig sind, sagt die Expertin Sattler: "Viele Kinder ahmen zuerst die Tätigkeiten in unserer rechtshändigen Welt nach." Deshalb rät Sattler den Eltern, ihren Kindern beim Herausfinden ihrer Händigkeit zu helfen: Blumen gießen mit einer kleinen Kanne, einen Ball werfen – bei diesen Handlungen greifen Kinder automatisch mit der starken Hand zu. Und dann sollten Eltern bereits erste Konsequenzen ziehen.`,
+    title: "Geschichte des Hauspersonals",
+    text: `Dienstmädchen war um 1900 der am weitesten verbreitete Beruf für Frauen. Aus heutiger Perspektive ist das verwunderlich, denn der Alltag eines Dienstmädchens war sehr hart. Was trieb also Frauen in diesen Beruf? Es waren vor allem Mädchen vom Land, die von ihren Eltern in die Stadt geschickt wurden, um dort zu arbeiten. Auf dem Land gab es kaum Stellen für Mädchen. Als Dienstmädchen, so hofften die Eltern, würden ihre Töchter wenigstens das Hauswirtschaften lernen - eine wichtige Fertigkeit als spätere Haus- und Ehefrau. Dabei war das enge Leben eines Dienstmädchens ohne viel Zeit genau das, was den Eltern gut an diesem Beruf erschien: da die Mädchen oft erst 14 oder 15 Jahre alt waren, waren sie in einer Familie behüteter als beispielsweise in der Fabrik. Allerdings kam es nicht selten vor, dass die Hoffnung auf eine Ausbildung enttäuscht wurde. Viele Mädchen wurden nicht eingearbeitet und angelernt, sondern mussten selber zusehen, wie sie das Arbeitspensum bewältigten.
+
+Leider verfügten die Eltern meist nicht über Kontakte in der Stadt. Die Mädchen fuhren mit dem Zug in die Fremde und mussten dann auf eigene Faust eine Stellung finden. Das machten sich auch dubiose Stellenvermittler an den Bahnhöfen zunutze und verschafften den Mädchen Stellen in Kneipen als Kellnerinnen - damals eine Arbeit mit sehr schlechtem Ruf. Um diesen Missstand zu beenden, gründeten sich übrigens die Bahnhofsmissionen, die damals konfessionsübergreifend von den katholischen, evangelischen und jüdischen Gemeinden den ankommenden Mädchen erst einmal ein Bett bieten sollten.
+
+Wer etwas auf sich hielt, beschäftigte um 1900 ein Dienstmädchen: sowohl kleinbürgerliche Haushalte als auch großbürgerliche. Die unteren Schichten, also Handwerkerfamilien, eiferten den gehobeneren nach. Nach außen durfte es an nichts fehlen, auch wenn das Budget dafür knapp war. Gespart wurde da, wo es nicht sichtbar war: bei der Unterbringung und Ernährung der Dienstmädchen. In gehobeneren Schichten gab es gerne auch mehr Personal - ein Vorteil und Nachteil zugleich. Einerseits hatte das Dienstmädchen so mehr Gesellschaft und war weniger isoliert, andererseits gab es auch unter den Dienstboten eine Hierarchie und das Dienstmädchen war das unterste Glied.
+
+Anders als Fabrikarbeiter hatten Dienstboten keine geregelten Arbeitszeiten. Sie mussten, wenn nötig, ihren Dienstherren rund um die Uhr zur Verfügung stehen. Das Dienstmädchen stand als Erste auf, befeuerte den Ofen, machte das Wasser zum Waschen und fürs Frühstück warm, servierte die Mahlzeiten, räumte wieder ab, spülte und putzte. Das Einkaufen gehörte zu den beliebten Tätigkeiten, denn das erlaubte es den Mädchen, einmal ohne Aufsicht in der Stadt unterwegs zu sein, andere Dienstmädchen zu treffen und sich auszutauschen. Fließendes Wasser gehörte um die Jahrhundertwende nicht zum Standard, so musste das Dienstmädchen auch Wasser schleppen. Erst wenn alle Arbeit erledigt war, konnte das Dienstmädchen schlafen gehen. Die wenige freie Zeit am Abend reichte oft nur, um die eigene Kleidung auszubessern. Alle vierzehn Tage durften die Mädchen sonntags für zwei Stunden das Haus verlassen, das war der einzige Ausgang, den sie hatten.
+
+Der Lohn bestand im Wesentlichen aus Kost und Unterkunft. Etwas zurücklegen für später konnte kaum ein Mädchen. Auch die Unterbringung ließ zu wünschen übrig. Von Berliner Dienstmädchen weiß man, dass sie oft noch nicht einmal eine eigene Kammer hatten, sondern auf so genannten Hängeböden schliefen, eine kleine Fläche von vielleicht mal zwei Metern bei einer Raumhöhe von etwa 1,50 Meter. Wenig Schlaf, und dann auch noch schlechter Schlaf: Vielen Mädchen waren die Strapazen trotz ihres jungen Alters anzusehen. Für die meisten war es nur eine Zwischenstation. Heirateten sie, beendeten die jungen Mädchen dieses Arbeitsverhältnis und stattdessen war die junge Frau selbst Hausfrau und Herrin eines eigenen Haushalts.`,
     questions: [
       {
         id: 1,
-        question_text: "Gerhard Spur",
+        question_text:
+          "Die Eltern ließen ihre Töchter als Dienstmädchen arbeiten,",
         option: {
-          option_a: "arbeitet heute nur noch mit der rechten Hand.",
-          option_b: "arbeitet früher mit Linkshändern zusammen.",
-          option_c: "stellt seine Kunstwerke mit der linken Hand her.",
+          option_a:
+            "damit sie die Jahre bis zur Arbeit in der Fabrik überbrücken konnten.",
+          option_b: "damit sie lernten, einen Haushalt zu führen.",
+          option_c: "damit sie besser beaufsichtigt waren als zu Hause.",
         },
-        correct_option: "C",
+        correct_option: "B",
       },
       {
         id: 2,
-        question_text: "Heute ist wissenschaftlich bewiesen, dass",
+        question_text: "Die Stellen fanden die Mädchen zumeist",
         option: {
-          option_a: "es eine klare Ursache für Linkshändigkeit gibt.",
-          option_b: "Linkshänder besser im Lesen und Schreiben sind.",
-          option_c: "Linkshändern das Schreiben mit der rechten Hand schadet.",
+          option_a: "durch Vermittler, die ins Dorf kamen.",
+          option_b: "alleine",
+          option_c: "mit Hilfe ihrer Eltern.",
         },
-        correct_option: "C",
+        correct_option: "B",
       },
       {
         id: 3,
-        question_text: "Erich Pospischill meint, dass",
+        question_text: "Dienstmädchen gab es",
         option: {
-          option_a:
-            "es für Linkshänder sehr oft keine geeigneten Arbeitsplätze gibt.",
+          option_a: "fast nur bei reicheren Leuten.",
+          option_b: "auch bei den weniger reichen Leuten.",
+          option_c: "in jedem Haus in der Stadt.",
+        },
+        correct_option: "B",
+      },
+      {
+        id: 4,
+        question_text: "Dienstmädchen",
+        option: {
+          option_a: "mussten länger arbeiten als Fabrikarbeiter.",
           option_b:
-            "Linkshänder vor allem im Computerbereich eingesetzt werden.",
-          option_c: "Linkshänder wesentlich öfter krank sind.",
+            "konnten sich am Sonntag zwei Stunden mit anderen Dienstmädchen treffen.",
+          option_c: "durften nicht alleine einkaufen gehen.",
         },
         correct_option: "A",
       },
       {
-        id: 4,
-        question_text: "Frau Slata Tanasic",
-        option: {
-          option_a: "arbeitet seit 41 Jahren in der gleichen Firma.",
-          option_b: "erledigt alle Arbeiten mit der linken Hand.",
-          option_c: "ist seit 21 Jahren an der gleichen Maschine beschäftigt.",
-        },
-        correct_option: "C",
-      },
-      {
         id: 5,
-        question_text: "Laut der Linkshänder-Expertin Johanna Sattier",
+        question_text: "Dienstmädchen bekamen",
         option: {
-          option_a: "haben Linkshänder meistens auch linkshändige Eltern.",
-          option_b:
-            "kann man Linkshändigkeit bei kleinen Kindern nicht gleich entdecken.",
-          option_c: "sind linkshändige Kinder besonders gut im Ballspielen.",
+          option_a: "fast kein Geld.",
+          option_b: "ein eigenes Zimmer.",
+          option_c: "Geld, um für später zu sparen.",
         },
-        correct_option: "B",
+        correct_option: "A",
       },
     ],
   },
   {
     id: 7,
-    title: "Philipp Reis – der wahre Erfinder des Telefons?",
-    text: `Erfinder, Lehrer, Familienvater – Auf den Spuren von Philipp Reis besuchte Susanne Müller seinen Geburtsort\n\n"Weil sein Vater nie aufgeschrieben habe, was er machte, ist mancher gute Gedanke verloren gegangen", klagt später einmal Karl Reis. Auch gibt es wenige offizielle Berichte und Dokumente über Philipp Reis in Friedrichsdorf und in seiner Geburtsstadt Gelnhausen. Das gilt besonders für das private Leben der Familie Reis, die ab 1852 in unmittelbarer Nähe des berühmten Garnier-Instituts in Friedrichsdorf ein Haus gefunden hatte. Berichte des Sohnes Karl Reis erzählen ein wenig mehr über das Leben des Erfinders. Karl Reis, der beim Tod des Vaters erst elf Jahre alt war, berichtet von einem lieben und gerechten Vater, der sich sehr um seine Frau und seine Kinder gesorgt hat. Wenn der Vater aber seine Experimente machte, vergaß er alles um sich herum.\n\nPhilipp Reis lernte bereits als Junge viele technische Maschinen kennen und machte eine Reihe von Experimenten, die er als Lehrer am Garnier-Institut fortsetzte. Er entwickelte eine große Anzahl von technischen Geräten, die im Institut gut verwendet werden konnten. Auf die Schüler machte Philipp Reis einen oft sehr merkwürdigen Eindruck. Verunsichert waren die Schüler besonders dann, wenn Reis Aufsicht hatte, aber selbst im Klassenraum gar nicht anwesend war.\n\nTrotzdem konnte Reis alles hören und wusste, was passiert war. Philipp Reis hatte eine besondere Kamera gebaut, mit der er von seinem Arbeitszimmer aus, in dem er gleichzeitig Experimente durchführte, in die Klassenräume schauen konnte. Ein Draht, der über den Schulhof in sein Arbeitszimmer führte, diente als Vorläufer des späteren Telefons. Bei den Schülern und Lehrern entstand so der Ruf, dass der Reis auf geheimnisvolle Weise alles sehen kann.\n\n1883 schrieb der englische Professor Silvanus Thompson einen Bericht über Reis und nannte ihn den wahren Erfinder des Telefons. Philipp Reis habe das Telefon entwickelt, und nicht Graham Bell oder Thomas Edison. Diese beiden amerikanischen Forscher hätten auch bei ihren Arbeiten zur Entwicklung des Telefons auf Philipp Reis' Experimente in Deutschland hingewiesen. Seine offizielle Anerkennung als Erfinder des Telefons hat Philipp Reis allerdings nicht mehr erlebt. Im Jahre 1874 ist er in Friedrichsdorf an einer Lungenkrankheit gestorben.`,
+    title: "Wer parkt, muss zahlen - Parkuhren in Deutschland",
+    text: `Es geschah am 1. Januar 1954. In Duisburg, einer Großstadt am Rhein zwischen Köln und der niederländischen Grenze am Rande des Ruhrgebiets, gab es für die Autofahrer, die in der Straße "Am Buchenbaum" ihre Autos parken wollten, eine Überraschung. 20 etwa 1,5 Meter hohe Metallstangen mit uhrenförmigen Aufsätzen standen am Straßenrand mit der unmissverständlichen Aufschrift: "Einwurf 10 Pfennig für eine Stunde". Die ersten Parkuhren in Deutschland waren aufgestellt. Nur Basel in der Schweiz und Stockholm in Schweden hatten vor Duisburg Parkuhren installiert, um Dauerparker aus den Stadtzentren zu vertreiben. Das eingenommene Geld wurde in Duisburg anfangs für gemeinnützige Zwecke ausgegeben: für Alte, Kranke, Kriegsversehrte und für elternlose Kinder. Und die Stadtverwaltung war sich sicher, dass die Autofahrer Verständnis für die Parkuhren aufbringen würden, dienten sie doch einem guten Zweck.
+Doch bei den Autofahrern war man nicht so erfreut über diese neuen Apparate. "Groschengrab" wurden sie dann auch bald überall genannt: ein Apparat, in den man Groschen – wie die 10-Pfennig-Stücke damals genannt wurden – hineinwarf. Dieser schluckte zwar gnadenlos Zehner, gab aber zum Verdruss vieler trotzdem oft keine Parkzeit frei. Tat er dies, dann aber in der Regel nur für höchstens 60 Minuten. Viele Autofahrer waren außerdem verärgert, weil sie immer passendes Kleingeld dabei haben mussten. Die ersten Parkuhren konnten nämlich nicht wechseln.
+Wer parkte, ohne zu zahlen, riskierte damals wie heute einen Strafbescheid, liebevoll "Knöllchen" genannt. In allen anderen deutschen Städten erschienen nach und nach auch Parkuhren. Bald gehörten sie zu den Innenstädten wie das Rad zum Auto. Und das blieb so bis zum Ende der 1980er Jahre. Dann geschah so etwas wie eine Parkuhren-Revolution. Die guten, alten Parkuhren, die im Vergleich zu heute immer noch billiges Parken erlaubten, weil sie nicht beliebig oft auf neue Beträge umgestellt werden konnten, wurden mehr und mehr ersetzt durch die gerade neu entwickelten Parkscheinautomaten. Mit Solarenergie angetrieben, computergesteuert und beliebig programmierbar machten sie es nun möglich, ohne technische Beschränkungen die Preise und Zeiten für das Parken flexibel zu gestalten. Von Vorteil ist auch ihre Kundenfreundlichkeit: Die Zeiten, in denen nur Münzen als Zahlungsmittel akzeptiert wurden, sind passé; jetzt schlucken sie auch problemlos Papier- und Plastikgeld – und Wechselgeld wird ausgespuckt.
+Das Parken wurde immer teurer. Und längst dienten die eingenommenen Beträge nicht mehr gemeinnützigen Zwecken. Sie wurden vielmehr als Einnahmequelle für die leeren Stadtkassen entdeckt, die nach immer mehr Geld verlangten. Gut 2 Millionen Euro verdient zum Beispiel Duisburg in einem Jahr an den Parkgebühren. In Köln kommen etwa 10 Millionen Euro im Jahr zusammen. Noch einmal so viel Geld verdienen die Städte an den "Knöllchen" für falsches Parken. Aus 10 Pfennig für eine Stunde im Jahr 1954 – das wären heute etwa 5 Cents – sind inzwischen weit höhere Beträge geworden. Spitzenreiter in Deutschland sind Düsseldorf und Berlin mit mehreren Euro pro Stunde. Tendenz steigend. Doch aus dem Kölner Rathaus heißt es an alle sich beschwerenden Autofahrer gerichtet, das Geld werde selbstverständlich zweckgebunden verwendet: für den Bau neuer Straßen. An denen neue Parkscheinautomaten stehen?`,
     questions: [
       {
         id: 1,
-        question_text: "Heute weiß man, dass Philipp Reis",
+        question_text: "Die ersten Parkuhren Europas standen",
         option: {
-          option_a: "bei seinen Versuchen die Familie vergaß.",
-          option_b: "seinen Kindern viel über seine Experimente erzählte.",
-          option_c: "sogar mit seiner Familie Experimente machte.",
-        },
-        correct_option: "A",
-      },
-      {
-        id: 2,
-        question_text: "Professor Thompson",
-        option: {
-          option_a: "hat bei der Entwicklung des Telefons mitgearbeitet.",
-          option_b: "meinte, dass Reis das Telefon erfunden hat.",
-          option_c: "war ein Studienkollege von Philipp Reis.",
+          option_a: "in der Schweiz und in Deutschland.",
+          option_b: "in der Schweiz und in Schweden",
+          option_c: "in Deutschland und in Schweden.",
         },
         correct_option: "B",
       },
       {
-        id: 3,
-        question_text: "Die Schüler von Philipp Reis",
+        id: 2,
+        question_text:
+          "Früher wurden in Duisburg die Parkgebühren verwendet, um",
         option: {
-          option_a: "konnten ihren Lehrer in seinem Arbeitszimmer sehen.",
-          option_b: "machten in seinem Arbeitszimmer Experimente.",
-          option_c: "wurden von ihrem Lehrer mit einer Kamera beobachtet.",
+          option_a: "Bedürftige zu unterstützen.",
+          option_b: "Dauerparker aus den Stadtzentren zu vertreiben.",
+          option_c: "Löcher im städtischen Haushalt zu stopfen.",
+        },
+        correct_option: "A",
+      },
+      {
+        id: 3,
+        question_text: "Die ersten Parkuhren",
+        option: {
+          option_a: "funktionierten problemlos.",
+          option_b: "gaben nur Groschen zurück.",
+          option_c: "konnten nur Münzen annehmen.",
         },
         correct_option: "C",
       },
       {
         id: 4,
-        question_text: "Über das private Leben von Philipp Reis",
+        question_text: "Die neuen Parkscheinautomaten",
         option: {
-          option_a: "gibt es nur wenige Berichte aus seiner Familie.",
-          option_b: "kann man im Garnier-Institut viele Berichte finden.",
-          option_c: "kann man in Gelnhausen viel erfahren.",
+          option_a: "funktionieren nur bargeldlos.",
+          option_b: "geben kein Wechselgeld zurück.",
+          option_c: "sind flexibel im Hinblick auf die Art der Bezahlung.",
         },
-        correct_option: "A",
+        correct_option: "C",
       },
       {
         id: 5,
-        question_text: "Philipp Reis",
+        question_text: "In Berlin und in Düsseldorf",
         option: {
-          option_a: "hat viele technische Geräte gebaut.",
-          option_b: "leitete als junger Wissenschaftler das Garnier-Institut.",
-          option_c: "studierte am Garnier-Institut.",
+          option_a: "fließen die Parkgebühren nur in den Straßenbau",
+          option_b: "nimmt die Zahl der Parkscheinautomaten zu.",
+          option_c: "werden die höchsten Parkgebühren verlangt.",
         },
-        correct_option: "A",
+        correct_option: "C",
       },
     ],
   },
   {
     id: 8,
-    title:
-      "Informationsveranstaltungen sind wichtige Grundlagen für die Berufswahl",
-    text: `Die Entscheidung, welchen Beruf man erlernen will, ist nicht leicht. Große Firmen bieten spezielle Informationsveranstaltungen für Schülerinnen und Schüler an. Wir haben einen Info-Nachmittag der Bank Credit Suisse in Bern besucht und uns danach bei den Jugendlichen umgehört.\n\n20 Schülerinnen und Schüler kann Irene Leiser um Punkt 13 Uhr zu diesem Info-Nachmittag begrüßen. Die Jugendlichen kommen aus dem ganzen Kanton Bern und haben sich vorher bei der Bank angemeldet. Viermal im Frühling und zwei weitere Male im August werden diese Info-Veranstaltungen bei der Credit Suisse durchgeführt. Sie richten sich vor allem an Schülerinnen und Schüler aus der 8. Klasse. Irene Leiser hat gute Erfahrungen mit diesen Veranstaltungen gemacht: die Jugendlichen können danach ihre Erwartungen an den Beruf und die Ausbildung an die Realität anpassen.\n\nIm ersten Teil des Nachmittags erklärt Frau Leiser die Hauptaufgaben einer Bank und stellt die Firma vor. Danach treten die Lehrlinge in Aktion: Daniel Sommer und Linda Schmidt sind im zweiten Lehrjahr und erzählen aus ihrem Berufsalltag. Dieser Teil gefällt den Schülerinnen und Schülern besonders gut.\n\nDie Jugendlichen identifizieren sich mit den Lehrlingen und sehen, wo sie selber in zwei Jahren beruflich stehen könnten. Das fasziniert sehr. Zum Schluss folgen Informationen darüber, welche Voraussetzungen man mitbringen muss und wie man sich bewirbt. Um 16:30 Uhr schließt Frau Leiser die Veranstaltung. Sie ist zufrieden mit dem Nachmittag. Die Gruppe war sehr aufmerksam. Interessierten Schülerinnen und Schülern gibt sie folgenden Tipp: "Gehen Sie auch noch zu anderen Firmen. Fragen Sie dort möglichst viele Lehrlinge und Mitarbeiter nach ihren Erfahrungen." Wir haben danach eine Schülerin und einen Schüler befragt, wie sie den Nachmittag erlebt haben:\n\nTugba Kaptan aus Biel, 8. Klasse\n"Mich fasziniert das Umfeld einer Bank. Ich hätte mehr Leute bei der Arbeit sehen wollen, zum Beispiel am Schalter. Aber der Tag hat mir weiter geholfen. Ich habe viele Dinge erfahren, die ich bis her nicht gewusst habe. Solche Nachmittage sind ideal, weil da schulfrei ist."\n\nAlan Blank aus Mühleberg, 8. Klasse\n"Die Bank ist eigentlich mein Traumberuf und bietet mir nach der Lehre viele Entscheidungsmöglichkeiten. Ich habe mich umgeschaut und mich über viele Berufe informiert. Jetzt weiß ich, dass ich eine Lehre in diesem Bereich machen will. Ich suche nach der optimalen Lehrstelle. Eine Großbank wäre toll für mich. Dieser Nachmittag hat mir gefallen. Alles war sehr gut organisiert. Ich kann solche Veranstaltungen nur empfehlen. Was mir persönlich gefehlt hat, ist eine Führung durch den Betrieb. Es ist wichtig zu sehen, wie das alles genau vor sich geht."`,
+    title: "Großraumbüros",
+    text: `Großraumbüros sind in vielen Unternehmen beliebt, weil sie kostengünstiger sind als Einzelbüros. Eine Studie aus der Schweiz zeigt jedoch, dass viele Mitarbeiter sich über die Lärmbelastung in Großraumbüros beschweren.
+
+Die Vorteile von Großraumbüros liegen auf der Hand: Sie sind günstiger zu beheizen und ermöglichen eine bessere Kommunikation unter den Kollegen. Allerdings leiden viele Angestellte unter der ständigen Geräuschkulisse. Deutsche Angestellte bevorzugen laut Umfragen meist Einzelbüros oder kleine Teamräume.
+
+In London ist die Situation anders. Dort teilen sich oft mehrere Mitarbeiter einen Arbeitsplatz. Die Fläche pro Person ist deutlich kleiner als in deutschen Büros. Großraumbüros findet man vor allem in Banken und Telekommunikationsunternehmen.
+
+Trotz aller Kritik werden Großraumbüros wohl nicht so schnell verschwinden. Viele Unternehmen setzen weiterhin auf diese Büroform, weil sie flexibel und kostensparend ist.`,
     questions: [
       {
         id: 1,
-        question_text: "Um Berufe kennenzulernen,",
+        question_text: "Eine Studie aus der Schweiz..",
         option: {
-          option_a: "arbeiten Berner Schüler in den Ferien bei großen Firmen.",
+          option_a:
+            "belegt, dass die Mitarbeiter sich über Lärm im Großraumbüro beklagen.",
           option_b:
-            "nehmen Berner Schüler an Informationsveranstaltungen von großen Firmen teil.",
+            "brachte keine eindeutigen Ergebnisse zur Zufriedenheit mit unterschiedlichen Büroformen",
           option_c:
-            "sollen Berner Schüler zweimal jährlich ein Praktikum machen.",
+            "zeigt, dass Mitarbeiter in Großraumbüros seltener krank sind als andere.",
         },
-        correct_option: "B",
+        correct_option: "A",
       },
       {
         id: 2,
-        question_text: "Frau Leiser",
+        question_text: "Großraumbüros..",
         option: {
-          option_a: "erzählt aus ihrem Berufsalltag in der Bank.",
-          option_b: "stellt die wichtigsten Aufgaben der Bank vor.",
-          option_c: "zeigt den Jugendlichen die ganze Firma.",
+          option_a: "reduzieren den Krankenstand.",
+          option_b: "sind kostengünstiger zu beheizen.",
+          option_c: "werden immer seltener.",
         },
         correct_option: "B",
       },
       {
         id: 3,
-        question_text: "An dem Informationsnachmittag",
+        question_text: "Die deutschen Angestellten...",
         option: {
-          option_a: "bekamen die Jugendlichen eine Liste mit Bewerbungstipps.",
-          option_b: "war die Gruppe interessiert und hat gut zugehört.",
-          option_c: "wurden viele Fragen gestellt.",
+          option_a: "bevorzugen Einzelbüros.",
+          option_b: "genießen eine individuell ausgewählte Büromöblierung.",
+          option_c: "leiden unter zu engen Einzelbüros.",
         },
-        correct_option: "B",
+        correct_option: "A",
       },
       {
         id: 4,
-        question_text: "Tugba Kaptan",
+        question_text: "Die Arbeitsplatzfläche..",
         option: {
-          option_a: "fand es gut, dass sie am Schalter arbeiten durfte.",
-          option_b:
-            "fand es schade, dass an diesem Nachmittag die Schule ausgefallen ist.",
-          option_c: "hat viele Informationen bekommen.",
+          option_a:
+            "ist in Londoner Großraumbüros für den Chef größer als für andere Mitarbeiter.",
+          option_b: "schließt die gemeinsam genutzten Flächen aus.",
+          option_c:
+            "wird in London oft unter mehreren Mitarbeitern aufgeteilt.",
         },
         correct_option: "C",
       },
       {
         id: 5,
-        question_text: "Alan Blank",
+        question_text: "Großraumbüros...",
         option: {
-          option_a: "möchte später gern bei einer Bank arbeiten.",
-          option_b: "möchte viele Dinge besser nicht selbst entscheiden.",
-          option_c: "weiß noch nicht, was er machen will.",
+          option_a:
+            "gibt es vor allem in Banken und Telekommunikationsunternehmen.",
+          option_b: "werden bald in 40% der deutschen Firmen eingeführt.",
+          option_c: "werden meist in Einzelzellen unterteilt",
         },
         correct_option: "A",
       },
@@ -521,184 +547,241 @@ beeinträchtigt werden. Dann sollte man auf jeden Fall ärztlichen Ratsuchen.`,
   },
   {
     id: 9,
-    title: "Die Angst vor Buchstaben abbauen",
-    text: `Etwa 800 000 Menschen in der Schweiz haben zwar die Schule besucht, können aber dennoch nicht richtig lesen und schreiben. Einige holen das Versäumte später nach.\n\nVon Gabriela Baumgartner\n\nDas Qualifikationsgespräch mit dem Chef sei sehr positiv gewesen, erzählt Kurt Hunziker seiner Gruppe. Auch beim Sprechen fühle ich mich heute viel sicherer. Der 33-Jährige lächelt und blickt noch etwas unsicher in die Runde. Es hat sich wirklich gelohnt.\n\nImmer wieder Angst.\n\nNeben ihm sitzt Sonja Kündig. Seit bald zwei Jahren sind die Teilnehmerinnen und Teilnehmer dieses Kurses damit beschäftigt, nachzuholen, was sie alle im Laufe ihres Lebens irgendwann einmal aufgegeben hatten: Lesen und Schreiben. Einmal pro Woche besuchen sie den Kurs, tauschen Erfahrungen aus, motivieren sich gegenseitig.\n\nWahrheit lange vertuscht\n\nFast zehn Jahre lang arbeitete Sonja Kündig bei einer Schweizer Grossbank. Ich verstand einfache Texte wie Witze in Zeitschriften. Schreiben aber konnte die heute 45-jährige Mutter zweier Söhne nur gerade mal ihre Adresse. Dafür hatte sie einen außergewöhnlichen Sinn für Genauigkeit und ein gutes Gedächtnis für Zahlen. Problematisch wurde es erst, als sie ihren Mann kennenlernte. Ich hatte furchtbare Angst, ihm die Wahrheit zu sagen. Würde er mich für dumm halten? Ihr Mitschnüler Michael Feller schwankt noch immer ständig zwischen Hoffnung und Verzweiflung. Weil seine Eltern häufig den Wohnort wechselten, hatte der 36-Jährige große Probleme in der Schule. Als ich vor vier Jahren hierher kam, konnte ich gar nichts. Ich schämte mich, lebte sehr zurückgezogen und hatte kaum Bekannte. In der Zwischenzeit hat er aufgeholt, kann sich jetzt auch mündlich besser verständigen.\n\nZum ersten Mal in seinem Leben traut er sich, mitzureden und seine Meinung zu sagen. Zufrieden ist Michael Feller aber noch nicht. Beim Lesen einer Zeitung oder eines Buches hat er noch immer Probleme. Manchmal verstehe ich einzelne Wörter nicht, und dann macht… Verzweifelt wirft er in solchen Situationen den Text weg. Manchmal kommt es mir vor, als würde ich einen Teufel in meinen Händen halten.\n\nBesseres Selbstwertgefühl\n\nLese- und Schreibschwächen drücken auf das Selbstwertgefühl, erklärt Silvia Herdeg, Kursleiterin am Verein Lesen und Schreiben für Erwachsene. In diesen Kursen wird deshalb nicht nur stur Grammatik gelernt. Trainiert wird ein neuer Kommunikationsstil. Die Leute sind erleichtert, dass sie hier mit ihrem Problem nicht alleine sind. Mit jedem Fortschritt öffnen sie sich ein Stück weiter. Nach zwei Jahren sind viele wie verwandelt. Einige Teilnehmende haben überhaupt erst nach dem Kurs gewagt, eine anspruchsvollere Stelle zu suchen. Andere haben ihre Unabhängigkeit zurückgewonnen.\n\nFrüher habe ich nie mit Kollegen über einen Zeitungsartikel diskutieren können, erklärt Christian Koller. Meine Angst war zu gross, ich könnte etwas falsch verstanden haben und mich dadurch lächerlich machen. Heute rede ich mit.`,
+    title: "Noch ein Wasser, bitte!",
+    text: `Der Nebenjob als Kellner ist bei Studenten nach wie vor beliebt. Die Arbeit lässt sich gut mit dem Studium vereinbaren und bietet flexible Arbeitszeiten. Allerdings ist die Bezahlung oft nicht besonders gut. Viele Kellner sind auf das Trinkgeld angewiesen.
+
+Wer als Kellner arbeitet, sollte stressresistent sein. Es kommt häufig vor, dass Geste ungeduldig werden oder sich beschweren. Ein guter Kellner lässt sich davon nicht aus der Ruhe bringen. Bei Problemen muss er zwischen Gast und Küche vermitteln.
+
+Jan (22) hat früher als Kellner gearbeitet, ist jetzt aber lieber Fahrradkurier. "Ich bin viel an der frischen Luft und kann mir meine Zeit einteilen", sagt er. Der Verdienst ist ähnlich wie beim Kellnern, aber die Arbeit macht ihm mehr Spaß. "Außerdem spare ich mir das Fitnessstudio", lacht er.
+
+Stefanie (21) jobbt als Testkäuferin. Sie überprüft für Unternehmen, ob die Verkäufer freundlich sind und alle Regeln einhalten. Dabei muss sie sich genau an vorgegebene Abläufe halten. "Manchmal ist es stressig, aber es macht auch Spaß", sagt sie.`,
     questions: [
       {
         id: 1,
-        question_text: "In der Schweiz gibt es etwa 800.000 Menschen, die",
+        question_text: "Der Nebenjob als Kellner ...",
         option: {
-          option_a: "als Kind Angst vor der Schule hatten.",
-          option_b: "beim Lesen und Schreiben große Schwierigkeiten haben.",
-          option_c: "erst als Erwachsene Lesen und Schreiben lernen.",
+          option_a: "hat an Attraktivität deutlich verloren.",
+          option_b: "ist insgesamt sehr gut bezahlt.",
+          option_c: "lässt sich gut mit dem Studium vereinbaren.",
         },
-        correct_option: "B",
+        correct_option: "C",
       },
       {
         id: 2,
-        question_text: "Sonja Kündig",
+        question_text: "Wer als Kellner arbeitet, ..",
         option: {
-          option_a: "besitzt die Fähigkeit, sich Zahlen sehr gut zu merken.",
-          option_b: "hat nach dem Kurs eine Stelle bei einer Bank gefunden.",
-          option_c: "lernte ihren Mann im Kurs kennen.",
+          option_a:
+            "muss bei Beschwerden den Kontakt zwischen Koch und Gast herstellen",
+          option_b: "muss das Trinkgeld mit den Kollegen teilen.",
+          option_c: "sollte nicht aus der Ruhe zu bringen sein.",
         },
-        correct_option: "A",
+        correct_option: "C",
       },
       {
         id: 3,
-        question_text: "Michael Feller",
+        question_text: "Jan arbeitet gern als Fahrradkurier, ...",
         option: {
-          option_a: "ist heute mit seinen Lernfortschritten zufrieden.",
-          option_b:
-            "versucht jetzt, trotz Schwierigkeiten längere Texte zu lesen.",
-          option_c:
-            "wechselte den Wohnort, weil er Probleme in der Schule hatte.",
+          option_a:
+            "weil er außer dem Grundgehalt noch eine Provision bekommt.",
+          option_b: "weil er dann fest angestellt ist.",
+          option_c: "weil er mit dem Verdienst ganz zufrieden ist.",
         },
-        correct_option: "B",
+        correct_option: "C",
       },
       {
         id: 4,
-        question_text: "Die Leiterin des Kurses stellt fest, dass",
+        question_text: "Jan sagte,",
         option: {
-          option_a: "der Kurs die Teilnehmenden selbstsicherer macht.",
-          option_b: "die Teilnehmenden keinen Grammatikunterricht brauchen.",
-          option_c: "sie selbst einen neuen Kommunikationsstil lernen muss.",
+          option_a:
+            "dass er durch seinen Job keine Ausgaben für ein Fitnessstudio hat.",
+          option_b: "dass er lieber im Büro arbeiten würde.",
+          option_c: "dass ihm schlechtes Wetter gar nicht stört.",
         },
         correct_option: "A",
       },
       {
         id: 5,
-        question_text: "Christian Koller",
+        question_text: "Stefanie muss als Testkäuferin ...",
         option: {
-          option_a:
-            "diskutiert nun auch mit Kollegen über Themen aus der Zeitung.",
-          option_b: "hat noch nie einen Zeitungsartikel gelesen.",
-          option_c: "wurde früher von seinen Kollegen oft ausgelacht.",
+          option_a: "auch den Service in Cafés und Kneipen überprüfen.",
+          option_b: "einige Waren selbst bezahlen.",
+          option_c: "sich beim Einkauf an einen festen Ablauf halten.",
         },
-        correct_option: "A",
+        correct_option: "C",
       },
     ],
   },
   {
     id: 10,
-    title: "Computerprobleme – ein Kinderspiel",
-    text: `Anne und Melanie (beide 6) stehen Erzieherinnen mit Vorschlägen hilfreich zur Seite\n\nSie sind die Problemlöser im Kindergarten an der Munckerstraße. Wenn das Malprogram spinnt, plötzlich ein Spiel auftaucht, das keiner kennt, dann rufen die Erzieherinnen nach Anne und Melanie. Die sind zwar erst sechs Jahre alt, aber mit den Computerspielen kennen sie sich aus. Die Kinder wissen manchmal mehr als wir, sagt Eva Schilling, Leiterin des Kindergartens. Gelernt haben die beiden ihr Know-how bei Multimedia-Landschaften für Kinder, einem Projekt, das das Schulamt zusammen mit dem Studio im Netz gestartet hat.\n\nIm Rahmen dieses Projekts werden in städtischen Kindergärten zwei Wanderstationen mit je drei Multimedia-Computern und einem Farbdrucker installiert. Die Stationen wandern durch 14 Kindergärten, wo sie jeweils für vier Wochen installiert werden. Mit dabei in den Kindergärten: ein ganzer Satz von Spiel-Software.\n\nVierjährige am Computer? In Pädagogenkreisen sind viele Berührungsängste da, weiß Edith Ilg, Fachberaterin für Kindergärten beim Schulamt, aber wir können uns aus dieser Entwicklung nicht ausklinken. Die Kinder wollen sich mit ihrer Umwelt auseinandersetzen. Angefangen hat diese Auseinandersetzung im Studio im Netz – 193 Kinder waren eingeladen, um erste Erfahrungen am Computer zu sammeln. Die Kinder waren absolut begeistert, haben immer wieder gefragt, wann gehen wir da wieder hin, so Frau Ilg.\n\nBevor jedoch die Computer in die Kindergärten kamen, waren die Eltern aufzuklären. Bei manchen Eltern löste das Stichwort Computer akute Ängste aus nach dem Motto: Mein fröhliches, gesundes Kind setzt sich vor den Computer und steht sechs Stunden später krank, sprachlos und einsam wieder auf.\n\nDiese Ängste haben sich inzwischen gelegt und die Erfahrung vor Ort zeigt, dass sie weitgehend überflüssig sind. Die Erzieherinnen achten auch darauf, dass die Kinder nie länger als 15 bis 20 Minuten vor den Computern sitzen, und holen vor allem kreative Software auf den Bildschirm.\n\nDas einsame Dämmern vor dem Computer ist wohl ohnehin eher Sache der Erwachsenen – die Kinder spielen immer zu zweit oder zu dritt an der Maschine. Eva Schilling hat beobachtet, dass die Kinder am Computer sehr friedlich miteinander umgehen, sie helfen sich gegenseitig, es gibt wenig Konflikte. Dabei entwickeln gerade Kinder, die sich sonst nur schwer auf etwas konzentrieren können, plötzlich ungeahnte Konzentrationszeiten.\n\nEva Schilling kann sich deshalb die Computer als Dauereinrichtung im Kindergarten vorstellen.`,
+    title: "Krista, der tierische Star ",
+    text: `Krista ist die schönste Kuh Deutschlands. Und jetzt auch noch ein Kinostar. Am letzten Donnerstag kam ein Film über die schwarz-weiß gefleckte Kuh und ihre Besitzer in einige norddeutsche Kinos. Wovon der Film handelt? Von Kristas Leben auf dem Hof der Familie Seeger in Bissel, einem kleinen Dorf in Norddeutschland.
+
+Antje Schneider und Carsten Waldbauer sind Filmemacher. Vor einigen Jahren hatten sie die Idee, eine Dokumentation über Kühe zu machen, genauer gesagt über Holstein-Rinder. Die Holstein-Rinder sind eine der wichtigsten Rinderrassen weltweit, kommen aber trotz des deutschen Namens aus Nordamerika. Diese Kühe werden überwiegend als Milchvieh gehalten. Die Holstein-Rinder sind so verbreitet, dass sie inzwischen andere Rassen fast vollständig verdrängt haben.
+
+Das gilt vor allem für die vielen Bauernhöfe in Deutschland, die ausschließlich Milch produzieren. Auf einem dieser Höfe wollten Antje Schneider und Carsten Waldbauer Aufnahmen für ihre Dokumentation machen, und die Wahl fiel auf den Hof der Familie Seeger. Doch als die beiden Filmemacher mit den Dreharbeiten beginnen wollten, sahen sie plötzlich - Krista. Krista änderte alles. Die Schönheit vom Lande beeindruckte Schneider und Waldbauer so sehr, dass sie den Plan für ihre Dokumentation gegen den Willen ihres Senders komplett änderten. Im Mittelpunkt sollte nun Krista stehen, die schönste Holstein-Kuh Deutschlands.
+
+Krista gehört zur Weltelite. Auf Veranstaltungen wird sie immer wieder ausgezeichnet. Bei einer Tierschau in Italien erhielt sie zwar nicht den ersten Preis, aber trotzdem war sie unter den schönsten Kühen Europas. Kristas Besitzer Jörg Seeger ist begeistert von seinem Star im Stall.
+
+Jörg und Janine Seeger erlauben dem Kinozuschauer interessante Einblicke in ihren Alltag auf dem Bauernhof. Die Kamera verfolgt zwar immer den Weg von Kuh Krista, aber zu sehen ist dabei natürlich auch die Arbeit der gesamten Familie auf dem Hof. Manchmal ist das auch ein romantisches Leben, es ist aber vor allem immer sehr arbeitsreich.
+
+”Für mich sind Kühe nicht nur Nutztiere”, sagt die Bäuerin Janine Seeger. Schon als Kind hätten ihr die Tiere Geborgenheit, manchmal Trost gespendet. Aber sie weiß, dass die Kühe Geld bringen müssen, entweder durch möglichst viel Milch oder durch viel Nachwuchs. Die kleinen Kälber lassen sich zu recht guten Preisen verkaufen, das lohnt sich für die Seegers.
+
+Krista kann zunächst aus gesundheitlichen Gründen keine Kälber bekommen. Auch diese Problematik wird im Film gezeigt. Der Zuschauer merkt, dass Jörg Seeger enttäuscht ist: Seine beste Kuh kann kein Kalb bekommen. Aber es geht gut aus, denn Krista wird operiert und nach Ende der Dreharbeiten klappt es dann doch mit dem Nachwuchs für die Kuh.
+
+Während der jahrelangen Dreharbeiten hat sich auch die Familie entwickelt. Mittlerweile haben die Seegers zwei Kinder. ”Deshalb verändert sich im Film mein Gewicht etwas”, erzählt Janine Seeger und lacht. Und wie ist es so, vor der Kamera zu stehen? ”Erst ungewohnt, dann irgendwie vertraut”, sagt die 32-Jährige. Zu den Filmemachern hat sich ein freundschaftliches Verhältnis entwickelt. ”Wie schön, Carsten und Antje sind wieder da”, hat es dann nur noch geheißen, wenn das Team anrückte.
+
+Der Film zeigt aber auch, wie sich im Laufe der Jahre das Leben auf dem Hof der Seegers verändert hat und wie schwierig es auch hier geworden ist, mit Milchkühen Geld zu verdienen. Der Markt ist hart umkämpft und die Preise sinken immer weiter, denn die Verbraucher im Supermarkt greifen gerne zum günstigsten Produkt. Für viele ist es da nicht wichtig, wie die Milch produziert wurde. Auch das zeigt der Film, wenngleich eher nebenbei.
+
+Familie Seeger ist stolz darauf, dass ein Film über ihren Hof und über die schöne Kuh Krista gedreht wurde. So heißt nun übrigens auch der Film: ”Die schöne Krista”. Am vergangenen Wochenende haben die Seegers den Film bei einem Hoffest gezeigt. Familie und Freunde sowie Nachbarn waren zu Gast, und alle haben sich über den Film gefreut.
+
+”Die schöne Krista” ist auch in die Auswahl für den Deutschen Filmpreis gekommen, als einer der fünfzehn besten Dokumentarfilme. Die 500 Filmkritiker, die diese 15 Filme ausgewählt haben, waren begeistert. Schwieriger sei es, so die Produktionsfirma, die Kinobetreiber vom Film zu überzeugen. ”Was sollen wir mit einer Kuh?”, sei eine häufige Reaktion. Vielleicht würden sie ihre Meinung ändern, wenn sie Krista einmal auf dem Hof gesehen hätten.`,
     questions: [
       {
         id: 1,
-        question_text: "Das Schulamt hat ein Projekt gestartet, bei dem",
+        question_text: "Holstein-Rinder",
         option: {
-          option_a: "Computer in Kindergärten aufgestellt werden.",
-          option_b: "Computerspiele für Vierjährige entwickelt werden sollen.",
-          option_c: "Kinder neue Farbdrucker ausprobieren sollen.",
+          option_a:
+            "sind in der Milchproduktion beliebter als andere Rinderrassen.",
+          option_b: "spielen in der Milchproduktion kaum eine Rolle.",
+          option_c: "stammen aus Norddeutschland.",
         },
         correct_option: "A",
       },
       {
         id: 2,
-        question_text: "Die Kinder",
+        question_text: "Die Kuh Krista",
         option: {
-          option_a: "hatten großen Spaß bei dem Projekt.",
-          option_b: "wollten lieber draußen im Freien spielen.",
-          option_c: "wussten nicht, wann sie ins Studio im Netz gehen sollten.",
+          option_a: "hat bereits einige Preise gewonnen.",
+          option_b: "war Siegerin bei einer Veranstaltung in Italien.",
+          option_c: "wurde als schönste Kuh Europas ausgezeichnet.",
         },
         correct_option: "A",
       },
       {
         id: 3,
-        question_text: "Eltern fürchten, dass",
+        question_text: "Während der Filmaufnahmen",
         option: {
-          option_a: "der Computer ihren Kindern schadet.",
-          option_b: "ihre Kinder nicht so früh aufstehen können.",
-          option_c: "ihre Kinder vor dem Computer Angst haben.",
-        },
-        correct_option: "A",
-      },
-      {
-        id: 4,
-        question_text: "Die Erzieherinnen",
-        option: {
-          option_a: "arbeiten jeden Tag 15 bis 20 Minuten am Computer.",
-          option_b: "spielen immer mit zwei oder drei Kindern am Computer.",
-          option_c: "wählen für die Kinder die Software aus.",
+          option_a: "bekam Krista ein Kalb.",
+          option_b: "wäre Krista fast gestorben.",
+          option_c: "wurde Krista operiert.",
         },
         correct_option: "C",
       },
       {
-        id: 5,
-        question_text: "Wenn die Kinder am Computer sitzen, dann",
+        id: 4,
+        question_text: "Die wirtschaftlichen Probleme von Milchbetrieben",
         option: {
-          option_a: "gibt es häufig Streit.",
-          option_b: "hilft ein Kind dem anderen.",
-          option_c: "können sich die meisten nicht lange konzentrieren.",
+          option_a: "betreffen die Familie Seeger nicht.",
+          option_b: "sind eine Folge des Verbraucherverhaltens.",
+          option_c: "werden im Film ausführlich behandelt.",
         },
         correct_option: "B",
+      },
+      {
+        id: 5,
+        question_text: "Die schöne Krista",
+        option: {
+          option_a: "A begeistert Kinobetreiber bislang nicht.",
+          option_b: "könnte die Kritiker nicht überzeugen.",
+          option_c: "wurde als beste Dokumentation ausgezeichnet.",
+        },
+        correct_option: "A",
       },
     ],
   },
   {
     id: 11,
-    title: "Die neue Sir-Karl-Popper-Schule",
-    text: `Ein Schulversuch für besonders kluge Schüler\n\nWIEN. Es ist eine ganz normale Schulstunde – Geschichte – in einer ganz normalen Klasse. Während der Lehrer einen Vortrag über das alte Rom hält, unterhalten sich die Schüler über den Schulball, kommentieren die Kleidung des Lehrers, reichen Zettel unter der Schulbank weiter.\n\nGanz normale Kinder\n\nAuch überdurchschnittlich intelligente Kinder sind ganz normale Kinder, betont Elfriede Wegricht, Psychologin in der Sir-Karl-Popper-Schule, die im vergangenen September ihren Betrieb aufgenommen hat. Nur weil sie in der Schule gut sind, heißt das nicht, dass sie nicht genauso wie alle anderen Schüler Liebeskummer, Ärger mit den Eltern und andere Pubertätsprobleme haben. Der Unterschied zwischen normalen und hochbegabten Schülern: Hochbegabte mussten sich in ihrer bisherigen Schulkarriere nicht besonders anstrengen und sind es nicht gewohnt, mit ihrer Zeit gut hauszuhalten.\n\nFörderung durch Forderung\n\nUm überdurchschnittlich intelligente Kinder nun entsprechend zu fördern, sieht das Konzept der Sir-Karl-Popper-Schule mehr Fremdsprachen, projektorientiertes Arbeiten in kleinen Klassen und vor allem mehr Eigenverantwortung für den Lernenden vor. Dazu kommt die Förderung der individuellen Fähigkeiten: Wer in einem Fach gut ist und sich besonders für ein Thema interessiert, bekommt Sonderaufgaben und tiefer gehende Unterlagen. Anfangs war der plötzlich Mehr-Aufwand ein Schock für die Schüler, die eine 40-Stunden-Woche zu bewältigen haben. Aber es ist besser, sie erleben den Schock jetzt als zu Beginn des Studiums, meint Herr Peters, Lehrer und Schülerbetreuer an der Popper-Schule, denn oft scheitern besonders kluge Menschen später, weil sie mit ihrer Intelligenz nichts anzufangen wissen. Denn zumeist erreichten sie mit wenig Aufwand und Mitarbeit relativ gute Ergebnisse.\n\nWer ist hochbegabt\n\nZielgruppe der Sir-Karl-Popper-Schule sind Kinder, die in mindestens einem Fach hochbegabt sind und überdurchschnittlich gute Ergebnisse haben, das sind 20-30% der Schüler. Nach einer Aufnahmeprüfung wurden von 64 Bewerbern 28 ausgewählt, die von insgesamt 28 Lehrern betreut werden. In diesen Klassen können die überdurchschnittlich intelligenten Schüler dann endlich so sein, wie sie sind, ohne bei jeder Wortmeldung von ihren Klassenkameraden beschimpft zu werden, meint die Schulpsychologin. Ziel des Schulversuchs sei es jedoch laut Peters nicht, besonders kluge Schüler von normalen Kindern zu trennen, sondern Erfahrung im Umgang mit überdurchschnittlich Begabten zu sammeln, um die Begabtenförderung in die Normalschule zu übernehmen.`,
+    title: "Geschichte des Hauspersonals",
+    text: `Dienstmädchen war um 1900 der am weitesten verbreitete Beruf für Frauen. Aus heutiger Perspektive ist
+das verwunderlich, denn der Alltag eines Dienstmädchens war sehr hart. Was trieb also Frauen in diesen
+Beruf?
+Es waren vor allem Mädchen vom Land, die von ihren Eltern in die Stadt geschickt wurden, um dort zu
+arbeiten. Auf dem Land gab es kaum Stellen für Mädchen. Als Dienstmädchen, so hofften die Eltern,
+würden ihre Töchter wenigstens das Hauswirtschaften lernen - eine wichtige Fertigkeit als spätere Haus -
+und Ehefrau. Dabei war das strenge Leben eines Dienstmädchens ohne viel Zeit genau das, was den Eltern
+gut an diesem Beruf erschien: Da die Mädchen oft erst 14 oder 15 Jahre alt waren, waren sie in einer
+Familie behüteter als beispielsweise in der Fabrik. Allerdings kam es nicht selten vor, dass die Hoffnung auf
+eine Ausbildung enttäuscht wurde. Viele Mädchen wurden nicht eingearbeitet und angelernt, sondern
+mussten selber zusehen, wie sie das Arbeitspensum bewältigten.
+Leider verfügten die Eltern meist nicht über Kontakte in der Stadt. Die Mädchen fuhren mit dem Zug in die
+Fremde und mussten dann auf eigene Faust eine Stellung finden. Das machten sich auch dubiose Stellenvermittler an den Bahnöfen zu Nutze und verschafften den Mädchen Stellen in Kneipen als Kellnerinnen -
+damals eine Arbeit mit sehr schlechtem Ruf. Um diesen Missstand zu beenden, gründeten sich übrigens
+die Bahnhofsmissionen, die damals konfessionsübergreifend von den katholischen, evangelischen und
+jüdischen Gemeinden den ankommenden Mädchen erst einmal ein Bett bieten sollten.
+Wer etwas auf sich hielt, beschäftigte um 1900 ein Dienstmädchen: sowohl kleinbürgerliche Haushalte als
+auch großbürgerliche. Die unteren Schichten, also Handwerkerfamilien, eiferten den gehobeneren nach.
+Nach außen durfte es an nichts fehlen, auch wenn das Budget dafür knapp war. Gespart wurde da, wo es
+nicht sichtbar war: bei der Unterbringung und Ernährung der Dienstmädchen. In gehobeneren Schichten
+gab es gerne auch mehr Personal - ein Vorteil und Nachteil zugleich. Einerseits hatte das Dienstmädchen
+so mehr Gesellschaft und war weniger isoliert, anderseits gab es auch unter den Dienstboten ein Hierarchie und das Dienstmädchen war das unterste Glied.
+Anders als Fabrikarbeiter hatten Dienstboten keine geregelte Arbeitszeiten. Sie mussten, wenn nötig, ihren
+Dienstherren rund um die Uhr zur Verfügung stehen. Das Dienstmädchen stand als Erste auf, befeuerte
+den Ofen, machte das Wasser zum Waschen und fürs Frühstück warm, servierte die Mahlzeiten, räumte
+wieder ab, spülte und putzte. Das Einkaufen gehörte zu den beliebten Tätigkeiten, denn das erlaubte es
+den Mädchen, einmal ohne Aufsicht in der Stadt unterwegs zu sein, andere Dienstmädchen zu treffen und
+sich auszutauschen. Fließendes Wasser gehörte um die Jahrhundertwende nicht zum Standard, so musste
+das Dienstmädchen auch Wasser schleppen. Erst wenn alle Arbeit erledigt war, konnte das Dienstmädchen
+schlafen gehen. Die wenige freie Zeit am Abend reichte oft nur, um die eigene Kleidung auszubessern. Alle
+vierzehn Tage durften die Mädchen sonntags für zwei Stunden das Haus verlassen, das war der einzige
+Ausgang, den sie hatten.
+Der Lohn bestand im Wesentlichen aus Kost und Unterkunft. Etwas zurücklegen für später konnte kaum
+ein Mädchen. Auch die Unterbringung ließ zu wünschen übrig. Von Berliner Dienstmädchen weiß man,
+dass sie oft noch nicht einmal eine eigene Kammer hatten, sondern auf so genannten Hängeböden schliefen, eine kleine Fläche von vielleicht mal zwei Metern bei einer Raumhöhe von etwa 1,50 Meter. Wenig
+Schlaf, und dann auch noch schlechter Schlaf: Vielen Mädchen waren die Strapazen trotz ihres jungen
+Alters anzusehen. Für die meisten war es nur eine Zwischenstation. Heirateten sie, beendeten die jungen
+Mädchen dieses Arbeitsverhältnis und stattdessen war die junge Frau selbser Hausfrau und Herrin eines
+eigenen Haushalts`,
     questions: [
       {
         id: 1,
-        question_text: "Die Psychologin der Popper-Schule meint, dass",
+        question_text:
+          "Die Eltern ließen ihre Töchter als Dienstmädchen arbeiten, ...",
         option: {
           option_a:
-            "besonders intelligente Kinder sich stark von anderen Kindern unterscheiden.",
-          option_b:
-            "besonders intelligente Schüler dieselben Probleme haben wie andere Kinder.",
-          option_c:
-            "besonders intelligente Schüler weniger Probleme im alltäglichen Leben haben.",
+            "damit sie die Jahre bis zur Arbeit in der Fabrik überbrücken konnten.",
+          option_b: "damit sie besser beaufsichtigt waren als zu Hause.",
+          option_c: "damit sie lernten, einen Haushalt zu führen.",
+        },
+        correct_option: "C",
+      },
+      {
+        id: 2,
+        question_text: "Die Stellen fanden die Mädchen zumeist ...",
+        option: {
+          option_a: "durch Vermittler, die ins Dorf kamen",
+          option_b: "alleine.",
+          option_c: "mit Hilfe ihrer Eltern.",
         },
         correct_option: "B",
       },
       {
-        id: 2,
-        question_text:
-          "Für überdurchschnittlich intelligente Schüler ist typisch, dass sie",
+        id: 3,
+        question_text: "Dienstmädchen gab es",
         option: {
-          option_a: "auch ohne viel Anstrengung gute Noten haben.",
-          option_b: "nach der Schule immer großen Erfolg im Beruf haben.",
+          option_a: "fast nur bei reicheren Leuten.",
+          option_b: "in jedem Haus in der Stadt.",
+          option_c: "auch bei den weniger reichen Leuten.",
+        },
+        correct_option: "C",
+      },
+      {
+        id: 4,
+        question_text: " Dienstmädchen ...",
+        option: {
+          option_a: "mussten länger arbeiten als Fabrikarbeiter",
+          option_b: "durften nicht alleine einkaufen gehen.",
           option_c:
-            "sich die Zeit zum Lernen besser als andere einteilen können.",
+            "konnten sich am Sonntag zwei Stunden mit anderen Dienstmädchen treffen.",
         },
         correct_option: "A",
       },
       {
-        id: 3,
-        question_text: "Im Unterricht der Popper-Schule sollen die Schüler",
-        option: {
-          option_a: "immer in einer Fremdsprache miteinander sprechen.",
-          option_b:
-            "in ihren besten Fächern eine spezielle Betreuung bekommen.",
-          option_c: "in kleinen Gruppen schwächeren Schülern helfen.",
-        },
-        correct_option: "B",
-      },
-      {
-        id: 4,
-        question_text:
-          "Die erste Zeit in der Popper-Schule war für die Schüler schwer, weil",
-        option: {
-          option_a: "sich ihre Noten plötzlich verschlechterten.",
-          option_b:
-            "sie auf einmal viel mehr Zeit mit Lernen verbringen mussten.",
-          option_c:
-            "sie noch nicht wussten, welche besonderen Talente sie hatten.",
-        },
-        correct_option: "B",
-      },
-      {
         id: 5,
-        question_text: "In der Popper-Schule werden nur Schüler aufgenommen,",
+        question_text: "Dienstmädchen bekamen ...",
         option: {
-          option_a: "die in mindestens einem Fach sehr gut sind.",
-          option_b:
-            "die mindestens 20 bis 30 Prozent der Aufnahmeprüfung erreichen.",
-          option_c:
-            "die von den insgesamt 28 Lehrern als intelligent beschrieben werden.",
+          option_a: "fast kein Geld.",
+          option_b: "Geld, um für später zu sparen.",
+          option_c: "ein eigenes Zimmer.",
         },
         correct_option: "A",
       },
@@ -706,60 +789,100 @@ beeinträchtigt werden. Dann sollte man auf jeden Fall ärztlichen Ratsuchen.`,
   },
   {
     id: 12,
-    title: "Du oder Sie – das ist hier die Frage",
-    text: `Sprachliche Regeln am Arbeitsplatz\n\nHäufig erscheint Ingvar Kamprad, Ikea-Gründer und -Besitzer, am Morgen unangemeldet am Hintereingang einer seiner Filialen. Guten Morgen, ich bin der Ingvar. Das schwedische Möbelhaus ist das beste Beispiel für die Du-Kultur am Arbeitsplatz, denn alle Beschäftigten sprechen sich mit Du an. Die Gesellschaft für deutsche Sprache in Wiesbaden hat nun in einer Untersuchung festgestellt, dass mehr als 53 Prozent der befragten Personen alle Arbeitskollegen duzen. Wie zu erwarten sind es vor allem die 16- bis 29-jährigen (59 Prozent), die sich lieber schnell duzen. Bei den über 60-Jährigen sank die Zahl auf 14 Prozent. Warum eigentlich sagt man am Arbeitsplatz immer öfter Du? Zum Beispiel pflegen Ikea, Greenpeace und McDonalds alle das obligatorische Du. Damit wollen sie Vertrauen aufbauen und ein familiäres Umfeld schaffen.\n\nGegenüber den Kunden ist man jedoch vorsichtiger geworden. So hat Ikea im Verkaufskatalog statt dem Du wieder das Sie eingeführt. Man hofft, mit Sie mehr Leute - nicht nur jüngere - anzusprechen. Bis heute üblich ist das Du zum Beispiel in Schweizer Gewerkschaften. Viele Mitglieder sind sogar beleidigt, wenn sie mit Sie angesprochen werden. Es gibt aber auch den umgekehrten Fall, zwar bei der Polizei. Wer in Deutschland einen Polizisten duzt, riskiert eine Strafe. In der Schweiz hingegen findet man eine Anzeige wegen Duzens eines Beamten übertrieben. Polizisten werden sowieso kaum mit Du angesprochen, meint Hanspeter Fäh von der Zürcher Stadtpolizei. Der Trend zum Du kann jedoch auch als sozialer Druck oder Zwang empfunden werden. Ein Du abzulehnen gilt nämlich als unfreundlich. Das hat Dieter S., Angestellter bei einem Textilgeschäft in Deutschland, erfahren. Ein Gericht entschied, dass er seine Kollegen weiterhin mit Du ansprechen musste.\n\nSo sehr das Du in der Gesellschaft auch an Bedeutung gewinnt, das Sie hat immer noch eine feste soziale Basis und kann diese sogar ausbauen. Benimmkurse, wo man Höflichkeit und die richtigen Umgangsformen lernt, sind heute im Trend. Immer mehr Firmen schulen ihre Mitarbeiter in stilvollem Verhalten. Dazu gehören folgende Grundregeln: Die ältere Person bietet der jüngeren das Du an. Oft ist jedoch auch die Stellung entscheidend. Der ältere Mitarbeiter bietet seinem jüngeren Chef nie das Du an.`,
+    title: "Österreich, das Land der Poolbesitzer",
+    text: `Österreich schwimmt und das nicht nur in Seen, Teichen oder Freibädern.
+Ein Blick über die Gartenzäune des Landes macht deutlich: Die Österreicher schwimmen zunehmend gerne zu Hause.
+Die Poolbranche schätzt die Anzahl der Poolbesitzer in Österreich auf etwa 90.000 bis 150.000. Im Vergleich zu
+Deutschland ist Österreich wesentlich dichter mit Pools besiedelt. Warum Schwimmingpools so beliebt sind, darüber
+herrscht Uneinigkeit. Manche Vertreter der Branche sehen darin eine Reaktion auf wirtschaftlich unsichere Zeiten. Da
+investieren die Leute gerne in die eigenen vier Wände und in den Garten inklusive Pools, meinen sie. Andere sehen
+darin einen Ausdruck des allgemeinen Wellness- und Gesundheitstrends. Auch die Sehnsucht nach dem Meer wird
+bisweilen als Argument für den ausgeprägten Wunsch nach einem Pool vorgebracht. Das allein kann es aber wohl
+nicht sein, denn als stärkster Poolmarkt in Europa gilt nach wie vor Frankreich. Branchenkenner führen den Boom
+aber auch auf finanziellen Gründen zurück. Dass der Umsatz in den vergangenen Jahren stetig angestiegen ist, sehen
+viele im Angebot an preisgünstigen Pools begründet. Vor 20 Jahren sei ein eigenes Schwimmbad noch ein absolutes
+Luxusgut gewesen. Jetzt gibt es immer mehr Alternativen, die einen Pool erschwinglich machen. Welche Gründe auch
+ausschlaggebend sein mögen: Die Branche besitzt durchaus noch Potential, da sind sich alle einig.
+Laut einer kürzlich durchgeführten Studie träumt nämlich beinahe jeder zweite Österreicher von einem Pool. An 1.
+Stelle der Wohnungswünsche steht er zwar nicht: So hat für 97% der befragten Österreicher die Traumimmobilie
+einen Balkon, eine Loogia oder eine Terrasse und 92% wünschen sich eine Garage. 82% sehnen sich nach einem
+Garten und 46% nach einem Swimmingpool - und 10% besitzen auch einen solchen. Dabei gibt es regionale Unterschiede. In absoluten Zahlen gibt es die meisten Pools in Wien und Niederösterreich. Pro Kopf gerechnet gibt es aber
+im Voralbberg die meisten privaten Schwimmbäder.
+Einen nagelneuen Pool hat auch die 37-Jährige Rija in ihrem neuen zu Hause. Die Wienerin ist mit ihrem Lebensgefährten vor kurzem nach Niederösterreich gezogen. "Es war immer mein Traum einen Pool zu haben.", sagt sie.
+Nun kann sie den Sommer im eigenen Pool genießen. Neben der Entspannung und Abkühlung hat der Pool für Sie
+noch einen weiteren Wert. Der Pool hat Leben in den Garten gebracht. "Es haben sich schon alle möglichen
+Bekannten zum Schwimmen gemeldet.", sagt sie. "Denen drück' ich aber vorher ein Spaten in die Hand - ein Teil vom
+Garten ist ja noch Baustelle."
+Tatsächlich schweißt so ein Pool nicht nur die Nachbarschaft zusammen. Es ist auch die beste Werbung für weitere
+Becken. "Kaum hat einer in einer Siedlung einen Pool, hat der Nachbar spätestens nach zwei Jahren auch einen.",
+meint ein Branchenvertreter. Besonders deutlich wird das in Kleingartensiedlungen, bei denen ein kleines Schwimmbecken schon beinahe zur Grundausstattung gehören.
+Doch manche Menschen bevorzugen Naturschwimmteiche. Nach Schätzungen macht der Anteil der Schwimmteiche
+am Schwimmanlagenmarkt rund 15% aus. In den vergangenen Jahren ist die Nachfrage nach Schwimmteichen stark
+gestiegen. Das hat auch zur Entwicklung von Naturpools geführt. Optisch ein klassischer Schwimmingpool kommt der
+Naturpool gänzlich ohne Chemikalien aus. Hier wird das Wasser durch Pumpen und Filtersysteme sauber gehalten.
+Bei der natürlichen Variante geht es übrigens bei 35.000 € los. Dafür spart man sich das jährliche Befüllen und
+Putzen.
+Das jährliche Befüllen vom Pools aus dem Wasserleitung kann in manchen Regionen gelegentlich zu Wasserknappheit
+führen. Das betrifft aber meist nur jene Gemeinden, die von sehr kleinen Wassergenossenschaften versorgt werden.
+In Wien fällt die Befüllung der Pools kaum auf.
+Was dem Leiter des Wiener Rohrnetzes eher stört, ist der Wasserdiebstahl über Hydranten, also über die Zapfstellen
+in den Straßen für Feuerwehr und Straßenreinigung. Denn wer es besonders eilig hat, kann seinen Pool auch über die
+Hydranten befüllen. Das geht schneller, muss aber angemeldet werden und kostet Geld. Generell gebe es aber keine
+Wasserknappheit. "Es sei genug Wasser für alle da.", so der Wasserversorger. "Fürs Auffüllen vom Pools, aber auch
+fürs Blumen gießen, zum Duschen und auch zum Trinken. Wir verwenden in Österreich nur 1% der vorhandenen
+Wasserressourcen.`,
     questions: [
       {
         id: 1,
-        question_text: "Die Firma Ikea benutzt heute das Du,",
+        question_text: "Einige Vertreter der Poolbranche denken, dass",
         option: {
-          option_a: "weil das ein Zeichen für eine Familien-Atmosphäre ist.",
-          option_b: "weil sie mehr jüngere Kunden gewinnen will.",
-          option_c: "weil so mehr Leute den Verkaufskatalog lesen.",
+          option_a: "es in Österreich bald mehr Pools gibt als in Frankreich.",
+          option_b: "in unsicheren Zeiten weniger investiert wird. ",
+          option_c:
+            "mehr Leute einen Pool bauen, weil Pools billiger geworden sind.",
         },
-        correct_option: "A",
+        correct_option: "C",
       },
       {
         id: 2,
-        question_text: "In der Schweiz",
+        question_text: "Laut einer Studie",
         option: {
-          option_a: "gilt das Du in Gewerkschaften als Beleidigung.",
-          option_b: "werden Polizisten nur selten mit Du angesprochen.",
-          option_c: "wird man bestraft, wenn man zu Beamten Du sagt.",
+          option_a: "möchten die meisten Befragten ein Heim mit Garage. ",
+          option_b:
+            "steht ein Pool nicht an erster Stelle auf der Wunschliste. ",
+          option_c: "wünschen sich 10% der Österreicher einen Pool.",
         },
         correct_option: "B",
       },
       {
         id: 3,
-        question_text: "Eine Untersuchung hat gezeigt,",
+        question_text: "Rija ist der Meinung, dass",
         option: {
-          option_a:
-            "dass 14 Prozent der jüngeren Mitarbeiter das Sie vorziehen.",
-          option_b:
-            "dass besonders jüngere Arbeitskollegen schneller das Du wählen.",
-          option_c:
-            "dass sich alle Arbeitskollegen gern mit Du anreden würden.",
+          option_a: "ein Pool die Nachbar neidisch macht. ",
+          option_b: "ihr Pool ein Anziehungspunkt für Freunde geworden ist.",
+          option_c: "ihre Freunde beim Poolbau helfen sollen",
         },
         correct_option: "B",
       },
       {
         id: 4,
-        question_text: "Durch Kurse können Angestellte",
+        question_text: "Naturpools",
         option: {
-          option_a: "höfliches Verhalten am Arbeitsplatz lernen.",
-          option_b: "ihre Stellung im Arbeitsleben verbessern.",
-          option_c:
-            "neue Trends beim Einrichten des Arbeitsplatzes kennen lernen.",
+          option_a: "brauchen keine chemischen Reinigungsmittel. ",
+          option_b: "müssen häufig geputzt werden",
+          option_c: "sehen genauso aus wie Schwimmteiche.",
         },
         correct_option: "A",
       },
       {
         id: 5,
-        question_text: "Probleme am Arbeitsplatz kann es geben,",
+        question_text: " In Wien",
         option: {
-          option_a: "wenn man das Sie ablehnt.",
-          option_b: "wenn man wegen eines Fehlers vor Gericht muss.",
-          option_c: "wenn man zu den Mitarbeitern Sie sagen will.",
+          option_a:
+            "darf man einen Pool nur mit Wasser aus der Leitung füllen. ",
+          option_b:
+            "führt das Befüllen von Pools regelmäßig zu Wasserknappheit.",
+          option_c: "wird manchmal Wasser zum Befüllen von Pools gestohlen.",
         },
         correct_option: "C",
       },
@@ -767,180 +890,183 @@ beeinträchtigt werden. Dann sollte man auf jeden Fall ärztlichen Ratsuchen.`,
   },
   {
     id: 13,
-    title: "Dem Kind zuliebe in Kloten warten",
-    text: `Auf keinem anderen Flughafen sei der Aufenthalt familienfeindlicher als in Kloten, sagen viele Eltern. Weil die Wartezeit im Flug vergeht – dank der 18 Kinderbetreuerinnen.\n\n24000 Kinder aus der ganzen Welt wurden letztes Jahr auf dem Flughafen Zürich-Kloten betreut. Die 18 Mitarbeiterinnen, die sich im Schichtbetrieb ablösen, stehen den Eltern und ihren Kindern täglich von 6.30 bis 22 Uhr mit Rat und Tat zur Seite. Die vielsprachigen Betreuerinnen – viele von ihnen sind ausgebildete Krankenschwestern, Kleinkindererzieherinnen oder Flugbegleiterinnen – verfügen auch über Erste-Hilfe-Kenntnisse. Der Flughafen Zürich-Kloten ist der einzige in Europa, der seinen kleinsten Gästen in beiden Terminals einen eigenen Aufenthaltsraum bietet.\n\nAufenthalt und Betreuung sind kostenlos. In beiden Räumen stehen vier Wickeltische mit Papierwindeln, eine Küche zum Aufwärmen der Kindermahlzeiten, sechs Bettchen, ein Laufgitter, Nachttöpfe und Toiletten für Kleinkinder zur Verfügung. Außerdem gibt es zahlreiche Stofftierchen, Schaukelpferdchen, Bauklötze, Puppenstuben, einen großen Stall, Bilderbücher, Spiele und vieles mehr.\n\nEs ist ein Erlebnis für die Kinder, mit Kindern zu spielen, die eine andere Muttersprache sprechen oder aus einem anderen Kulturkreis kommen, weiß Alice Martin (40). Die ehemalige Kinderschwester, selber Mutter eines sechsjährigen Sohnes, gehört seit 14 Jahren zum Team der Betreuerinnen. Zusammen mit 17 Kolleginnen ist sie abwechselnd in den beiden Kinderspielzimmern den Terminals A und B beschäftigt.\n\nBevor Alice Martin 1994 von der Flughafendirektion angestellt wurde, war sie viele Jahre auf einer Geburtenabteilung und später noch in einem Behindertenheim beschäftigt. Die Kontakte zu den jetzt von ihr betreuten Kindern seinen nicht mehr so intensiv wie früher im Spital oder im Heim, dafür biete ihr die heutige Tätigkeit mehr Abwechslung.\n\nDie kinderliebende Frau reist selber gern und viel. Auch ihre Fremdsprachenkenntnisse kommen ihr hier zugute. Alice Martin spricht neben ihrer Muttersprache Englisch, Französisch und Spanisch. Sehr bereichernd sei, dass sie in ihrer täglichen Arbeit andere Kulturen kennenlerne.`,
+    title: "Familienglück oder Generationskonflikte?",
+    text: `In der öffentlichen Beschreibung kennt man die Familie oft als Problemzone. Bestsellerautoren suggerieren der
+Öffentlichkeit, Eltern seien zum Erziehen heute kaum noch in der Lage; Berichte über steigende Scheidungsraten, Verwahrlosung und Jugendkriminalität verstärken ebenfalls den Eindruck, um die Familien sei es nicht gut
+bestellt. Tatsächlich hat sich Erziehung in den letzten Jahrzehnten grundlegend gewandelt. In vielerlei Hinsicht
+allerdings eher zum Guten als zum Schlechten. Wie lebt es sich heute in der Familie? Ausgesprochen gut, in den
+meisten Fällen sogar recht kuschelig. Das legen zumindest Umfragen und Statistiken über die Familienwirklichkeit nahe. Sie zeigen ein erfreulich positives Bild, nachdem sich die Familie in den vergangenen Jahrzehnten
+sehr gut entwickelt hat. Das gilt für die materiellen Bedingungen, in denen die meisten Eltern und Kinder heute
+leben, wie auch für das Ansehen, das die Familie in der Gesellschaft genießt. Den größten Fortschritt habe aber
+das gemeinsame Zusammenleben gemacht, sagen Experten: "Es gibt kaum noch wirkliche Konflikte zwischen
+den Generationen."
+Dass heute 67 Prozent der 16- bis 29-Jährigen angeben, sie hätten eine glückliche Kindheit, während es bei den
+über 60-Jährigen nur 50 Prozent sind, kann zwar sicher nicht nur auf den Wandel der Erziehung zurückgeführt
+werden. Schließlich war die Kindheit vieler von ihnen noch von Krieg und Not geprägt, während die Jüngeren in
+Wohlstand und Sicherheit aufwuchsen. Aber fast alle Jugendlichen geben heute an, dass sie ein gutes Verhältnis
+zu den Eltern haben. Außerdem orientieren sie sich stark an ihrer Familie. Gestützt unter anderem auf den
+emotionalen Rückhalt der Eltern blicken die allermeisten Jugendlichen optimistisch nach vorn. Fast 75 Prozent
+der Befragten würden ihre eigenen Kinder genau so erziehen, wie sie selbst erzogen wurden. Genauso viele
+glauben, dass man eine Familie braucht, um wirklich glücklich leben zu können. Die Eltern sehen es übrigens
+kaum anders. Von ihnen berichten 74 Prozent von Harmonie, Wärme und Geborgenheit im Zusammenleben.
+Vor 40 Jahren fanden viele Jugendliche ihre Eltern noch spießig, und Eltern konnten sich aufregen über die
+Frisuren oder den Musikgeschmack des Nachwuchses. Heute gleichen sich die Lebensstile und die Wertvorstellungen. So entspannt ist der Umgang zwischen Jung und Alt geworden, dass man es schon wieder bedenklich
+finden kann. Ist es denn normal, dass Kinder als wichtigstes Vorbild die eigene Mutter nennen? Selbst Oma und
+Opa findet nur noch jeder fünfte Teenager altmodisch.
+Gerade Großeltern hatten noch nie zuvor für ihre Enkel eine so große Bedeutung. Dank besserer Gesundheit
+und steigender Lebenserwartung verbringen sie mehr Zeit als früher mit ihren Enkeln. Der Kontakt ist persönlicher und er hält länger an. Heute sieht rund ein Drittel der Jugendlichen Oma und Opa mindestens einmal pro
+Woche, ein weiteres Drittel telefoniert wenigstens mit ihnen.
+Mit den Lebenseinstellungen wandelten sich die Erziehungsvorstellungen. Erwachsene nehmen mehr Rücksicht
+auf die Bedürfnisse von Kindern. Statt eines autoritären Umgangs mit den Kindern pflegen die meisten Familien
+den Verhandlungsstil, wie es Pädagogen nennen. Der ist nicht selten anstrengend und wird mitunter übertrieben, ist aber am Ende zielführender als die familiären Kleinkriege, die früher das Klima in vielen Familie
+bestimmten. Besonders Väter profitieren von der neuen Nähe zu ihren Kindern. Sie spielen heute häufiger mit
+ihnen als früher oder lesen ihnen vor - auch wenn weiterhin die Mütter den Großteil der Familienarbeit leisten.
+Das führt zu Stress, da Mütter mit Kindern heute doppelt so häufig berufstätig sind wie noch vor 40 Jahren.
+Trotzdem haben sie nicht weniger Zeit für ihre Kinder, weil sie den Haushalt dank moderner Technik schneller
+erledigen. 1990 verbrachten Eltern mit ihren unter sechsjährigen Söhnen und Töchtern pro Tag vier Stunden
+und 52 Minuten. Heute ist es eine Dreiviertelstunde mehr.
+Auch der Eindruck, dass Familien sich nicht mehr täglich um den gedeckten Tisch versammeln, um sich untereinander auszutauschen, stimmt nicht, haben Ernährungsforscher ermittelt. Heute dauern die bewusst
+inszenierten Zusammentreffen von Jung und Alt um Suppenschüssel oder Nudeltopf sogar länger als noch vor
+20 Jahren.`,
     questions: [
       {
         id: 1,
-        question_text: "Die Kinderbetreuerinnen kümmern sich um",
+        question_text:
+          " Etwa die Hälfte der Senioren über 60 gibt an, dass sie ...",
         option: {
-          option_a: "Kinder, die auf dem Flughafen warten müssen.",
-          option_b: "Kinder, die im Flugzeug krank wurden.",
-          option_c: "Kinder, die ohne Eltern fliegen müssen.",
+          option_a: "ihre Kinder strenger erziehen würden",
+          option_b: "als Kind glücklich waren.",
+          option_c: "die geänderten Erziehungsmethoden begrüßen.",
+        },
+        correct_option: "B",
+      },
+      {
+        id: 2,
+        question_text: " Die meisten Jugendlichen ...",
+        option: {
+          option_a: "verstehen sich mit ihren Eltern gut.",
+          option_b: "denken, dass man auch ohne Familie glücklich sein kann.",
+          option_c: "haben keine Meinung zu Erziehungsfragen.",
         },
         correct_option: "A",
       },
       {
-        id: 2,
-        question_text:
-          "Der Flughafen Zürich-Kloten ist besonders familienfreundlich,",
-        option: {
-          option_a: "seit Alice Martin dort arbeitet.",
-          option_b: "weil die Wartezeit kürzer ist als auf anderen Flughäfen.",
-          option_c: "weil es Räume gibt, in denen Kinder spielen können.",
-        },
-        correct_option: "C",
-      },
-      {
         id: 3,
-        question_text: "Frau Alice Martin hat eine Ausbildung als",
+        question_text: " Heute gibt es zwischen Eltern und Kindern ...",
         option: {
-          option_a: "Flugbegleiterin.",
-          option_b: "Kinderschwester.",
-          option_c: "Pilotin.",
+          option_a: "kaum Unterschiede in der Lebensart.",
+          option_b: "kaum Unterschiede in der Lebensart.",
+          option_c: "immer wieder Probleme wegen zu engen Wohnraums.",
         },
         correct_option: "B",
       },
       {
         id: 4,
-        question_text: "In den Aufenthaltsräumen spielen die Kinder",
+        question_text: " Mütter haben heute mehr Zeit für ihre Kinder, weil .",
         option: {
-          option_a: "am liebsten mit 18 Betreuerinnen.",
-          option_b: "am liebsten mit Alice Martin.",
-          option_c: "auch mit Kindern anderer Kulturen und Sprachen.",
+          option_a: "sie in der Arbeit weniger Stress haben.",
+          option_b: "Geräte die Hausarbeit leichter machen.",
+          option_c: "die Großeltern ihnen Arbeit abnehmen.",
         },
-        correct_option: "C",
+        correct_option: "B",
       },
       {
         id: 5,
-        question_text: "Frau Alice Martin findet",
+        question_text: " In der Öffentlichkeit ...",
         option: {
-          option_a:
-            "die Arbeit auf dem Flughafen interessant und abwechslungsreich.",
-          option_b:
-            "die Arbeit auf dem Flughafen nicht so vielseitig wie die Arbeit im Spital.",
-          option_c:
-            "die Kontakte zu den Kindern auf dem Flughafen sehr intensiv.",
+          option_a: "wird der Wandel in der Erziehung nicht wahrgenommen.",
+          option_b: "ist das Thema Familie nicht interessant.",
+          option_c: "entsteht oft ein falsches Bild der Familie",
         },
-        correct_option: "A",
+        correct_option: "C",
       },
     ],
   },
   {
     id: 14,
-    title: "Neue Berufe",
-    text: `Raumberater für harmonisches Wohnen\n\nRäume nach der chinesischen Lehre Feng-Shui zu gestalten, damit sich die Menschen wohl fühlen – das ist der Beruf von Iris Eigenmann\n\nSeit knapp einem Jahr bin ich nun selbstständig und bin voller Energie. So stehe ich jeden Tag mit einem Lächeln auf und gehe abends wieder mit einem Lächeln ins Bett. Die diplomierte Raumberaterin Iris Eigenmann ist von ihrem Beruf sichtlich begeistert. Da viele mit dem Wort Fengshui nichts anfangen können, bezeichnet sie sich selbst als Raumberaterin für harmonisches Wohnen: Räume, aber auch Büros und andere Arbeitsplätze so einzurichten, dass sich Menschen in diesen Räumen wohl fühlen können.\n\nUrsprünglich ist Frau Eigenmann gelernte Hochbauzeichnerin und hat Jahrelang Bauprojekte geleitet. Diese Erfahrungen mit Architektur und Wohnbau helfen ihr nun sehr bei ihrer Tätigkeit als Raumberaterin. Ihre Arbeit besteht darin, den optimalen Energiefluss eines Wohn- oder Arbeitsumfeldes zu finden. Sie macht individuelle Vorschläge für die Raumanordnung, die Farbwahl der Wände oder für die Verwendung von Baumaterialien. Ich habe alle Ideen zuerst bei mir zu Hause ausprobiert und war selbst überrascht von der positiven Wirkung, erzählt sie begeistert.\n\nEine Raumberaterin arbeitet in der Regel folgendermaßen: Zuerst besprechen die Leute mit Frau Eigenmann, warum sie sich in ihrer Wohnung nicht wohl fühlen und wie sie ihren Wohnraum verbessern möchten. Dann bittet die Beraterin ihre Kunden, ihr einen genauen Plan der Wohnung zu schicken, auf dem sie die Möbelaufstellung und die genaue Ausrichtung des Hauses sehen kann. Daraufhin macht Frau Eigenmann einen detaillierten Wohnungsplan mit ausführlichen Erklärungen, wie man die Räume optimal einrichtet, um sich darin zufrieden zu fühlen. Für die Erstellung eines solchen Planes benötigt sie nach eigener Aussage je nach Größe der Wohnung oder des Gebäudes zwischen einem halben und einem ganzen Tag.\n\nAnschließend geht Iris Eigenmann zu den Leuten nach Hause, um die Situation vor Ort zu analysieren und Verbesserungsmöglichkeiten aufzuzeigen.\n\nAuch immer mehr Firmen suchen Rat bei einer Raumberaterin meistens dann, wenn das Unternehmen nicht mehr so erfolgreich arbeitet. Iris Eigenmann versucht dann, das Arbeitsumfeld so zu verändern, dass sich Kunden und Angestellte wohler fühlen. Das führt in den meisten Fällen dazu, dass auch die Geschäfte wieder besser gehen. Der Preis für die Raumberatung wird je nach Aufwand mit dem Kunden gemeinsam bestimmt. Das Geld aber ist für Frau Eigenmann weniger wichtig als die Möglichkeit, den Menschen zu helfen und ihre positiven Erfahrungen weiterzugeben.\n\nDas persönliche Ziel der Feng-Shui-Raumberaterin für die Zukunft ist es, vermehrt auch im sozialen Bereich zu wirken – zum Beispiel in Krankenhäusern oder Altersheimen. Sie meint, dass mit einfachen Maßnahmen dort die Lebensqualität der Menschen erheblich verbessert werden könnte.`,
+    title: "Der Kampf mit der Informationsflut",
+    text: `Susanna Winkler ist Gedächtnistrainerin. Seit fast 10 Jahren bietet sie nun schon Seminare an Volkshochschulen, in Altenheimen, in Banken und Industriebetrieben an, in denen die Seminarteilnehmer lernen
+sollen, wie sie Informationen besser im Gedächtnis behalten.
+Jenny Helfer ist 30 Jahre alt, Bürokauffrau und eine von Susanna Winklers Seminarteilnehmerinnen. "An
+meinen Arbeitsplatz bekomme ich ständig Massen von neuen Informationen: Texte, die zu lesen sind,
+Termine, Anrufe, Anfragen von Kunden, Kurzinfos von Kollegen - diese Informationsflut zu bewältigen und
+möglichst nichts zu vergessen, ist fast ausgeschlossen.", so Hartmann.
+Wie ihr geht es vielen Menschen in unserer Informationsgesellschaft - und das quer durch alle Altersstufen: vom Schüler bis zum Rentner. Sie fühlen sich den Anforderungen an ihr Gedächtnis nicht mehr
+gewachsen und daher besuchen sie Trainingskurse wie die von Susanna Winkler. Während jeder Sekunde,
+die Jenny Helfer im Trainingsseminar, am Arbeitsplatz oder zu Hause verbringt, nimmt sie über ihre
+"Eingangskanäle" - die Augen, die Ohren, die Nase, den Mund, die Haut - um die 2 Millionen kleinste
+Informationen bewusst auf. Jede kleinste Schwankung in der Licht- oder Farbintensität, Formen und
+Farben, Licht und Schatten, alle nur erdenklichen Geräusche von der Stimme der Seminarleiterin oder
+Kollegen bis zum draußen vorbeifahrenden Motorrad, verschiedenste Gerüche vom Schweiß bis zum
+teuren Parfüm, das Kratzen des Pullovers auf der Haut: All dies nimmt sie unbewusst wahr. Würde sie sich
+all diese Informationen bewusst merken wollen, wäre - wenn man die Sprache der Computerwelt zu Hilfe
+nimmt - innerhalb kürzester Zeit der Speicher voll.
+Damit dies nicht passiert, vergisst man fast alle Informationseinheiten innerhalb der nächsten 20 Sekunden wieder - und schafft damit Platz für neue Informationen. Erst nach etwa 20 Minuten behalten wir
+etwas auf lange Zeit. Dann haben die Nervenzellen im Gehirn eine neue Verbindung hergestellt, eine
+Synapse gebildet - und wir behalten etwas, statt es gleich wieder zu vergessen. Die Trainerin Susanne
+Winkler sagt: "Starke Sinneseindrücke, die mit Emotionen behaftet sind, behält man ebenso wie das, was
+interessant ist oder lebensnotwendig. Ein Kind, dass einmal eine heiße Herdplatte angefasst hat, vergisst
+nie mehr, was "heiß" bedeutet. Ein Hobbyastronom, dem seine Freizeitbeschäftigung großen Spaß
+bereitet, kennt im Nu alle möglichen Namen von Sternen. Und ich habe noch keinen Seminarteilnehmer
+gehabt, der sich nicht mehr daran erinnern könnte, was am 11. September 2001 in New York passiert ist."
+In unserer heutigen Informationsgesellschaft ist es wichtig, die auf uns einströmenden Informationsflut zu
+bündeln, Daten und Begriffe zu gruppieren oder an Bildern oder Gegenstände festzumachen und sich so
+"Eselsbrücken" zu bauen, die dabei helfen, mehr im Gedächtnis zu behalten.
+Jenny Helfer sortiert jetzt im Geiste alle wichtigen Informationen in bestimmte Schubladen ihres "Aktenschrankes" wie in ihrem Büro: "Ich habe mir Zahlensymbole ausgedacht, mit denen ich die neuen Informationen bildlich verknüpfe: Die 1 wird zur Kerze, die 2 zum Schwan usw. Wenn ich nun nicht vergessen
+möchte, um 2 Uhr eine bestimmte Konferenz vorzubereiten, denke ich mir meine Konferenzmappe im
+Schnabel des Schwans. Und es funktioniert: Ich vergesse viel weniger.`,
     questions: [
       {
         id: 1,
-        question_text: "Iris Eigenmann",
+        question_text: "Die Zielgruppen von Frau Winklers Seminaren besteht ",
         option: {
-          option_a:
-            "berät Kunden beim Aufstellen von Möbeln in Wohnungen und Büros.",
-          option_b: "hilft Menschen bei der richtigen Berufswahl.",
-          option_c: "zeichnet Pläne für eine große Baufirma.",
+          option_a: "überwiegend aus Senioren.",
+          option_b: "sowohl aus jungen als auch aus alten Menschen.",
+          option_c: "hauptsächlich aus berufstätigen Frauen",
+        },
+        correct_option: "B",
+      },
+      {
+        id: 2,
+        question_text:
+          " Die Teilnehmer besuchen Frau Winklers Seminar, weil sie ...",
+        option: {
+          option_a: "sich von den vielen Informationen überfordert fühlen.",
+          option_b: "sich alles bewusst merken wollen.",
+          option_c: "das Gefühl haben, dass ihr Gedächtnis nachlässt.",
         },
         correct_option: "A",
       },
       {
-        id: 2,
-        question_text: "Als Raumberaterin kümmert sich Iris Eigenmann darum,",
+        id: 3,
+        question_text: "Jeder Mensch ...",
         option: {
           option_a:
-            "dass sich Menschen in Wohn- und Arbeitsräumen wohler fühlen.",
-          option_b: "chinesische Möbel in Europa zu verkaufen.",
-          option_c: "Materialien für neue Bauprojekte zu entwickeln.",
+            "vergiss die meisten Informationen innerhalb kürzester Zeit.",
+          option_b: "kann über einen Zeitraum von 20 Minuten alles behalten.",
+          option_c: "kann sich alle erdenklichen Geräusche und Gerüche merken",
         },
-        correct_option: "C",
-      },
-      {
-        id: 3,
-        question_text: "Die Leute, die sich beraten lassen wollen,",
-        option: {
-          option_a: "besprechen mit Frau Eigenmann zuerst ihre Wünsche.",
-          option_b: "laden Frau Eigenmann zuerst in ihre Wohnung ein.",
-          option_c: "schicken Frau Eigenmann zuerst einen Plan der Wohnung.",
-        },
-        correct_option: "B",
+        correct_option: "A",
       },
       {
         id: 4,
-        question_text: "Die Firmenkunden von Frau Eigenmann",
+        question_text: "Besonders gut kann man sich",
         option: {
-          option_a: "bezahlen besonders wenig für die Beratung.",
-          option_b: "sind meist erfolgreiche Unternehmen.",
-          option_c: "wollen auch ihre wirtschaftliche Lage verbessern.",
-        },
-        correct_option: "C",
-      },
-      {
-        id: 5,
-        question_text: "Frau Eigenmann möchte in Zukunft",
-        option: {
-          option_a: "als Krankenschwester arbeiten.",
-          option_b:
-            "mit ihrer Arbeit das Leben alter und kranker Menschen verbessern.",
-          option_c: "viel Geld verdienen.",
-        },
-        correct_option: "B",
-      },
-    ],
-  },
-  {
-    id: 15,
-    title: "Abenteuer Weltumrundung",
-    text: `Co₂-Ausstoß: null. Geplante Strecke: einmal um die Welt. Endlich wird der Traum von Louis Palmer wahr: Der Schweizer startet mit seinem Auto, das mit Sonnenenergie fährt, zur Weltumrundung. Er will damit zeigen, dass Autofahren auch geht, ohne der Umwelt zu schaden.\n\n"Entwickelt für mich ein Fahrzeug für eine Weltreise, das mit Sonnenenergie fährt," forderte Louis Palmer Studenten an Schweizer Universitäten auf. Das war vor drei Jahren. Heute ist das Auto fertig: ein dreirädriges Fahrzeug mit zwei Sitzplätzen. Und die Weltreise? Am 3. Juli starten er und sein 7-köpfiges Team in Luzern: Das Auto soll als erstes Solarfahrzeug die Welt umrunden.\n\nDie ganze Welt wartet auf revolutionäre Erfindungen für ein umweltbewusstes Auto, sagt der Schweizer. "Ich will darauf aufmerksam machen, dass die technischen Lösungen schon jetzt vorhanden sind." Mit 14 Jahren hatte Louis den Entschluss gefasst: Gegen die Veränderung des Klimas muss etwas getan werden. Die Lösung hatte er auch schon: Mit kräftigen Strichen zeichnete er ein Rennauto, verziert mit lachenden Sonnen. Der Rest war nur eine Frage der Organisation und der konsequenten Lebensplanung. "Ich unterteile mein Leben in drei Phasen," sagt Palmer und lacht über sich selbst: zwischen 20 und 30 die Welt kennenlernen, zwischen 30 und 40 die Welt aufmerksam machen und zwischen 40 und 50 die Welt verändern.\n\nPhase eins begann mit 23 Jahren: Er zog aus, um 50 Länder auf allen Kontinenten zu bereisen. "Anstatt an die Uni zu gehen, habe ich die Welt studiert." Mit dem Fahrrad fuhr er von Kenia nach Kapstadt, mit einem Segelflugzeug überflog er Südamerika und als Fotograf reiste er mehrmals nach Afghanistan.\n\nPhase zwei startete vor drei Jahren: Palmer konnte Studenten von vier Universitäten gewinnen, die für ihn das Auto bauten. Schwierig war es aber, Firmen und private Sponsoren für die finanzielle Unterstützung zu finden, meint Palmer. Doch auch das hat dann schließlich geklappt.\n\nNun ist Palmer bereit für die Tour. "Ich habe keine Ahnung, was auf uns zukommt," sagt der erfahrene Globetrotter, der sechs Sprachen spricht. "Ich habe schon etwas Angst, z.B. vor dem Straßenverkehr in Millionenstädten oder unvorhersehbaren Zwischenfällen. Das Schlimmste ist aber, wenn jeder Tag wie der andere ist." In den nächsten 16 Monaten wird es dazu nicht kommen.`,
-    questions: [
-      {
-        id: 1,
-        question_text: "Mit 23 Jahren wollte Louis Palmer",
-        option: {
-          option_a: "für Studenten Reisen nach Südamerika organisieren.",
-          option_b: "mit dem Fahrrad durch 50 verschiedene Länder fahren.",
-          option_c: "viele verschiedene Länder kennen lernen.",
-        },
-        correct_option: "C",
-      },
-      {
-        id: 2,
-        question_text: "Sein Projekt konnte Palmer realisieren",
-        option: {
-          option_a: "weil er einen Preis von einer Universität gewonnen hat.",
-          option_b:
-            "weil er finanzielle Unterstützung von vier Universitäten erhalten hat.",
-          option_c: "weil ihn Firmen und Universitäten unterstützt haben.",
-        },
-        correct_option: "C",
-      },
-      {
-        id: 3,
-        question_text: "Schon als Jugendlicher",
-        option: {
-          option_a: "baute Louis an einem umweltfreundlichen Auto.",
-          option_b: "wollte Louis etwas für die Umwelt tun.",
-          option_c: "wusste Louis genau, wie er sein Leben einteilen will.",
-        },
-        correct_option: "B",
-      },
-      {
-        id: 4,
-        question_text: "Palmers Auto",
-        option: {
-          option_a: "fährt mit alternativer Energie.",
-          option_b: "geht auf eine dreijährige Weltreise.",
-          option_c: "hat genug Platz für sieben Personen.",
+          option_a: "intensive Gefühle merken.",
+          option_b: "an Daten und Begriffe erinnern",
+          option_c: "als Kind etwas merken.",
         },
         correct_option: "A",
       },
       {
         id: 5,
-        question_text: "Louis Palmer",
+        question_text: "Jenny Helfer ...",
         option: {
-          option_a: "hat für die Weltreise sechs Sprachen gelernt.",
-          option_b: "möchte mit seinem Auto nicht durch Großstädte fahren.",
-          option_c: "wird sich in nächster Zeit nicht langweilen.",
+          option_a: "verwendet für ihre Aktenablage nur Tiersymbole.",
+          option_b: "verbindet Informationen mit Bildern.",
+          option_c: "lehrt andere, wie man sich 'Eselsbrücken' ausdenkt",
         },
-        correct_option: "C",
+        correct_option: "B",
       },
     ],
   },
